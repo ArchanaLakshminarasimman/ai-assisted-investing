@@ -54,6 +54,7 @@ def load_sentence_transformer_model(
     while still allowing an explicit first-time download when needed.
     """
     try:
+        # Try the local cache first so routine runs stay offline-friendly.
         return SentenceTransformer(model_name, local_files_only=True)
     except Exception as local_error:
         if not allow_download:
@@ -140,6 +141,7 @@ def build_and_save_index(
     metadata = []
     stored_documents = []
 
+    # Keep a stable id so search results can point back to the saved payload.
     for document_id, document in enumerate(documents):
         document_metadata = {
             "document_id": document_id,
@@ -165,6 +167,7 @@ def build_and_save_index(
     index_path = Path(index_dir)
     index_path.mkdir(parents=True, exist_ok=True)
 
+    # Save the whole bundle together so retrieval can boot from disk later.
     faiss.write_index(index, str(index_path / FAISS_INDEX_FILE))
     save_json(index_path / METADATA_FILE, metadata)
     save_json(index_path / DOCUMENTS_FILE, stored_documents)

@@ -33,6 +33,7 @@ def retrieve_documents(
     query_vector = vectorizer.transform([query])
     similarity_scores = cosine_similarity(query_vector, document_vectors).ravel()
 
+    # Sort highest scores first so the strongest matches rise to the top.
     top_indexes = similarity_scores.argsort()[::-1][:top_k]
 
     results = []
@@ -73,6 +74,7 @@ def main() -> None:
     documents = load_rag_documents("data")
     vectorizer, document_vectors = build_retrieval_index(documents)
 
+    # A small mixed set makes it easy to spot obvious retrieval misses.
     test_queries = [
         "AI growth in Microsoft cloud business",
         "Apple services revenue and margins",

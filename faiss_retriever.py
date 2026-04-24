@@ -47,6 +47,7 @@ class FAISSRetriever:
         self.documents_path = self.index_dir / DOCUMENTS_FILE
         self.index_info_path = self.index_dir / INDEX_INFO_FILE
 
+        # Fail early if the saved retrieval bundle is incomplete.
         self._validate_index_files()
 
         self.index_info = load_json(self.index_info_path)
@@ -60,6 +61,7 @@ class FAISSRetriever:
         self.index = faiss.read_index(str(self.index_path))
         self.documents = load_json(self.documents_path)
 
+        # The vectors and stored documents should always stay in sync.
         if self.index.ntotal != len(self.documents):
             raise ValueError(
                 "FAISS index size does not match saved documents: "
@@ -113,6 +115,7 @@ class FAISSRetriever:
 
         results = []
         for rank, (score, index) in enumerate(zip(scores[0], indexes[0]), start=1):
+            # FAISS pads with -1 when there are fewer real matches than requested.
             if index == -1:
                 continue
 

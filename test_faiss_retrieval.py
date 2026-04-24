@@ -36,6 +36,7 @@ def main() -> None:
 
     print(f"Loaded FAISS index with {retriever.index.ntotal} documents")
 
+    # These queries give us a quick sanity check across a few sectors.
     for query in TEST_QUERIES:
         results = retriever.search(query, top_k=3)
         print_results(query, results)

@@ -34,6 +34,7 @@ def load_json_files(data_dir: str | Path = "data") -> list[dict[str, Any]]:
 
     json_records: list[dict[str, Any]] = []
 
+    # Each ticker folder becomes a small batch of source documents.
     for json_file in sorted(data_path.glob("*/*.json")):
         with json_file.open("r", encoding="utf-8") as file:
             record = json.load(file)
@@ -67,6 +68,7 @@ def json_to_rag_document(record: dict[str, Any]) -> RAGDocument:
         file_path = record.get("_file_path", "unknown file")
         raise ValueError(f"{file_path} is missing fields: {missing_fields}")
 
+    # This text block is what the retriever will actually index and search.
     text = (
         f"Title: {record['title']}\n"
         f"Company: {record['company']} ({record['ticker']})\n"
@@ -76,6 +78,7 @@ def json_to_rag_document(record: dict[str, Any]) -> RAGDocument:
         f"{record['text']}"
     )
 
+    # Metadata stays lightweight so results are easy to trace back later.
     metadata = {
         "ticker": record["ticker"],
         "company": record["company"],
