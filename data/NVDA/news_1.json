@@ -1,0 +1,10 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier",
+  "date": "2026-03-16",
+  "source_url": "https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+  "text": "NVIDIA announced the Vera Rubin platform at GTC 2026, describing it as a new platform for agentic AI and large AI factories. The platform includes Vera Rubin NVL72 GPU racks, Vera CPU racks, NVIDIA Groq 3 LPX inference accelerator racks, BlueField-4 STX storage racks, and Spectrum-6 SPX Ethernet racks. NVIDIA said seven new chips are in full production and are designed to work together as one AI supercomputer for pretraining, post-training, test-time scaling, and real-time agentic inference. The Vera Rubin NVL72 rack integrates 72 Rubin GPUs and 36 Vera CPUs and is designed to train large mixture-of-experts models with fewer GPUs than Blackwell while improving inference throughput per watt and cost per token. NVIDIA also said Vera Rubin-based products will be available from partners starting in the second half of 2026, including major cloud providers and system makers. This news supports the investment thesis that NVIDIA is extending its product roadmap beyond Blackwell and trying to defend leadership in AI infrastructure."
+}

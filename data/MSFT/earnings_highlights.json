@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "sector": "Technology",
+  "doc_type": "earnings_highlights",
+  "title": "Microsoft FY26 Q2 Earnings Highlights",
+  "date": "2026-01-28",
+  "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast",
+  "text": "Microsoft reported strong fiscal second quarter 2026 results for the quarter ended December 31, 2025. Revenue was $81.3 billion, up 17% year over year, and operating income was $38.3 billion, up 21%. GAAP net income was $38.5 billion, up 60%, while non-GAAP net income was $30.9 billion, up 23%, excluding the impact from investments in OpenAI. GAAP diluted EPS was $5.16, and non-GAAP diluted EPS was $4.14. Microsoft Cloud revenue reached $51.5 billion, up 26%, and commercial remaining performance obligation increased 110% to $625 billion. Productivity and Business Processes revenue was $34.1 billion, up 16%, supported by Microsoft 365 Commercial cloud, Microsoft 365 Consumer cloud, LinkedIn, and Dynamics 365. Intelligent Cloud revenue was $32.9 billion, up 29%, with Azure and other cloud services revenue up 39%. More Personal Computing revenue was $14.3 billion, down 3%, as weakness in Xbox content and services offset growth in Windows OEM and search advertising. The quarter is useful RAG evidence because it shows Microsoft combining cloud scale, AI demand, enterprise software, and OpenAI-related upside."
+}

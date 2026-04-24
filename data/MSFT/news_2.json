@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "Stellantis Expands AI and Cloud Collaboration With Microsoft",
+  "date": "2026-04-16",
+  "source_url": "https://news.microsoft.com/source/2026/04/16/stellantis-accelerates-ai-led-strategy-and-digital-transformation-through-strategic-collaboration-with-microsoft-to-enhance-customer-experiences/",
+  "text": "Stellantis and Microsoft announced a five-year strategic collaboration to accelerate Stellantis' digital transformation through AI, cybersecurity, engineering, and cloud modernization. The companies plan to co-develop more than 100 AI initiatives across customer care, product development, and operations, including AI-powered product development and validation, predictive maintenance and testing, and faster deployment of new digital features. Stellantis also plans to use Microsoft technology for an AI-driven global cyberdefense center spanning IT systems, connected vehicles, manufacturing sites, and digital products. The collaboration includes Azure modernization with a targeted 60% reduction in Stellantis' datacenter footprint by 2029, plus workforce AI adoption through Copilot Chat and an initial rollout of 20,000 Microsoft 365 Copilot licenses. This news is useful RAG evidence because it shows Microsoft selling AI, Azure, security, and Copilot into a large global enterprise customer, supporting the thesis that cloud and AI demand can drive commercial growth."
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "GS",
+  "company": "Goldman Sachs",
+  "sector": "Finance",
+  "doc_type": "financial_summary",
+  "title": "Goldman Sachs Financial Summary From 2025 Form 10-K",
+  "date": "2026-02-25",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+  "text": "Goldman Sachs generated net earnings of $17.18 billion in 2025, compared with $14.28 billion in 2024. Diluted EPS was $51.32, return on average common shareholders' equity was 15.0%, and book value per common share increased 6.2% to $357.60. Net revenues were $58.28 billion, up 9% year over year, reflecting higher revenues in Global Banking & Markets, partly offset by significantly lower revenue in Platform Solutions. Investment banking revenue increased because of stronger advisory activity and higher debt and equity underwriting. Investment management revenue rose 11%, supported by higher management and other fees from higher average assets under supervision. The firm also continued to focus on more durable revenues, asset and wealth management growth, and risk discipline. Key risks include market volatility, credit exposure, liquidity risk, regulatory requirements, litigation, operational risk, cybersecurity, geopolitical uncertainty, and sensitivity to client activity in capital markets."
+}

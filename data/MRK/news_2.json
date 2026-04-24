@@ -1,0 +1,10 @@
+{
+  "ticker": "MRK",
+  "company": "Merck",
+  "sector": "Healthcare",
+  "doc_type": "news",
+  "title": "Merck Completes Acquisition of Cidara Therapeutics",
+  "date": "2026-01-07",
+  "source_url": "https://www.merck.com/news/merck-to-complete-acquisition-of-cidara-therapeutics/",
+  "text": "Merck completed its acquisition of Cidara Therapeutics in January 2026. The transaction adds CD388, a potentially first-in-class, long-acting antiviral candidate with strain-agnostic properties being evaluated for prevention of symptomatic influenza in certain individuals at high risk of complications. Merck described the deal as part of its science-led business development strategy and said the acquisition strengthens and complements its expanding respiratory portfolio. This news is useful for RAG explanations because Merck faces a long-term need to diversify beyond KEYTRUDA and offset pressure from patent expirations, vaccine demand changes, and competition. Adding a late-stage antiviral candidate gives Merck another possible growth path in infectious disease and respiratory prevention, though the value depends on clinical development, regulatory approval, commercial uptake, and successful integration."
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "Apple Introduces MacBook Pro With M5 Pro and M5 Max",
+  "date": "2026-03-03",
+  "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+  "text": "Apple introduced new MacBook Pro models using the M5 Pro and M5 Max chips, emphasizing faster CPU and GPU performance, stronger on-device AI capabilities, faster SSD performance, and support for demanding professional workflows. The announcement is relevant because Apple designs its own chips and uses silicon performance as a competitive advantage across its hardware ecosystem. The new MacBook Pro targets developers, researchers, engineers, creative professionals, and business users who need high-performance laptops. Apple highlighted improvements for AI workflows, graphics, large language model processing, and professional applications. This supports the view that Apple is continuing to invest in premium hardware differentiation and on-device AI, both of which can help sustain customer loyalty and high-end product demand."
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "GOOGL",
+  "company": "Alphabet",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "DOJ Wins Search Remedies Against Google",
+  "date": "2025-09-02",
+  "source_url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+  "text": "The U.S. Department of Justice announced remedies in its monopolization case against Google related to online search and search advertising. The court prohibited Google from entering or maintaining exclusive contracts related to the distribution of Google Search, Chrome, Google Assistant, and the Gemini app. The ruling also required Google to make certain search index and user-interaction data available to qualified competitors and to offer certain search and search text ads syndication services. This is important risk context for Alphabet because Google Search is one of the company's most profitable businesses and a major driver of advertising revenue. Although Alphabet continues to generate strong earnings, antitrust remedies could affect default search distribution, data access, competitive dynamics, and long-term monetization. For RAG explanations, this document provides balanced evidence by showing that Alphabet's strong business performance comes with meaningful regulatory pressure."
+}

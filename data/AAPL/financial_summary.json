@@ -1,0 +1,10 @@
+{
+  "ticker": "AAPL",
+  "company": "Apple",
+  "sector": "Technology",
+  "doc_type": "financial_summary",
+  "title": "Apple Financial Summary From Q1 2026 Form 10-Q",
+  "date": "2026-01-30",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm",
+  "text": "Apple's Q1 2026 Form 10-Q showed strong profitability and cash generation. For the quarter ended December 27, 2025, Apple reported net income of about $42.1 billion. Total gross margin was 48.2%, up from 46.9% in the comparable prior-year quarter. Product gross margin was 40.7%, while Services gross margin was much higher at 76.5%, showing why services are strategically important to Apple's profit mix. The filing noted that Services net sales increased primarily because of higher sales from advertising, the App Store, and cloud services. Apple also continued its capital return program, repurchasing $25.0 billion of common stock and paying $3.9 billion in dividends and dividend equivalents during the quarter. Overall, the financial summary points to high margins, strong cash flow, and a business model supported by both device sales and recurring services revenue."
+}

@@ -1,0 +1,1127 @@
+[
+  {
+    "document_id": 0,
+    "text": "Title: Apple Fiscal Q1 2026 Earnings Highlights\nCompany: Apple (AAPL)\nSector: Technology\nDocument type: earnings_highlights\nDate: 2026-01-29\n\nApple reported record fiscal first-quarter results for the period ended December 27, 2025. Quarterly revenue was $143.8 billion, up 16% year over year, and diluted earnings per share were $2.84, up 19% year over year. The quarter was supported by record total company revenue and record earnings per share. Apple said iPhone revenue reached an all-time high, helped by strong customer demand, and Services revenue also reached an all-time high with 14% year-over-year growth. Management highlighted that Apple's installed base exceeded 2.5 billion active devices, which supports future services and ecosystem revenue. Apple generated nearly $54 billion in operating cash flow and returned almost $32 billion to shareholders through dividends and share repurchases. These results show strong product demand, services momentum, and continued shareholder returns.",
+    "metadata": {
+      "document_id": 0,
+      "ticker": "AAPL",
+      "company": "Apple",
+      "sector": "Technology",
+      "doc_type": "earnings_highlights",
+      "title": "Apple Fiscal Q1 2026 Earnings Highlights",
+      "date": "2026-01-29",
+      "source_url": "https://www.apple.com/newsroom/2026/01/apple-reports-first-quarter-results/",
+      "file_path": "data/AAPL/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 1,
+    "text": "Title: Apple Financial Summary From Q1 2026 Form 10-Q\nCompany: Apple (AAPL)\nSector: Technology\nDocument type: financial_summary\nDate: 2026-01-30\n\nApple's Q1 2026 Form 10-Q showed strong profitability and cash generation. For the quarter ended December 27, 2025, Apple reported net income of about $42.1 billion. Total gross margin was 48.2%, up from 46.9% in the comparable prior-year quarter. Product gross margin was 40.7%, while Services gross margin was much higher at 76.5%, showing why services are strategically important to Apple's profit mix. The filing noted that Services net sales increased primarily because of higher sales from advertising, the App Store, and cloud services. Apple also continued its capital return program, repurchasing $25.0 billion of common stock and paying $3.9 billion in dividends and dividend equivalents during the quarter. Overall, the financial summary points to high margins, strong cash flow, and a business model supported by both device sales and recurring services revenue.",
+    "metadata": {
+      "document_id": 1,
+      "ticker": "AAPL",
+      "company": "Apple",
+      "sector": "Technology",
+      "doc_type": "financial_summary",
+      "title": "Apple Financial Summary From Q1 2026 Form 10-Q",
+      "date": "2026-01-30",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm",
+      "file_path": "data/AAPL/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 2,
+    "text": "Title: Apple Introduces iPhone 17e\nCompany: Apple (AAPL)\nSector: Technology\nDocument type: news\nDate: 2026-03-02\n\nApple introduced the iPhone 17e as a more affordable member of the iPhone 17 family. The device includes the A19 chip, Apple's C1X cellular modem, a 48MP Fusion camera, improved durability, MagSafe support, and 256GB of starting storage. The launch matters for Apple's investment story because the iPhone remains a major revenue driver and an important entry point into the Apple ecosystem. A lower-priced model can help Apple reach customers who want newer performance and features without buying the most expensive iPhone models. By combining hardware upgrades with access to services such as iCloud, Apple Music, Apple TV, Apple Pay, and the App Store, the iPhone 17e can support both device sales and future recurring services revenue.",
+    "metadata": {
+      "document_id": 2,
+      "ticker": "AAPL",
+      "company": "Apple",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Apple Introduces iPhone 17e",
+      "date": "2026-03-02",
+      "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-iphone-17e/",
+      "file_path": "data/AAPL/news_1.json"
+    }
+  },
+  {
+    "document_id": 3,
+    "text": "Title: Apple Introduces MacBook Pro With M5 Pro and M5 Max\nCompany: Apple (AAPL)\nSector: Technology\nDocument type: news\nDate: 2026-03-03\n\nApple introduced new MacBook Pro models using the M5 Pro and M5 Max chips, emphasizing faster CPU and GPU performance, stronger on-device AI capabilities, faster SSD performance, and support for demanding professional workflows. The announcement is relevant because Apple designs its own chips and uses silicon performance as a competitive advantage across its hardware ecosystem. The new MacBook Pro targets developers, researchers, engineers, creative professionals, and business users who need high-performance laptops. Apple highlighted improvements for AI workflows, graphics, large language model processing, and professional applications. This supports the view that Apple is continuing to invest in premium hardware differentiation and on-device AI, both of which can help sustain customer loyalty and high-end product demand.",
+    "metadata": {
+      "document_id": 3,
+      "ticker": "AAPL",
+      "company": "Apple",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Apple Introduces MacBook Pro With M5 Pro and M5 Max",
+      "date": "2026-03-03",
+      "source_url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
+      "file_path": "data/AAPL/news_2.json"
+    }
+  },
+  {
+    "document_id": 4,
+    "text": "Title: Apple Company Overview\nCompany: Apple (AAPL)\nSector: Technology\nDocument type: overview\nDate: 2026-04-18\n\nApple Inc. is a technology company best known for designing, manufacturing, and selling consumer electronics, software, and digital services. Its major hardware products include the iPhone, Mac, iPad, Apple Watch, AirPods, Apple TV, and Apple Vision Pro. Apple also earns revenue from services such as the App Store, Apple Music, Apple TV, Apple Pay, iCloud, AppleCare, advertising, and other subscription-based offerings. The company's business model depends on a tightly connected ecosystem of devices, software platforms, and services that encourages customer loyalty and repeat purchases. Apple sells through its own retail and online stores, direct sales teams, wireless carriers, resellers, and third-party retailers. For investment analysis, Apple is important because it combines large-scale hardware sales with a growing high-margin services business.",
+    "metadata": {
+      "document_id": 4,
+      "ticker": "AAPL",
+      "company": "Apple",
+      "sector": "Technology",
+      "doc_type": "overview",
+      "title": "Apple Company Overview",
+      "date": "2026-04-18",
+      "source_url": "https://finance.yahoo.com/quote/AAPL/profile/",
+      "file_path": "data/AAPL/overview.json"
+    }
+  },
+  {
+    "document_id": 5,
+    "text": "Title: AbbVie Full-Year and Fourth-Quarter 2025 Earnings Highlights\nCompany: AbbVie (ABBV)\nSector: Healthcare\nDocument type: earnings_highlights\nDate: 2026-02-04\n\nAbbVie reported full-year 2025 net revenues of $61.160 billion, up 8.6% on a reported basis, and fourth-quarter net revenues of $16.618 billion, up 10.0% year over year. Adjusted diluted EPS for the fourth quarter was $2.71, while full-year adjusted diluted EPS was $10.00. The strongest growth came from immunology and neuroscience. In the fourth quarter, immunology revenue rose 18.3%, led by Skyrizi revenue of $5.006 billion, up 32.5%, and Rinvoq revenue of $2.374 billion, up 29.5%. Humira revenue declined 25.9% because of biosimilar competition, showing the continuing transition away from AbbVie's older blockbuster drug. Neuroscience revenue increased 17.9%, supported by Vraylar, Botox Therapeutic, Ubrelvy, and Qulipta. AbbVie also issued 2026 adjusted diluted EPS guidance of $14.37 to $14.57, pointing to expected growth in the next year.",
+    "metadata": {
+      "document_id": 5,
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "sector": "Healthcare",
+      "doc_type": "earnings_highlights",
+      "title": "AbbVie Full-Year and Fourth-Quarter 2025 Earnings Highlights",
+      "date": "2026-02-04",
+      "source_url": "https://news.abbvie.com/2026-02-04-AbbVie-Reports-Full-Year-and-Fourth-Quarter-2025-Financial-Results",
+      "file_path": "data/ABBV/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 6,
+    "text": "Title: AbbVie Financial Summary From 2025 Form 10-K\nCompany: AbbVie (ABBV)\nSector: Healthcare\nDocument type: financial_summary\nDate: 2026-02-20\n\nAbbVie's 2025 Form 10-K reported worldwide net revenues of $61.2 billion, operating earnings of $15.1 billion, diluted EPS of $2.36, and cash flows from operations of $19.0 billion. Worldwide net revenues increased about 9% on both a reported and constant-currency basis. The company continued to invest in its pipeline and on-market brands while returning value to shareholders. AbbVie's 2025 results included significant costs related to intangible asset amortization, changes in the fair value of contingent consideration liabilities, intangible asset impairment, and acquisition and integration expenses. The financial picture shows a large, cash-generating pharmaceutical company with strong revenue growth but also meaningful accounting expenses tied to acquisitions and intangible assets. Key risks include patent/exclusivity pressure, especially the post-Humira transition, regulatory changes, government pricing pressure, and execution risk in drug development.",
+    "metadata": {
+      "document_id": 6,
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "sector": "Healthcare",
+      "doc_type": "financial_summary",
+      "title": "AbbVie Financial Summary From 2025 Form 10-K",
+      "date": "2026-02-20",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+      "file_path": "data/ABBV/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 7,
+    "text": "Title: AbbVie Submits Rinvoq Applications for Vitiligo\nCompany: AbbVie (ABBV)\nSector: Healthcare\nDocument type: news\nDate: 2026-02-03\n\nAbbVie submitted applications to the FDA and EMA for a new Rinvoq indication in adult and adolescent patients with non-segmental vitiligo. The submissions were supported by Phase 3 Viti-Up study data in which upadacitinib met co-primary endpoints for total body and facial re-pigmentation at week 48. If approved, Rinvoq could become the first systemic medication for vitiligo, a chronic autoimmune disease with limited systemic treatment options. This news is important for AbbVie's investment story because Rinvoq is one of the company's key growth products as Humira declines after biosimilar competition. A successful label expansion would broaden Rinvoq's addressable market and support AbbVie's strategy of growing newer immunology medicines across multiple immune-mediated diseases.",
+    "metadata": {
+      "document_id": 7,
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "AbbVie Submits Rinvoq Applications for Vitiligo",
+      "date": "2026-02-03",
+      "source_url": "https://news.abbvie.com/2026-02-03-AbbVie-Submits-Regulatory-Applications-to-FDA-and-EMA-for-Upadacitinib-RINVOQ-R-in-Adults-and-Adolescents-With-Vitiligo",
+      "file_path": "data/ABBV/news_1.json"
+    }
+  },
+  {
+    "document_id": 8,
+    "text": "Title: AbbVie Highlights Dermatology Data at 2026 AAD Annual Meeting\nCompany: AbbVie (ABBV)\nSector: Healthcare\nDocument type: news\nDate: 2026-03-27\n\nAbbVie announced new clinical and real-world evidence across its dermatology portfolio for presentation at the 2026 American Academy of Dermatology Annual Meeting. The data included evidence for risankizumab in psoriatic disease and upadacitinib in atopic dermatitis, vitiligo, and alopecia areata. AbbVie said it would present 24 abstracts, including late-breaking data, highlighting durable treatment responses, long-term safety, quality-of-life improvement, and disease control in immune-mediated skin diseases. This supports AbbVie's broader immunology strategy by reinforcing the role of Skyrizi and Rinvoq as important growth products. The news is relevant evidence for RAG explanations because it connects AbbVie's recent growth to pipeline expansion, additional indications, and clinical data that may help offset Humira's declining sales.",
+    "metadata": {
+      "document_id": 8,
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "AbbVie Highlights Dermatology Data at 2026 AAD Annual Meeting",
+      "date": "2026-03-27",
+      "source_url": "https://news.abbvie.com/2026-03-27-AbbVie-to-Highlight-New-Clinical-and-Real-World-Evidence-Advancing-Standards-of-Care-in-Immune-Mediated-Skin-Diseases-at-the-2026-AAD-Annual-Meeting",
+      "file_path": "data/ABBV/news_2.json"
+    }
+  },
+  {
+    "document_id": 9,
+    "text": "Title: AbbVie Company Overview\nCompany: AbbVie (ABBV)\nSector: Healthcare\nDocument type: overview\nDate: 2026-04-19\n\nAbbVie Inc. is a research-based biopharmaceutical company that develops, manufactures, and commercializes medicines worldwide. The company operates across several major therapeutic areas, including immunology, oncology, neuroscience, eye care, aesthetics, and other specialty medicines. Key products include Skyrizi and Rinvoq in immunology, Imbruvica, Venclexta, Elahere, Epkinly, and Emrelis in oncology, Vraylar, Ubrelvy, Qulipta, Vyalev, and Botox Therapeutic in neuroscience, and Botox Cosmetic and Juvederm in aesthetics. AbbVie was created in 2012 after separating from Abbott Laboratories and is headquartered in North Chicago, Illinois. For investment analysis, AbbVie is important because it is transitioning away from reliance on Humira after biosimilar competition while building growth around newer medicines such as Skyrizi and Rinvoq.",
+    "metadata": {
+      "document_id": 9,
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "sector": "Healthcare",
+      "doc_type": "overview",
+      "title": "AbbVie Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://stockanalysis.com/stocks/abbv/company/",
+      "file_path": "data/ABBV/overview.json"
+    }
+  },
+  {
+    "document_id": 10,
+    "text": "Title: Bank of America Q1 2026 Earnings Highlights\nCompany: Bank of America (BAC)\nSector: Finance\nDocument type: earnings_highlights\nDate: 2026-04-15\n\nBank of America reported first-quarter 2026 net income of $8.6 billion, up 17% from the year-ago quarter, and diluted EPS of $1.11, up 25%. Revenue, net of interest expense, rose 7% year over year to $30.3 billion, supported by higher net interest income, sales and trading revenue, asset management fees, and investment banking fees. Net interest income increased 9% to $15.7 billion, helped by market activity, higher deposit and loan balances, and fixed-rate asset repricing. Consumer Banking generated $3.1 billion of net income and $11.0 billion of revenue, while Global Wealth and Investment Management generated $1.3 billion of net income and $6.7 billion of revenue. Global Markets net income was $2.0 billion, with sales and trading revenue of $6.4 billion, including a 30% increase in equities revenue. The company returned $9.3 billion to shareholders through dividends and repurchases and reported a CET1 ratio of 11.2%.",
+    "metadata": {
+      "document_id": 10,
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "sector": "Finance",
+      "doc_type": "earnings_highlights",
+      "title": "Bank of America Q1 2026 Earnings Highlights",
+      "date": "2026-04-15",
+      "source_url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000222/bac03312026ex991.htm",
+      "file_path": "data/BAC/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 11,
+    "text": "Title: Bank of America Financial Summary From 2025 Form 10-K\nCompany: Bank of America (BAC)\nSector: Finance\nDocument type: financial_summary\nDate: 2026-02-25\n\nBank of America's 2025 Form 10-K reported total revenue, net of interest expense, of $113.1 billion, compared with $105.9 billion in 2024. Net interest income was $60.1 billion, while noninterest income was $53.0 billion. Net income was $30.5 billion, or $3.81 per diluted share, compared with $27.0 billion, or $3.19 per diluted share, in 2024. At December 31, 2025, total assets were about $3.4 trillion, up $150.4 billion from the prior year, mainly due to higher loans and leases, trading account assets, and securities financing activity. Deposits were $2.02 trillion, up from $1.97 trillion at year-end 2024, and loans and leases increased by $89.9 billion. The company also repurchased $21.4 billion of common stock and paid $8.1 billion of common dividends during 2025. Main risks include credit quality, interest rates, regulation, cybersecurity, geopolitical uncertainty, and macroeconomic pressure.",
+    "metadata": {
+      "document_id": 11,
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "sector": "Finance",
+      "doc_type": "financial_summary",
+      "title": "Bank of America Financial Summary From 2025 Form 10-K",
+      "date": "2026-02-25",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm",
+      "file_path": "data/BAC/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 12,
+    "text": "Title: Bank of America AI and Digital Innovations Drive Client Engagement\nCompany: Bank of America (BAC)\nSector: Finance\nDocument type: news\nDate: 2026-03-10\n\nBank of America reported that AI and digital banking tools helped drive about 30 billion client interactions in the prior year, including digital logins and proactive alerts. Digital logins reached 16.6 billion, and alerts reached 13.3 billion. The bank said 81% of consumer and small business households, 86% of wealth management clients, and 86% of global banking clients were digitally engaged. Erica, the bank's AI-powered virtual financial assistant, reached more than 3.2 billion total interactions since launch, with 20.6 million users interacting with Erica nearly 700 million times in the prior year. Zelle adoption reached 25 million active users, with users sending and receiving 1.8 billion transactions worth $556 billion in 2025. This news supports Bank of America's investment story because digital engagement can deepen customer relationships, improve convenience, support payments growth, and create operational efficiencies.",
+    "metadata": {
+      "document_id": 12,
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Bank of America AI and Digital Innovations Drive Client Engagement",
+      "date": "2026-03-10",
+      "source_url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/03/bofa-ai-and-digital-innovations-fuel-30-billion-client-interacti.html",
+      "file_path": "data/BAC/news_1.json"
+    }
+  },
+  {
+    "document_id": 13,
+    "text": "Title: Merrill and Bank of America Private Bank Launch AI-Powered Meeting Journey\nCompany: Bank of America (BAC)\nSector: Finance\nDocument type: news\nDate: 2026-03-26\n\nMerrill Wealth Management and Bank of America Private Bank launched AI-Powered Meeting Journey, a workflow tool designed to help financial advisors prepare for, conduct, and follow up on client meetings. The system supports meeting preparation, client insights, meeting summaries, and action items. Bank of America said the tool can save advisors up to four hours per meeting across millions of meetings annually. This is relevant for BAC because wealth management is a major earnings contributor, and advisor productivity can help deepen client relationships, improve service quality, and support asset gathering. The announcement also shows how Bank of America is applying AI to practical internal workflows rather than only customer-facing digital tools. For RAG explanations, this news connects BAC's strategy to technology investment, wealth management growth, and efficiency improvement.",
+    "metadata": {
+      "document_id": 13,
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Merrill and Bank of America Private Bank Launch AI-Powered Meeting Journey",
+      "date": "2026-03-26",
+      "source_url": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2026/03/merrill-and-bank-of-america-private-bank-launch-ai-powered-meeti.html",
+      "file_path": "data/BAC/news_2.json"
+    }
+  },
+  {
+    "document_id": 14,
+    "text": "Title: Bank of America Company Overview\nCompany: Bank of America (BAC)\nSector: Finance\nDocument type: overview\nDate: 2026-04-19\n\nBank of America Corporation is one of the world's largest financial institutions. The company serves individual consumers, small and middle-market businesses, large corporations, governments, institutions, and investors. Its main business areas include Consumer Banking, Global Wealth and Investment Management, Global Banking, and Global Markets. Bank of America provides checking and savings products, credit cards, mortgages, auto loans, commercial lending, treasury services, wealth management, investment banking, trading, asset management, and financial risk management products. The company has a large U.S. retail banking network and a major digital banking platform, with tens of millions of verified digital users. For investment analysis, Bank of America is important because its earnings are influenced by interest rates, deposit balances, loan growth, credit quality, consumer spending, wealth management activity, investment banking, and trading revenue.",
+    "metadata": {
+      "document_id": 14,
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "sector": "Finance",
+      "doc_type": "overview",
+      "title": "Bank of America Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://investor.bankofamerica.com/profile",
+      "file_path": "data/BAC/overview.json"
+    }
+  },
+  {
+    "document_id": 15,
+    "text": "Title: Alphabet Q4 and Fiscal Year 2025 Earnings Highlights\nCompany: Alphabet (GOOGL)\nSector: Technology\nDocument type: earnings_highlights\nDate: 2026-02-04\n\nAlphabet reported strong fourth-quarter 2025 results for the period ended December 31, 2025. Consolidated revenue increased 18% year over year to $113.8 billion, reflecting momentum in both Google Services and Google Cloud. Google Services revenue rose 14% to $95.9 billion, led by growth in Search, subscriptions, platforms, devices, and YouTube ads. Google Cloud revenue increased 48% to $17.7 billion, driven by demand for Google Cloud Platform, enterprise AI infrastructure, enterprise AI solutions, and core cloud products. Operating income increased 16%, and operating margin was 31.6%, despite a Waymo-related employee compensation charge. Net income increased 30%, and diluted EPS rose 31% to $2.82. For full-year 2025, Alphabet revenue exceeded $400 billion for the first time, reaching $402.8 billion, with net income of $132.2 billion. Management also highlighted strong Gemini usage, YouTube revenue above $60 billion across ads and subscriptions, and planned 2026 capital expenditures of $175 billion to $185 billion to support AI and infrastructure demand.",
+    "metadata": {
+      "document_id": 15,
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "sector": "Technology",
+      "doc_type": "earnings_highlights",
+      "title": "Alphabet Q4 and Fiscal Year 2025 Earnings Highlights",
+      "date": "2026-02-04",
+      "source_url": "https://s206.q4cdn.com/479360582/files/doc_news/2026/Feb/04/attachments/2025q4-alphabet-earnings-release.pdf",
+      "file_path": "data/GOOGL/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 16,
+    "text": "Title: Alphabet Financial Summary From 2025 Form 10-K\nCompany: Alphabet (GOOGL)\nSector: Technology\nDocument type: financial_summary\nDate: 2026-02-05\n\nAlphabet's 2025 Form 10-K showed strong revenue, profitability, and cash generation. Full-year revenue was $402.8 billion, up 15% from $350.0 billion in 2024. Operating income was $129.0 billion, and operating margin remained about 32%. Net income was $132.2 billion, compared with $100.1 billion in 2024, and diluted EPS was $10.81. Google Services remained the largest profit contributor, with operating income of $139.4 billion, while Google Cloud operating income rose to $13.9 billion as the cloud business scaled. Other Bets continued to operate at a loss, reflecting Alphabet's investment in long-term projects such as Waymo. Alphabet ended 2025 with total assets of $595.3 billion and total cash, cash equivalents, and marketable securities of $126.8 billion. Main risks include regulatory investigations, antitrust remedies, competition in AI and cloud, dependence on advertising, high infrastructure spending, and execution risk in newer businesses.",
+    "metadata": {
+      "document_id": 16,
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "sector": "Technology",
+      "doc_type": "financial_summary",
+      "title": "Alphabet Financial Summary From 2025 Form 10-K",
+      "date": "2026-02-05",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "file_path": "data/GOOGL/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 17,
+    "text": "Title: Google Completes Acquisition of Wiz\nCompany: Alphabet (GOOGL)\nSector: Technology\nDocument type: news\nDate: 2026-03-11\n\nGoogle completed its acquisition of Wiz, a cloud and AI security platform, in March 2026. Wiz will join Google Cloud while maintaining its brand and commitment to securing customers across multiple cloud environments. The acquisition is strategically important because security is a major concern as businesses and governments move more workloads and data into cloud and AI systems. Google said the deal is intended to improve cloud security and help organizations build securely across any cloud or AI platform. For Alphabet's investment story, Wiz strengthens Google Cloud's enterprise offering and may help Google compete more effectively against larger cloud rivals. The deal also connects directly to the company's AI strategy because AI adoption increases demand for secure infrastructure, threat detection, and protection across complex multicloud environments.",
+    "metadata": {
+      "document_id": 17,
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Google Completes Acquisition of Wiz",
+      "date": "2026-03-11",
+      "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/",
+      "file_path": "data/GOOGL/news_1.json"
+    }
+  },
+  {
+    "document_id": 18,
+    "text": "Title: DOJ Wins Search Remedies Against Google\nCompany: Alphabet (GOOGL)\nSector: Technology\nDocument type: news\nDate: 2025-09-02\n\nThe U.S. Department of Justice announced remedies in its monopolization case against Google related to online search and search advertising. The court prohibited Google from entering or maintaining exclusive contracts related to the distribution of Google Search, Chrome, Google Assistant, and the Gemini app. The ruling also required Google to make certain search index and user-interaction data available to qualified competitors and to offer certain search and search text ads syndication services. This is important risk context for Alphabet because Google Search is one of the company's most profitable businesses and a major driver of advertising revenue. Although Alphabet continues to generate strong earnings, antitrust remedies could affect default search distribution, data access, competitive dynamics, and long-term monetization. For RAG explanations, this document provides balanced evidence by showing that Alphabet's strong business performance comes with meaningful regulatory pressure.",
+    "metadata": {
+      "document_id": 18,
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "DOJ Wins Search Remedies Against Google",
+      "date": "2025-09-02",
+      "source_url": "https://www.justice.gov/opa/pr/department-justice-wins-significant-remedies-against-google",
+      "file_path": "data/GOOGL/news_2.json"
+    }
+  },
+  {
+    "document_id": 19,
+    "text": "Title: Alphabet Company Overview\nCompany: Alphabet (GOOGL)\nSector: Technology\nDocument type: overview\nDate: 2026-04-19\n\nAlphabet Inc. is the parent company of Google and operates primarily through Google Services, Google Cloud, and Other Bets. Google Services includes major products and platforms such as Search, YouTube, Android, Chrome, Gmail, Google Maps, Google Play, devices, subscriptions, and advertising products. Google Cloud provides cloud infrastructure, cybersecurity, databases, analytics, AI infrastructure, AI solutions, and Google Workspace productivity tools for enterprise customers. Other Bets includes earlier-stage businesses such as Waymo and other long-term technology projects. Alphabet's business model is heavily supported by digital advertising, but the company is also expanding through cloud computing, subscriptions, AI products, hardware, and autonomous transportation. For investment analysis, Alphabet is important because it combines a highly profitable advertising business with fast-growing cloud and AI opportunities, while also facing significant regulatory and antitrust risks.",
+    "metadata": {
+      "document_id": 19,
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "sector": "Technology",
+      "doc_type": "overview",
+      "title": "Alphabet Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+      "file_path": "data/GOOGL/overview.json"
+    }
+  },
+  {
+    "document_id": 20,
+    "text": "Title: Goldman Sachs Q1 2026 Earnings Highlights\nCompany: Goldman Sachs (GS)\nSector: Finance\nDocument type: earnings_highlights\nDate: 2026-04-13\n\nGoldman Sachs reported first-quarter 2026 net revenues of $17.23 billion and net earnings of $5.63 billion for the quarter ended March 31, 2026. Diluted earnings per common share were $17.55, and annualized return on average common shareholders' equity was 19.8%. Management described the quarter as very strong despite more volatile market conditions, noting that clients continued to rely on Goldman Sachs for execution and market insight. Global Banking & Markets produced record revenue of about $12.7 billion, supported by investment banking activity, equities trading, and financing. Equities revenue reached a record level, helped by strong client activity and financing demand. Asset & Wealth Management also benefited from higher management and other fees and continued growth in assets under supervision. The results show Goldman Sachs' ability to benefit from active capital markets, client flows, advisory work, trading, and asset management scale.",
+    "metadata": {
+      "document_id": 20,
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "sector": "Finance",
+      "doc_type": "earnings_highlights",
+      "title": "Goldman Sachs Q1 2026 Earnings Highlights",
+      "date": "2026-04-13",
+      "source_url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-04-13-q1-results",
+      "file_path": "data/GS/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 21,
+    "text": "Title: Goldman Sachs Financial Summary From 2025 Form 10-K\nCompany: Goldman Sachs (GS)\nSector: Finance\nDocument type: financial_summary\nDate: 2026-02-25\n\nGoldman Sachs generated net earnings of $17.18 billion in 2025, compared with $14.28 billion in 2024. Diluted EPS was $51.32, return on average common shareholders' equity was 15.0%, and book value per common share increased 6.2% to $357.60. Net revenues were $58.28 billion, up 9% year over year, reflecting higher revenues in Global Banking & Markets, partly offset by significantly lower revenue in Platform Solutions. Investment banking revenue increased because of stronger advisory activity and higher debt and equity underwriting. Investment management revenue rose 11%, supported by higher management and other fees from higher average assets under supervision. The firm also continued to focus on more durable revenues, asset and wealth management growth, and risk discipline. Key risks include market volatility, credit exposure, liquidity risk, regulatory requirements, litigation, operational risk, cybersecurity, geopolitical uncertainty, and sensitivity to client activity in capital markets.",
+    "metadata": {
+      "document_id": 21,
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "sector": "Finance",
+      "doc_type": "financial_summary",
+      "title": "Goldman Sachs Financial Summary From 2025 Form 10-K",
+      "date": "2026-02-25",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "file_path": "data/GS/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 22,
+    "text": "Title: Goldman Sachs Completes Acquisition of Innovator Capital Management\nCompany: Goldman Sachs (GS)\nSector: Finance\nDocument type: news\nDate: 2026-04-02\n\nGoldman Sachs completed its acquisition of Innovator Capital Management, a defined outcome exchange-traded fund specialist, in April 2026. Innovator had approximately $31 billion in assets under supervision across 171 ETFs, and the acquisition expanded Goldman Sachs Asset Management to roughly 240 ETFs globally. Goldman said the transaction increased its ETF assets under supervision to about $90 billion and made Goldman Sachs Asset Management a top ten global active ETF provider. The deal is important for Goldman Sachs' investment story because it supports growth in Asset & Wealth Management, expands fee-based investment products, and strengthens the firm's position in active ETFs. Defined outcome ETFs use options-based strategies to target income, growth, and risk-managed outcomes, which may appeal to investors seeking more customized portfolios through different market cycles.",
+    "metadata": {
+      "document_id": 22,
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Goldman Sachs Completes Acquisition of Innovator Capital Management",
+      "date": "2026-04-02",
+      "source_url": "https://www.goldmansachs.com/pressroom/press-releases/2026/goldman-sachs-completes-acquisition-of-innovator-capital-management",
+      "file_path": "data/GS/news_1.json"
+    }
+  },
+  {
+    "document_id": 23,
+    "text": "Title: Goldman Sachs Q1 2026 Results Highlight Market-Sensitive Strength and Risk Context\nCompany: Goldman Sachs (GS)\nSector: Finance\nDocument type: news\nDate: 2026-04-13\n\nGoldman Sachs' first-quarter 2026 results provide useful context about both strengths and risks in the business. The firm benefited from active capital markets, stronger investment banking activity, record equities performance, and growth in Asset & Wealth Management. However, Goldman Sachs remains highly sensitive to market conditions, client transaction activity, trading conditions, credit exposure, and investor risk appetite. The same volatility that can support trading and client execution revenue can also create uncertainty, increase risk management demands, and affect financing, advisory, and underwriting pipelines. The company emphasized its focus on positioning the business well during broader uncertainty. For RAG explanations, this evidence helps balance the story: Goldman Sachs can produce very strong results when capital markets are active, but its performance is more cyclical and market-dependent than many traditional banking or payments businesses.",
+    "metadata": {
+      "document_id": 23,
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Goldman Sachs Q1 2026 Results Highlight Market-Sensitive Strength and Risk Context",
+      "date": "2026-04-13",
+      "source_url": "https://www.goldmansachs.com/pressroom/press-releases/2026/2026-04-13-q1-results",
+      "file_path": "data/GS/news_2.json"
+    }
+  },
+  {
+    "document_id": 24,
+    "text": "Title: Goldman Sachs Company Overview\nCompany: Goldman Sachs (GS)\nSector: Finance\nDocument type: overview\nDate: 2026-04-19\n\nThe Goldman Sachs Group, Inc. is a leading global financial institution headquartered in New York. Founded in 1869, the firm provides financial services to corporations, financial institutions, governments, investors, and individuals across major financial centers worldwide. Goldman Sachs operates through three main segments: Global Banking & Markets, Asset & Wealth Management, and Platform Solutions. Global Banking & Markets includes investment banking, advisory, underwriting, financing, market-making, and trading across fixed income, currencies, commodities, equities, credit, and other products. Asset & Wealth Management provides investment management, alternatives, private wealth, and institutional asset management services. Platform Solutions includes transaction banking and other platform-based financial services. For investment analysis, Goldman Sachs is important because its earnings are tied to capital markets activity, trading volumes, M&A, underwriting, asset management fees, wealth management growth, interest rates, risk management, and broader market volatility.",
+    "metadata": {
+      "document_id": 24,
+      "ticker": "GS",
+      "company": "Goldman Sachs",
+      "sector": "Finance",
+      "doc_type": "overview",
+      "title": "Goldman Sachs Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000091/gs-20251231.htm",
+      "file_path": "data/GS/overview.json"
+    }
+  },
+  {
+    "document_id": 25,
+    "text": "Title: Johnson & Johnson Q1 2026 Earnings Highlights\nCompany: Johnson & Johnson (JNJ)\nSector: Healthcare\nDocument type: earnings_highlights\nDate: 2026-04-14\n\nJohnson & Johnson reported first-quarter 2026 sales of $24.1 billion, up 9.9% year over year on a reported basis, with operational growth of 6.4% and adjusted operational growth of 5.3%. Diluted EPS was $2.14, while adjusted diluted EPS was $2.70. Innovative Medicine sales were $15.4 billion, up 11.2%, and MedTech sales were $8.6 billion, up 7.7%. Management highlighted progress from recent approvals, including ICOTYDE for moderate-to-severe plaque psoriasis, TECVAYLI plus DARZALEX FASPRO for relapsed/refractory multiple myeloma, VARIPULSE Pro in Europe, and TECNIS PureSee in the United States. Johnson & Johnson also raised its 2026 outlook, with estimated reported sales of about $100.8 billion at the midpoint and adjusted EPS of about $11.55 at the midpoint. The results show a strong start to 2026, with growth driven by both medicine and medical technology innovation.",
+    "metadata": {
+      "document_id": 25,
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "doc_type": "earnings_highlights",
+      "title": "Johnson & Johnson Q1 2026 Earnings Highlights",
+      "date": "2026-04-14",
+      "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q1-2026-results-raises-2026-outlook",
+      "file_path": "data/JNJ/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 26,
+    "text": "Title: Johnson & Johnson Financial Summary From 2025 Form 10-K\nCompany: Johnson & Johnson (JNJ)\nSector: Healthcare\nDocument type: financial_summary\nDate: 2026-02-13\n\nJohnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024. Innovative Medicine generated $60.4 billion of sales, while MedTech generated $33.8 billion. Total income before tax was $32.6 billion in 2025, compared with $16.7 billion in 2024, helped partly by a reversal of a significant portion of a previously accrued talc reserve. The company reported identifiable assets of $199.2 billion at year-end 2025. J&J's sales base is diversified across U.S. and international markets, with U.S. sales of $53.8 billion and international sales of $40.4 billion. The financial profile shows a large, diversified healthcare company with strong sales growth in Innovative Medicine and MedTech. Key risks include patent expirations, biosimilar competition, legal proceedings, pricing pressure, clinical trial execution, regulatory decisions, and the need to continue replacing older product revenue with new medicines and technologies.",
+    "metadata": {
+      "document_id": 26,
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "doc_type": "financial_summary",
+      "title": "Johnson & Johnson Financial Summary From 2025 Form 10-K",
+      "date": "2026-02-13",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+      "file_path": "data/JNJ/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 27,
+    "text": "Title: FDA Approves ICOTYDE for Plaque Psoriasis\nCompany: Johnson & Johnson (JNJ)\nSector: Healthcare\nDocument type: news\nDate: 2026-03-18\n\nJohnson & Johnson announced that the U.S. FDA approved ICOTYDE, also known as icotrokinra, for moderate-to-severe plaque psoriasis in adults and pediatric patients age 12 and older who meet weight and treatment criteria. ICOTYDE is described as the first targeted oral peptide that blocks the IL-23 receptor. This approval is strategically important because it expands J&J's immunology portfolio and provides an oral option in a market where many advanced treatments are injectable biologics. The approval was supported by a large Phase 3 program that evaluated adults and adolescents and included studies in areas such as scalp and genital psoriasis. For RAG explanations, this news supports the growth case for Johnson & Johnson by showing pipeline execution, product innovation, and expansion in a major immunology category.",
+    "metadata": {
+      "document_id": 27,
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "FDA Approves ICOTYDE for Plaque Psoriasis",
+      "date": "2026-03-18",
+      "source_url": "https://www.investor.jnj.com/investor-news/news-details/2026/FDA-approval-of-ICOTYDE-icotrokinra-ushers-in-new-era-for-first-line-systemic-treatment-of-plaque-psoriasis-with-a-targeted-oral-peptide/default.aspx",
+      "file_path": "data/JNJ/news_1.json"
+    }
+  },
+  {
+    "document_id": 28,
+    "text": "Title: Johnson & Johnson Launches VARIPULSE Pro in Europe\nCompany: Johnson & Johnson (JNJ)\nSector: Healthcare\nDocument type: news\nDate: 2026-04-07\n\nJohnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures. VARIPULSE Pro introduces a new pulse sequence designed to improve workflow efficiency while reinforcing the platform's safety and effectiveness profile. The company said the new sequence has a lower temperature profile and delivers an ablation five times faster than the prior sequence while achieving equivalent lesions. This news is relevant because MedTech is one of J&J's two main business segments, and cardiovascular/electrophysiology technologies are important growth areas. For investment and RAG analysis, the launch shows that J&J is not only relying on pharmaceutical growth but is also advancing medical technology platforms that can support procedure adoption, hospital demand, and long-term segment growth.",
+    "metadata": {
+      "document_id": 28,
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "Johnson & Johnson Launches VARIPULSE Pro in Europe",
+      "date": "2026-04-07",
+      "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-pulsed-field-ablation-portfolio-with-the-launch-of-varipulse-pro-in-europe",
+      "file_path": "data/JNJ/news_2.json"
+    }
+  },
+  {
+    "document_id": 29,
+    "text": "Title: Johnson & Johnson Company Overview\nCompany: Johnson & Johnson (JNJ)\nSector: Healthcare\nDocument type: overview\nDate: 2026-04-19\n\nJohnson & Johnson is a global healthcare company headquartered in New Brunswick, New Jersey. After the separation of its consumer health business, the company focuses mainly on Innovative Medicine and MedTech. The Innovative Medicine segment develops and sells prescription medicines across areas such as oncology, immunology, neuroscience, cardiovascular, pulmonary hypertension, and infectious diseases. Key products include Darzalex, Stelara, Tremfya, Erleada, Carvykti, Tecvayli, and other specialty medicines. The MedTech segment sells medical devices and technologies used in surgery, orthopaedics, cardiovascular procedures, electrophysiology, vision care, and other clinical settings. For investment analysis, Johnson & Johnson is important because it combines a large pharmaceutical pipeline, global medtech scale, strong cash generation, and dividend history, while also facing patent-loss pressure, regulatory risk, litigation risk, and competition from biosimilars and other therapies.",
+    "metadata": {
+      "document_id": 29,
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "doc_type": "overview",
+      "title": "Johnson & Johnson Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+      "file_path": "data/JNJ/overview.json"
+    }
+  },
+  {
+    "document_id": 30,
+    "text": "Title: JPMorgan Chase Q1 2026 Earnings Highlights\nCompany: JPMorgan Chase (JPM)\nSector: Finance\nDocument type: earnings_highlights\nDate: 2026-04-14\n\nJPMorgan Chase reported first-quarter 2026 net income of $16.5 billion, up 13% year over year, and diluted EPS of $5.94. Reported revenue was $49.8 billion, while managed revenue was $50.5 billion, up 10% year over year. Net interest income was $25.5 billion, up 9%, and noninterest revenue was $25.1 billion, up 11%. The firm produced a 19% return on common equity and 23% return on tangible common equity. Commercial & Investment Bank revenue rose 19%, with investment banking fees up 28% and markets revenue up 20%, including strength in both fixed income and equity markets. Consumer & Community Banking revenue increased 7%, and Asset & Wealth Management revenue increased 11%, with assets under management of $4.8 trillion. JPMorgan Chase also reported a standardized CET1 capital ratio of 14.3%, $291 billion of CET1 capital, and $1.5 trillion of cash and marketable securities.",
+    "metadata": {
+      "document_id": 30,
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "sector": "Finance",
+      "doc_type": "earnings_highlights",
+      "title": "JPMorgan Chase Q1 2026 Earnings Highlights",
+      "date": "2026-04-14",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026024990/a1q26erfexhibit991narrative.htm",
+      "file_path": "data/JPM/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 31,
+    "text": "Title: JPMorgan Chase Financial Summary From 2025 Annual Report\nCompany: JPMorgan Chase (JPM)\nSector: Finance\nDocument type: financial_summary\nDate: 2026-04-15\n\nJPMorgan Chase's 2025 financial highlights show the scale and profitability of the firm. Total net revenue was $182.4 billion, compared with $177.6 billion in 2024, and net income was $57.0 billion. Diluted earnings per share were $20.02. Net interest income was $95.4 billion, supported by the firm's large deposit, loan, card, and balance sheet businesses. At year-end 2025, total assets were $4.4 trillion, loans were $1.49 trillion, deposits were $2.56 trillion, and total stockholders' equity was $362.4 billion. The firm reported a standardized common equity Tier 1 capital ratio of 14.6% and a return on tangible common equity of 20%. Main risks include credit losses, deposit competition, interest-rate changes, capital requirements, market volatility, cyber and operational risk, geopolitical uncertainty, regulatory changes, and the cyclicality of investment banking and markets revenue.",
+    "metadata": {
+      "document_id": 31,
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "sector": "Finance",
+      "doc_type": "financial_summary",
+      "title": "JPMorgan Chase Financial Summary From 2025 Annual Report",
+      "date": "2026-04-15",
+      "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/financial-highlights-2025.pdf",
+      "file_path": "data/JPM/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 32,
+    "text": "Title: Chase Plans More Than 160 New Branches in 2026\nCompany: JPMorgan Chase (JPM)\nSector: Finance\nDocument type: news\nDate: 2026-02-18\n\nChase announced plans to open more than 160 new branches across more than 30 states in 2026 and renovate nearly 600 locations. The expansion is part of a multiyear investment to grow and modernize the branch network, including a broader plan to open more than 500 branches, renovate 1,700 locations, and hire thousands of employees over three years. The strategy is intended to expand access to banking services, enter new markets, and strengthen Chase's presence in fast-growing regions and underserved communities. This news is relevant for JPMorgan Chase because Consumer & Community Banking is a major earnings contributor, and branches remain important for deposits, lending, wealth relationships, and customer acquisition. The expansion also supports the bank's strategy of combining physical locations with digital tools and premium financial centers for higher-value clients.",
+    "metadata": {
+      "document_id": 32,
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Chase Plans More Than 160 New Branches in 2026",
+      "date": "2026-02-18",
+      "source_url": "https://media.chase.com/news/chase-to-open-more-than-160-branches-in-over-30-states-in-2026",
+      "file_path": "data/JPM/news_1.json"
+    }
+  },
+  {
+    "document_id": 33,
+    "text": "Title: J.P. Morgan Payments Recognized for AI Innovation\nCompany: JPMorgan Chase (JPM)\nSector: Finance\nDocument type: news\nDate: 2026-02-05\n\nJ.P. Morgan Payments was recognized by The Digital Banker for AI innovation, winning awards for its Turbo platform. Turbo is an internally developed AI-powered tool used to automate payment system testing across multiple products and platforms. The platform uses large language models to convert natural language requirements into precise test scenarios and reduce testing cycles. This news is useful evidence for JPMorgan Chase's RAG explanation because payments is an important part of the firm's corporate and commercial banking franchise, and AI can improve speed, quality, and operational efficiency in complex financial technology systems. The recognition also supports JPMorgan Chase's broader investment case as a large financial institution using technology and artificial intelligence to strengthen client service, infrastructure reliability, and productivity.",
+    "metadata": {
+      "document_id": 33,
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "J.P. Morgan Payments Recognized for AI Innovation",
+      "date": "2026-02-05",
+      "source_url": "https://www.jpmorgan.com/payments/newsroom/ai-innovation-awards-turbo-platform",
+      "file_path": "data/JPM/news_2.json"
+    }
+  },
+  {
+    "document_id": 34,
+    "text": "Title: JPMorgan Chase Company Overview\nCompany: JPMorgan Chase (JPM)\nSector: Finance\nDocument type: overview\nDate: 2026-04-19\n\nJPMorgan Chase & Co. is one of the largest global financial services firms, headquartered in New York and operating worldwide under the J.P. Morgan and Chase brands. The firm serves consumers, small businesses, corporations, governments, institutions, and wealthy clients. Its major businesses include Consumer & Community Banking, Commercial & Investment Banking, Asset & Wealth Management, payments, credit cards, deposits, lending, investment banking, markets, securities services, and financial transaction processing. JPMorgan Chase is a leader in investment banking, consumer financial services, commercial banking, asset management, and payment infrastructure. For investment analysis, JPMorgan Chase is important because its earnings are influenced by interest rates, loan growth, deposit balances, credit quality, consumer spending, trading activity, investment banking fees, wealth management flows, regulation, and broader macroeconomic conditions.",
+    "metadata": {
+      "document_id": 34,
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "sector": "Finance",
+      "doc_type": "overview",
+      "title": "JPMorgan Chase Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://jpmorganchaseco.gcs-web.com/news-releases/news-release-details/jpmorganchase-reports-first-quarter-2026-financial-results",
+      "file_path": "data/JPM/overview.json"
+    }
+  },
+  {
+    "document_id": 35,
+    "text": "Title: Meta Q4 and Full-Year 2025 Earnings Highlights\nCompany: Meta (META)\nSector: Technology\nDocument type: earnings_highlights\nDate: 2026-01-28\n\nMeta reported fourth-quarter 2025 revenue of $59.9 billion, up 24% year over year, and full-year 2025 revenue of $201.0 billion, up 22%. Fourth-quarter net income was $22.8 billion, up 9%, and diluted EPS was $8.88, up 11%. Full-year net income was $60.5 billion, down 3%, partly affected by tax impacts, while full-year diluted EPS was $23.49. Meta reported 3.58 billion Family daily active people on average for December 2025, up 7% year over year. Advertising remained the core revenue driver, with ad impressions across the Family of Apps rising 18% in Q4 and 12% for the full year, while average price per ad increased 6% in Q4 and 9% for the full year. Meta generated $115.8 billion of operating cash flow and $43.6 billion of free cash flow in 2025. Management guided for Q1 2026 revenue of $53.5 billion to $56.5 billion and expected higher 2026 expenses driven mainly by AI infrastructure and technical talent.",
+    "metadata": {
+      "document_id": 35,
+      "ticker": "META",
+      "company": "Meta",
+      "sector": "Technology",
+      "doc_type": "earnings_highlights",
+      "title": "Meta Q4 and Full-Year 2025 Earnings Highlights",
+      "date": "2026-01-28",
+      "source_url": "https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Fourth-Quarter-and-Full-Year-2025-Results/",
+      "file_path": "data/META/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 36,
+    "text": "Title: Meta Financial Summary From 2025 Form 10-K\nCompany: Meta (META)\nSector: Technology\nDocument type: financial_summary\nDate: 2026-01-29\n\nMeta's 2025 Form 10-K showed a large and highly profitable core advertising business, along with major investment spending. Full-year revenue was $201.0 billion, up from $164.5 billion in 2024. Income from operations was $83.3 billion, and operating margin was 41%. Net income was $60.5 billion. Family of Apps generated $198.8 billion of revenue, including $196.2 billion of advertising revenue, while Reality Labs generated $2.2 billion of revenue. Meta ended 2025 with $81.6 billion in cash, cash equivalents, and marketable securities and $58.7 billion of long-term debt. The company spent $72.2 billion on capital expenditures, including finance lease principal payments, reflecting heavy investment in servers, network infrastructure, data centers, AI, and Reality Labs hardware. Key risks include regulatory scrutiny, privacy and content moderation issues, competition for users and advertisers, dependence on ad revenue, high AI infrastructure costs, Reality Labs losses, cybersecurity, and uncertainty around new AI and immersive products.",
+    "metadata": {
+      "document_id": 36,
+      "ticker": "META",
+      "company": "Meta",
+      "sector": "Technology",
+      "doc_type": "financial_summary",
+      "title": "Meta Financial Summary From 2025 Form 10-K",
+      "date": "2026-01-29",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "file_path": "data/META/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 37,
+    "text": "Title: Meta Introduces Muse Spark AI Model\nCompany: Meta (META)\nSector: Technology\nDocument type: news\nDate: 2026-04-08\n\nMeta introduced Muse Spark, the first model from Meta Superintelligence Labs and its most powerful model at the time of announcement. The model is designed specifically for Meta's products and is intended to power a faster, smarter Meta AI experience. Meta said Muse Spark currently powers the Meta AI app and website and will roll out to WhatsApp, Instagram, Facebook, Messenger, and AI glasses. Over time, the model is expected to support features that use recommendations and content people share across Instagram, Facebook, and Threads. This news is relevant for Meta's investment story because it shows how the company is trying to turn AI research and infrastructure spending into consumer-facing products across its massive app ecosystem. It also supports the idea that Meta can use AI to improve engagement, personalization, and product utility.",
+    "metadata": {
+      "document_id": 37,
+      "ticker": "META",
+      "company": "Meta",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Meta Introduces Muse Spark AI Model",
+      "date": "2026-04-08",
+      "source_url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+      "file_path": "data/META/news_1.json"
+    }
+  },
+  {
+    "document_id": 38,
+    "text": "Title: Meta Introduces Prescription-Optimized AI Glasses\nCompany: Meta (META)\nSector: Technology\nDocument type: news\nDate: 2026-03-31\n\nMeta introduced its first prescription-optimized AI glasses, Ray-Ban Meta Blayzer Optics and Ray-Ban Meta Scriber Optics, expanding its wearable AI product line. The glasses are designed for people who rely on prescription eyewear and include new lightweight frame styles, overextension hinges, interchangeable nose pads, and optician-adjustable temple tips. Meta also announced additional software capabilities for AI glasses, including hands-free nutrition tracking, WhatsApp summaries, recall by Meta AI, and Neural Handwriting. This news is useful evidence because it connects Meta's Reality Labs and AI strategy to consumer hardware. The product expansion suggests Meta is trying to move beyond phone-based social apps into AI-powered wearable devices. At the same time, the effort carries execution risk because consumer hardware and immersive technology require large investment, strong adoption, and continued product improvement.",
+    "metadata": {
+      "document_id": 38,
+      "ticker": "META",
+      "company": "Meta",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Meta Introduces Prescription-Optimized AI Glasses",
+      "date": "2026-03-31",
+      "source_url": "https://about.fb.com/news/2026/03/meta-ai-glasses-built-for-prescriptions/",
+      "file_path": "data/META/news_2.json"
+    }
+  },
+  {
+    "document_id": 39,
+    "text": "Title: Meta Company Overview\nCompany: Meta (META)\nSector: Technology\nDocument type: overview\nDate: 2026-04-19\n\nMeta Platforms, Inc. is a technology company focused on social connection, digital advertising, artificial intelligence, messaging, and immersive technologies. Its Family of Apps segment includes Facebook, Instagram, Messenger, WhatsApp, Threads, and other services used by billions of people. This segment generates most of Meta's revenue through advertising, including ad placements across feeds, Reels, Stories, search, messaging surfaces, and other formats. Meta's Reality Labs segment develops virtual reality, augmented reality, mixed reality, wearable devices, software, and content, including Meta Quest and AI glasses. The company is investing heavily in AI infrastructure, recommendation systems, generative AI, business tools, and future computing devices. For investment analysis, Meta is important because it combines a highly profitable advertising business with large AI and Reality Labs investments, while facing risks from regulation, privacy rules, competition, platform changes, content moderation, and high capital spending.",
+    "metadata": {
+      "document_id": 39,
+      "ticker": "META",
+      "company": "Meta",
+      "sector": "Technology",
+      "doc_type": "overview",
+      "title": "Meta Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026003942/meta-20251231.htm",
+      "file_path": "data/META/overview.json"
+    }
+  },
+  {
+    "document_id": 40,
+    "text": "Title: Merck Q4 and Full-Year 2025 Earnings Highlights\nCompany: Merck (MRK)\nSector: Healthcare\nDocument type: earnings_highlights\nDate: 2026-02-03\n\nMerck reported fourth-quarter 2025 worldwide sales of $16.4 billion, up 5% year over year, and full-year 2025 worldwide sales of $65.0 billion, up 1%. Full-year GAAP EPS was $7.28, and non-GAAP EPS was $8.98. KEYTRUDA and KEYTRUDA QLEX remained Merck's largest growth driver, with full-year sales of $31.7 billion, up 7%. WINREVAIR contributed $1.4 billion of sales, and CAPVAXIVE contributed $759 million, showing increasing contributions from newer launches. Animal Health sales were $6.4 billion, up 8%, supported by livestock demand, supply improvements, and new products. A key weakness was GARDASIL and GARDASIL 9, where full-year sales declined 39% to $5.2 billion, mainly due to lower demand in China and other market pressures. Merck also highlighted pipeline progress, acquisitions of Verona Pharma and Cidara Therapeutics, and 2026 sales guidance of $65.5 billion to $67.0 billion.",
+    "metadata": {
+      "document_id": 40,
+      "ticker": "MRK",
+      "company": "Merck",
+      "sector": "Healthcare",
+      "doc_type": "earnings_highlights",
+      "title": "Merck Q4 and Full-Year 2025 Earnings Highlights",
+      "date": "2026-02-03",
+      "source_url": "https://www.merck.com/news/merck-highlights-progress-advancing-broad-diverse-pipeline/",
+      "file_path": "data/MRK/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 41,
+    "text": "Title: Merck Financial Summary From 2025 Form 10-K\nCompany: Merck (MRK)\nSector: Healthcare\nDocument type: financial_summary\nDate: 2026-02-24\n\nMerck's 2025 Form 10-K reported sales of $65.0 billion, compared with $64.2 billion in 2024 and $60.1 billion in 2023. GAAP net income attributable to Merck was $18.3 billion, up 7% from 2024, and non-GAAP net income was $22.5 billion, up 16%. GAAP diluted EPS was $7.28, while non-GAAP diluted EPS was $8.98. The Pharmaceutical segment generated most company sales, with full-year 2025 sales of $58.1 billion, while Animal Health sales were $6.4 billion. Merck also continued shareholder returns, including dividends and share repurchases, and authorized additional share repurchases in 2025. The company acquired Verona Pharma in 2025, adding Ohtuvayre for COPD, and completed the Cidara acquisition in early 2026 to add a late-stage antiviral candidate. Key risks include dependence on KEYTRUDA, future patent and exclusivity loss, vaccine demand declines, regulatory approvals, clinical trial execution, pricing pressure, currency exposure, competition, and integration of acquisitions.",
+    "metadata": {
+      "document_id": 41,
+      "ticker": "MRK",
+      "company": "Merck",
+      "sector": "Healthcare",
+      "doc_type": "financial_summary",
+      "title": "Merck Financial Summary From 2025 Form 10-K",
+      "date": "2026-02-24",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm",
+      "file_path": "data/MRK/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 42,
+    "text": "Title: KEYTRUDA and KEYTRUDA QLEX Approved for Certain Platinum-Resistant Ovarian Cancer Patients\nCompany: Merck (MRK)\nSector: Healthcare\nDocument type: news\nDate: 2026-02-11\n\nMerck announced that the FDA approved KEYTRUDA and KEYTRUDA QLEX plus paclitaxel, with or without bevacizumab, for certain adults with PD-L1 positive platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal carcinoma who had received one or two prior systemic treatment regimens. Merck said the approval was based on the Phase 3 KEYNOTE-B96 trial, in which the KEYTRUDA regimen reduced the risk of disease progression or death by 28% and reduced the risk of death by 24% compared with placebo plus paclitaxel with or without bevacizumab. This news is important because KEYTRUDA is Merck's largest product franchise, and additional approved indications can support ongoing oncology revenue. KEYTRUDA QLEX also strengthens Merck's subcutaneous formulation strategy, which may improve convenience for patients and providers.",
+    "metadata": {
+      "document_id": 42,
+      "ticker": "MRK",
+      "company": "Merck",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "KEYTRUDA and KEYTRUDA QLEX Approved for Certain Platinum-Resistant Ovarian Cancer Patients",
+      "date": "2026-02-11",
+      "source_url": "https://www.merck.com/news/keytruda-pembrolizumab-and-keytruda-qlex-pembrolizumab-and-berahyaluronidase-alfa-pmph-plus-paclitaxel-%C2%B1-bevacizumab-approved-for-certain-adults-with-pd-l1-cps-%E2%89%A51/",
+      "file_path": "data/MRK/news_1.json"
+    }
+  },
+  {
+    "document_id": 43,
+    "text": "Title: Merck Completes Acquisition of Cidara Therapeutics\nCompany: Merck (MRK)\nSector: Healthcare\nDocument type: news\nDate: 2026-01-07\n\nMerck completed its acquisition of Cidara Therapeutics in January 2026. The transaction adds CD388, a potentially first-in-class, long-acting antiviral candidate with strain-agnostic properties being evaluated for prevention of symptomatic influenza in certain individuals at high risk of complications. Merck described the deal as part of its science-led business development strategy and said the acquisition strengthens and complements its expanding respiratory portfolio. This news is useful for RAG explanations because Merck faces a long-term need to diversify beyond KEYTRUDA and offset pressure from patent expirations, vaccine demand changes, and competition. Adding a late-stage antiviral candidate gives Merck another possible growth path in infectious disease and respiratory prevention, though the value depends on clinical development, regulatory approval, commercial uptake, and successful integration.",
+    "metadata": {
+      "document_id": 43,
+      "ticker": "MRK",
+      "company": "Merck",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "Merck Completes Acquisition of Cidara Therapeutics",
+      "date": "2026-01-07",
+      "source_url": "https://www.merck.com/news/merck-to-complete-acquisition-of-cidara-therapeutics/",
+      "file_path": "data/MRK/news_2.json"
+    }
+  },
+  {
+    "document_id": 44,
+    "text": "Title: Merck Company Overview\nCompany: Merck (MRK)\nSector: Healthcare\nDocument type: overview\nDate: 2026-04-19\n\nMerck & Co., Inc., known as MSD outside the United States and Canada, is a global healthcare company focused on prescription medicines, biologic therapies, vaccines, and animal health products. The company operates through two main segments: Pharmaceutical and Animal Health. The Pharmaceutical segment includes human prescription medicines and vaccines used in areas such as oncology, vaccines, infectious diseases, cardiometabolic and respiratory diseases, immunology, neuroscience, and ophthalmology. Key products include KEYTRUDA, GARDASIL, WINREVAIR, CAPVAXIVE, JANUVIA/JANUMET, BRIDION, Lynparza, and other medicines. The Animal Health segment develops veterinary pharmaceuticals, vaccines, and health management solutions for livestock and companion animals. For investment analysis, Merck is important because it has a major oncology franchise led by KEYTRUDA, a vaccine business, a growing animal health business, and a pipeline strategy aimed at reducing reliance on older products and preparing for future patent and competitive pressures.",
+    "metadata": {
+      "document_id": 44,
+      "ticker": "MRK",
+      "company": "Merck",
+      "sector": "Healthcare",
+      "doc_type": "overview",
+      "title": "Merck Company Overview",
+      "date": "2026-04-19",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm",
+      "file_path": "data/MRK/overview.json"
+    }
+  },
+  {
+    "document_id": 45,
+    "text": "Title: Morgan Stanley Q1 2026 Earnings Highlights\nCompany: Morgan Stanley (MS)\nSector: Finance\nDocument type: earnings_highlights\nDate: 2026-04-15\n\nMorgan Stanley reported record first quarter 2026 results, with net revenues of $20.6 billion, up from $17.7 billion a year earlier. Net income applicable to Morgan Stanley was $5.6 billion, or $3.43 per diluted share, compared with $4.3 billion, or $2.60 per diluted share, in the prior-year quarter. Return on tangible common equity was 27.1%, and the expense efficiency ratio improved to 65%. Institutional Securities generated record net revenues of $10.7 billion, supported by strong investment banking, equity, and fixed income results. Wealth Management also delivered record net revenues of $8.5 billion, with a 30.4% pre-tax margin, $118.4 billion of net new assets, and $53.7 billion of fee-based asset flows. Investment Management reported net revenues of $1.5 billion and assets under management or supervision of $1.868 trillion. These results are useful evidence because they show strong market-sensitive revenue, continued wealth management asset growth, and high profitability.",
+    "metadata": {
+      "document_id": 45,
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "sector": "Finance",
+      "doc_type": "earnings_highlights",
+      "title": "Morgan Stanley Q1 2026 Earnings Highlights",
+      "date": "2026-04-15",
+      "source_url": "https://www.morganstanley.com/content/dam/msdotcom/en/about-us-ir/shareholder/1q2026.pdf",
+      "file_path": "data/MS/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 46,
+    "text": "Title: Morgan Stanley Financial Summary From 2025 Form 10-K\nCompany: Morgan Stanley (MS)\nSector: Finance\nDocument type: financial_summary\nDate: 2026-02-19\n\nMorgan Stanley reported full-year 2025 net revenues of $70.6 billion, up 14% from $61.8 billion in 2024. Net income applicable to Morgan Stanley was $16.9 billion, up 26% from $13.4 billion, and diluted EPS increased 28% to $10.21. The firm delivered return on equity of 16.6%, return on tangible common equity of 21.6%, and an expense efficiency ratio of 68%, compared with 71% in the prior year. Institutional Securities generated $33.1 billion of net revenues, driven by stronger equity activity and higher investment banking advisory and underwriting revenue. Wealth Management produced $31.8 billion of net revenues, supported by higher asset management revenue, strong fee-based flows, and $356 billion of net new assets. Investment Management generated $6.5 billion of net revenues, mainly from higher asset management fees on higher average AUM. At year-end 2025, Morgan Stanley had $1.42 trillion of total assets and $9.276 trillion of client assets. Key risks include market volatility, lower deal activity, credit losses, regulatory requirements, liquidity risk, operational risk, cybersecurity, litigation, and interest-rate sensitivity.",
+    "metadata": {
+      "document_id": 46,
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "sector": "Finance",
+      "doc_type": "financial_summary",
+      "title": "Morgan Stanley Financial Summary From 2025 Form 10-K",
+      "date": "2026-02-19",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000086/ms-20251231.htm",
+      "file_path": "data/MS/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 47,
+    "text": "Title: Parametric Radius Helps Accelerate Asset Growth\nCompany: Morgan Stanley (MS)\nSector: Finance\nDocument type: news\nDate: 2026-02-18\n\nParametric, part of Morgan Stanley Investment Management, announced that Radius, its proprietary integrated multi-asset technology platform, contributed to more than 19% asset growth and account growth in its first year. Radius launched in January 2025 and is designed to support customized multi-asset portfolios from onboarding through account management and reporting. The platform uses cloud-native scale to analyze hundreds of thousands of portfolios every day, increase trading capacity, improve reporting, simplify client onboarding, and automate workflows that previously required more manual processing. This news is useful evidence for Morgan Stanley because it connects the Investment Management business to technology-enabled growth, direct indexing, tax management, and customized portfolio solutions. It also supports the case that Morgan Stanley can improve operating scale and client service through internal technology platforms, although success depends on continued adoption and execution.",
+    "metadata": {
+      "document_id": 47,
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Parametric Radius Helps Accelerate Asset Growth",
+      "date": "2026-02-18",
+      "source_url": "https://www.morganstanley.com/im/en-us/capital-seeker/about-us/news-and-insights/press-release/parametric-proprietary-technology-platform-radius-helps-accelerate-asset-growth-in-its-first-year-drives-enhanced-data-analysis-and-allows-increased-trading-volume.html",
+      "file_path": "data/MS/news_1.json"
+    }
+  },
+  {
+    "document_id": 48,
+    "text": "Title: Morgan Stanley Reports Record Q1 2026 Results\nCompany: Morgan Stanley (MS)\nSector: Finance\nDocument type: news\nDate: 2026-04-15\n\nMorgan Stanley announced its first quarter 2026 financial results on April 15, 2026, describing the quarter as a record period for the firm. The earnings release showed strong performance across Institutional Securities and Wealth Management, with elevated client engagement, higher trading activity, stronger investment banking results, and continued net new asset growth in wealth management. This news is important for RAG evidence because it helps explain why Morgan Stanley might rank well in a momentum or quality screen: revenue growth was supported by both capital markets strength and recurring wealth management activity. The same evidence also highlights risk. Morgan Stanley's strongest upside often depends on client activity, advisory and underwriting pipelines, equity and fixed income trading conditions, asset values, and broader market confidence. If market volatility turns unfavorable or deal activity slows, earnings momentum can weaken.",
+    "metadata": {
+      "document_id": 48,
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Morgan Stanley Reports Record Q1 2026 Results",
+      "date": "2026-04-15",
+      "source_url": "https://www.morganstanley.com/press-releases/morgan-stanley-reports-first-quarter-2026",
+      "file_path": "data/MS/news_2.json"
+    }
+  },
+  {
+    "document_id": 49,
+    "text": "Title: Morgan Stanley Company Overview\nCompany: Morgan Stanley (MS)\nSector: Finance\nDocument type: overview\nDate: 2026-02-19\n\nMorgan Stanley is a global financial services firm headquartered in New York. The company advises, originates, trades, manages, and distributes capital for corporations, governments, institutions, and individuals. Its main business segments are Institutional Securities, Wealth Management, and Investment Management. Institutional Securities includes investment banking, advisory, underwriting, sales and trading, lending, prime brokerage, and other capital markets services. Wealth Management provides financial advisory, brokerage, banking, lending, retirement, workplace, and self-directed investing services, including the E*TRADE platform. Investment Management offers active and customized investment strategies across public markets, private markets, alternatives, and liquidity products. For investment analysis, Morgan Stanley is important because earnings are tied to capital markets activity, trading volumes, investment banking deals, client asset levels, wealth management flows, interest rates, credit conditions, regulation, and technology investment.",
+    "metadata": {
+      "document_id": 49,
+      "ticker": "MS",
+      "company": "Morgan Stanley",
+      "sector": "Finance",
+      "doc_type": "overview",
+      "title": "Morgan Stanley Company Overview",
+      "date": "2026-02-19",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000086/ms-20251231.htm",
+      "file_path": "data/MS/overview.json"
+    }
+  },
+  {
+    "document_id": 50,
+    "text": "Title: Microsoft FY26 Q2 Earnings Highlights\nCompany: Microsoft (MSFT)\nSector: Technology\nDocument type: earnings_highlights\nDate: 2026-01-28\n\nMicrosoft reported strong fiscal second quarter 2026 results for the quarter ended December 31, 2025. Revenue was $81.3 billion, up 17% year over year, and operating income was $38.3 billion, up 21%. GAAP net income was $38.5 billion, up 60%, while non-GAAP net income was $30.9 billion, up 23%, excluding the impact from investments in OpenAI. GAAP diluted EPS was $5.16, and non-GAAP diluted EPS was $4.14. Microsoft Cloud revenue reached $51.5 billion, up 26%, and commercial remaining performance obligation increased 110% to $625 billion. Productivity and Business Processes revenue was $34.1 billion, up 16%, supported by Microsoft 365 Commercial cloud, Microsoft 365 Consumer cloud, LinkedIn, and Dynamics 365. Intelligent Cloud revenue was $32.9 billion, up 29%, with Azure and other cloud services revenue up 39%. More Personal Computing revenue was $14.3 billion, down 3%, as weakness in Xbox content and services offset growth in Windows OEM and search advertising. The quarter is useful RAG evidence because it shows Microsoft combining cloud scale, AI demand, enterprise software, and OpenAI-related upside.",
+    "metadata": {
+      "document_id": 50,
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "sector": "Technology",
+      "doc_type": "earnings_highlights",
+      "title": "Microsoft FY26 Q2 Earnings Highlights",
+      "date": "2026-01-28",
+      "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast",
+      "file_path": "data/MSFT/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 51,
+    "text": "Title: Microsoft Financial Summary From Fiscal 2025 Annual Report\nCompany: Microsoft (MSFT)\nSector: Technology\nDocument type: financial_summary\nDate: 2025-07-30\n\nFor fiscal year 2025, Microsoft reported revenue of $281.7 billion, up 15% from $245.1 billion in fiscal 2024. Gross margin was $193.9 billion, operating income was $128.5 billion, and net income was $101.8 billion, up 16%. Diluted EPS was $13.64, up 16%. Microsoft Cloud revenue increased 23% to $168.9 billion, reflecting continued demand for Azure, Microsoft 365 Commercial cloud, Dynamics 365, LinkedIn commercial products, and other cloud services. Productivity and Business Processes revenue was $120.8 billion, up 13%, and operating income was $69.8 billion. Intelligent Cloud revenue was $106.3 billion, up 21%, and operating income was $44.6 billion, driven by Azure and other cloud services revenue growth of 34%. More Personal Computing revenue was $54.6 billion, up 7%, supported by gaming and search advertising. Important investment risks include higher datacenter and AI infrastructure costs, competition in cloud and AI, regulatory scrutiny, cybersecurity risk, dependence on large enterprise customers, and execution risk in commercializing Copilot and other AI products.",
+    "metadata": {
+      "document_id": 51,
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "sector": "Technology",
+      "doc_type": "financial_summary",
+      "title": "Microsoft Financial Summary From Fiscal 2025 Annual Report",
+      "date": "2025-07-30",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "file_path": "data/MSFT/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 52,
+    "text": "Title: Microsoft Announces Frontier Suite, Copilot Wave 3, and Agent 365\nCompany: Microsoft (MSFT)\nSector: Technology\nDocument type: news\nDate: 2026-03-09\n\nMicrosoft announced Wave 3 of Microsoft 365 Copilot, expanded model diversity with Claude and next-generation OpenAI models, general availability of Agent 365 on May 1 for $15 per user, and general availability of Microsoft 365 E7: The Frontier Suite on May 1 for $99 per user. The announcement is important because it shows Microsoft turning AI features into paid enterprise products with clear pricing. Microsoft said Copilot paid seats grew more than 160% year over year, daily active usage rose tenfold, and the number of customers deploying Copilot at more than 35,000 seats tripled year over year. Microsoft also said 90% of the Fortune 500 now use Copilot. This news is useful evidence for a stock explanation because it links Microsoft's AI strategy to enterprise software monetization, Microsoft 365 expansion, security and governance, and cross-model flexibility. The main risk is whether customers continue moving from AI pilots into durable, profitable production usage.",
+    "metadata": {
+      "document_id": 52,
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Microsoft Announces Frontier Suite, Copilot Wave 3, and Agent 365",
+      "date": "2026-03-09",
+      "source_url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
+      "file_path": "data/MSFT/news_1.json"
+    }
+  },
+  {
+    "document_id": 53,
+    "text": "Title: Stellantis Expands AI and Cloud Collaboration With Microsoft\nCompany: Microsoft (MSFT)\nSector: Technology\nDocument type: news\nDate: 2026-04-16\n\nStellantis and Microsoft announced a five-year strategic collaboration to accelerate Stellantis' digital transformation through AI, cybersecurity, engineering, and cloud modernization. The companies plan to co-develop more than 100 AI initiatives across customer care, product development, and operations, including AI-powered product development and validation, predictive maintenance and testing, and faster deployment of new digital features. Stellantis also plans to use Microsoft technology for an AI-driven global cyberdefense center spanning IT systems, connected vehicles, manufacturing sites, and digital products. The collaboration includes Azure modernization with a targeted 60% reduction in Stellantis' datacenter footprint by 2029, plus workforce AI adoption through Copilot Chat and an initial rollout of 20,000 Microsoft 365 Copilot licenses. This news is useful RAG evidence because it shows Microsoft selling AI, Azure, security, and Copilot into a large global enterprise customer, supporting the thesis that cloud and AI demand can drive commercial growth.",
+    "metadata": {
+      "document_id": 53,
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Stellantis Expands AI and Cloud Collaboration With Microsoft",
+      "date": "2026-04-16",
+      "source_url": "https://news.microsoft.com/source/2026/04/16/stellantis-accelerates-ai-led-strategy-and-digital-transformation-through-strategic-collaboration-with-microsoft-to-enhance-customer-experiences/",
+      "file_path": "data/MSFT/news_2.json"
+    }
+  },
+  {
+    "document_id": 54,
+    "text": "Title: Microsoft Company Overview\nCompany: Microsoft (MSFT)\nSector: Technology\nDocument type: overview\nDate: 2025-07-30\n\nMicrosoft is a global technology company that develops software, cloud services, AI platforms, business applications, devices, gaming services, search advertising, and professional networking products. The company reports three major segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. Productivity and Business Processes includes Microsoft 365 Commercial and Consumer, Microsoft 365 Copilot, LinkedIn, Dynamics 365, Power Platform, and related productivity services. Intelligent Cloud includes Azure and other cloud services, cloud and AI consumption services, GitHub, Nuance Healthcare cloud services, Windows Server, SQL Server, Visual Studio, and hybrid infrastructure products. More Personal Computing includes Windows, devices, Xbox content and services, search, and news advertising. For investment analysis, Microsoft is important because revenue is driven by cloud adoption, enterprise software renewals, AI infrastructure demand, Microsoft 365 Copilot adoption, Azure consumption, cybersecurity, gaming, LinkedIn, and advertising. Key risks include intense competition, high AI infrastructure spending, cloud capacity constraints, security incidents, regulatory pressure, and the need to convert AI demand into profitable growth.",
+    "metadata": {
+      "document_id": 54,
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "sector": "Technology",
+      "doc_type": "overview",
+      "title": "Microsoft Company Overview",
+      "date": "2025-07-30",
+      "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+      "file_path": "data/MSFT/overview.json"
+    }
+  },
+  {
+    "document_id": 55,
+    "text": "Title: NVIDIA Q4 Fiscal 2026 Earnings Highlights\nCompany: NVIDIA (NVDA)\nSector: Technology\nDocument type: earnings_highlights\nDate: 2026-02-25\n\nNVIDIA reported record fourth quarter fiscal 2026 revenue of $68.1 billion for the quarter ended January 25, 2026, up 20% from the prior quarter and up 73% year over year. Data Center revenue was a record $62.3 billion, up 22% sequentially and up 75% from a year earlier, driven by accelerated computing and AI demand. GAAP gross margin was 75.0%, GAAP net income was $43.0 billion, and GAAP diluted EPS was $1.76. Non-GAAP gross margin was 75.2%, non-GAAP net income was $39.6 billion, and non-GAAP diluted EPS was $1.62. For fiscal 2026, total revenue was $215.9 billion, up 65%, and Data Center full-year revenue rose 68% to $193.7 billion. NVIDIA also guided for first quarter fiscal 2027 revenue of $78.0 billion, plus or minus 2%, while assuming no Data Center compute revenue from China. This earnings evidence is useful because it shows extremely strong AI infrastructure demand, high profitability, and continued growth expectations, while also highlighting China export-control risk.",
+    "metadata": {
+      "document_id": 55,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "sector": "Technology",
+      "doc_type": "earnings_highlights",
+      "title": "NVIDIA Q4 Fiscal 2026 Earnings Highlights",
+      "date": "2026-02-25",
+      "source_url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Fourth-Quarter-and-Fiscal-2026/",
+      "file_path": "data/NVDA/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 56,
+    "text": "Title: NVIDIA Financial Summary From Fiscal 2026 Form 10-K\nCompany: NVIDIA (NVDA)\nSector: Technology\nDocument type: financial_summary\nDate: 2026-02-20\n\nFor fiscal year 2026, NVIDIA reported revenue of $215.9 billion, up 65% from $130.5 billion in fiscal 2025. Operating income was $130.4 billion, up 60%, and net income was $120.1 billion, up 65%. Diluted EPS was $4.90, up 67%. Data Center revenue increased 68% year over year, driven by platform shifts toward accelerated computing and AI, with Blackwell architectures representing the majority of Data Center revenue. Gaming revenue rose 41%, Professional Visualization revenue rose 70%, and Automotive revenue rose 39%. GAAP gross margin decreased to 71.1% from 75.0%, partly because NVIDIA shifted from Hopper HGX systems to Blackwell full-scale data center solutions and recorded a $4.5 billion charge related to H20 excess inventory and purchase obligations. NVIDIA ended fiscal 2026 with $62.6 billion in cash, cash equivalents, and marketable securities and repurchased $40.4 billion of stock during the year. Key risks include supply constraints, reliance on third-party manufacturers, export controls, customer concentration, competition, rapid product transitions, data center power availability, and capital constraints for AI infrastructure customers.",
+    "metadata": {
+      "document_id": 56,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "sector": "Technology",
+      "doc_type": "financial_summary",
+      "title": "NVIDIA Financial Summary From Fiscal 2026 Form 10-K",
+      "date": "2026-02-20",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "file_path": "data/NVDA/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 57,
+    "text": "Title: NVIDIA Vera Rubin Opens Agentic AI Frontier\nCompany: NVIDIA (NVDA)\nSector: Technology\nDocument type: news\nDate: 2026-03-16\n\nNVIDIA announced the Vera Rubin platform at GTC 2026, describing it as a new platform for agentic AI and large AI factories. The platform includes Vera Rubin NVL72 GPU racks, Vera CPU racks, NVIDIA Groq 3 LPX inference accelerator racks, BlueField-4 STX storage racks, and Spectrum-6 SPX Ethernet racks. NVIDIA said seven new chips are in full production and are designed to work together as one AI supercomputer for pretraining, post-training, test-time scaling, and real-time agentic inference. The Vera Rubin NVL72 rack integrates 72 Rubin GPUs and 36 Vera CPUs and is designed to train large mixture-of-experts models with fewer GPUs than Blackwell while improving inference throughput per watt and cost per token. NVIDIA also said Vera Rubin-based products will be available from partners starting in the second half of 2026, including major cloud providers and system makers. This news supports the investment thesis that NVIDIA is extending its product roadmap beyond Blackwell and trying to defend leadership in AI infrastructure.",
+    "metadata": {
+      "document_id": 57,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "NVIDIA Vera Rubin Opens Agentic AI Frontier",
+      "date": "2026-03-16",
+      "source_url": "https://nvidianews.nvidia.com/news/nvidia-vera-rubin-platform",
+      "file_path": "data/NVDA/news_1.json"
+    }
+  },
+  {
+    "document_id": 58,
+    "text": "Title: Meta Builds AI Infrastructure With NVIDIA\nCompany: NVIDIA (NVDA)\nSector: Technology\nDocument type: news\nDate: 2026-02-17\n\nNVIDIA announced a multiyear, multigenerational strategic partnership with Meta covering on-premises, cloud, and AI infrastructure. The partnership supports Meta's AI infrastructure roadmap and includes large-scale deployment of NVIDIA CPUs, networking, and millions of NVIDIA Blackwell and Rubin GPUs. Meta plans to build hyperscale data centers optimized for training and inference, while integrating NVIDIA Spectrum-X Ethernet into Meta's Facebook Open Switching System platform. NVIDIA also said Meta is expanding use of Arm-based NVIDIA Grace CPUs, collaborating on potential Vera CPU deployment, and using NVIDIA Confidential Computing for WhatsApp private processing. This news is useful evidence because it shows one of the world's largest AI customers committing to NVIDIA's full-stack platform across GPUs, CPUs, networking, software, and privacy-enhanced AI infrastructure. It supports the case for long-term demand, but also reinforces customer concentration and hyperscaler spending dependence as key risks.",
+    "metadata": {
+      "document_id": 58,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "sector": "Technology",
+      "doc_type": "news",
+      "title": "Meta Builds AI Infrastructure With NVIDIA",
+      "date": "2026-02-17",
+      "source_url": "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+      "file_path": "data/NVDA/news_2.json"
+    }
+  },
+  {
+    "document_id": 59,
+    "text": "Title: NVIDIA Company Overview\nCompany: NVIDIA (NVDA)\nSector: Technology\nDocument type: overview\nDate: 2026-02-20\n\nNVIDIA is a technology company headquartered in Santa Clara, California. The company pioneered accelerated computing and is now a data center scale AI infrastructure company. NVIDIA's technology stack includes GPUs, CPUs, DPUs, networking, systems, CUDA software, domain-specific software libraries, frameworks, SDKs, and APIs. Its products are used for AI training and inference, data analytics, scientific computing, high performance computing, autonomous vehicles, robotics, digital twins, gaming, and professional visualization. NVIDIA reports two operating segments: Compute & Networking and Graphics. Compute & Networking includes Data Center accelerated computing and networking platforms, AI solutions and software, and Automotive platforms. Graphics includes GeForce GPUs for gaming, RTX professional visualization, and related products. For investment analysis, NVIDIA is important because demand is tied to AI infrastructure buildouts, hyperscale cloud spending, Blackwell and Rubin product adoption, networking attach rates, supply availability, export controls, customer concentration, competition from custom AI chips, and the ability to maintain high margins through fast product transitions.",
+    "metadata": {
+      "document_id": 59,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "sector": "Technology",
+      "doc_type": "overview",
+      "title": "NVIDIA Company Overview",
+      "date": "2026-02-20",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+      "file_path": "data/NVDA/overview.json"
+    }
+  },
+  {
+    "document_id": 60,
+    "text": "Title: Pfizer Q4 and Full-Year 2025 Earnings Highlights\nCompany: Pfizer (PFE)\nSector: Healthcare\nDocument type: earnings_highlights\nDate: 2026-02-03\n\nPfizer reported fourth-quarter and full-year 2025 results and reaffirmed its full-year 2026 guidance. Full-year 2025 revenue was $62.6 billion, down 2% operationally from 2024, but revenue excluding Comirnaty and Paxlovid grew 6% operationally. Full-year reported diluted EPS was $1.36 and adjusted diluted EPS was $3.22. Fourth-quarter 2025 revenue was $17.6 billion, down 3% operationally, while revenue excluding Comirnaty and Paxlovid grew 9% operationally. Fourth-quarter reported diluted loss per share was $0.29 and adjusted diluted EPS was $0.66. Growth in the quarter was supported by products such as Abrysvo, oncology biosimilars, Eliquis, Prevnar, Vyndaqel, Lorbrena, and Padcev, but COVID-19 products declined sharply, with Comirnaty down 35% operationally and Paxlovid down 70% operationally. Pfizer reaffirmed 2026 revenue guidance of $59.5 billion to $62.5 billion and adjusted diluted EPS guidance of $2.80 to $3.00. The release is useful RAG evidence because it shows Pfizer's non-COVID business growth, cost discipline, pipeline focus, and continuing pressure from COVID product declines and loss-of-exclusivity risk.",
+    "metadata": {
+      "document_id": 60,
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "sector": "Healthcare",
+      "doc_type": "earnings_highlights",
+      "title": "Pfizer Q4 and Full-Year 2025 Earnings Highlights",
+      "date": "2026-02-03",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000005/pfe-12312025xex99.htm",
+      "file_path": "data/PFE/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 61,
+    "text": "Title: Pfizer Financial Summary From 2025 Annual Report\nCompany: Pfizer (PFE)\nSector: Healthcare\nDocument type: financial_summary\nDate: 2026-02-26\n\nFor 2025, Pfizer reported revenue of $62.579 billion, compared with $63.627 billion in 2024 and $59.553 billion in 2023. Reported net income was $7.771 billion, compared with $8.031 billion in 2024. Reported diluted EPS was $1.36, down from $1.41 in 2024. Adjusted income was $18.406 billion, up 4%, and adjusted diluted EPS was $3.22, also up 4%. Net cash provided by operating activities was $11.704 billion, and Pfizer paid $9.771 billion of cash dividends. The company's largest 2025 products included Eliquis, Prevnar, Vyndaqel, Comirnaty, Ibrance, Paxlovid, Xtandi, Padcev, Nurtec ODT/Vydura, and Xeljanz. Pfizer invested $10.4 billion in internal R&D and approximately $8.8 billion in business development transactions, mainly reflecting the Metsera acquisition and the 3SBio in-licensing deal. Cost-reduction programs helped improve efficiency, with the cost realignment program expected to deliver about $5.7 billion in net cost savings by the end of 2026. Key risks include drug pricing pressure, loss of exclusivity, generic and biosimilar competition, clinical trial failure, regulatory delays, COVID product demand declines, debt and deleveraging, and integration risk from acquisitions.",
+    "metadata": {
+      "document_id": 61,
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "sector": "Healthcare",
+      "doc_type": "financial_summary",
+      "title": "Pfizer Financial Summary From 2025 Annual Report",
+      "date": "2026-02-26",
+      "source_url": "https://annualreview.pfizer.com/",
+      "file_path": "data/PFE/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 62,
+    "text": "Title: Atirmociclib Phase 2 Data Support Pfizer Oncology Pipeline\nCompany: Pfizer (PFE)\nSector: Healthcare\nDocument type: news\nDate: 2026-03-17\n\nPfizer announced positive topline Phase 2 results for atirmociclib, an investigational next-generation CDK4 inhibitor, in second-line hormone receptor-positive, HER2-negative advanced or metastatic breast cancer. The randomized FOURLIGHT-1 study met its primary endpoint, showing a statistically significant and clinically meaningful improvement in progression-free survival with atirmociclib plus fulvestrant compared with fulvestrant or everolimus plus exemestane. Pfizer reported a 40% reduction in the risk of disease progression or death and said more than 90% of patients started atirmociclib within three months of prior CDK4/6 inhibitor therapy. The safety profile was manageable, with 6.4% of patients discontinuing atirmociclib because of treatment-emergent adverse events. This news is useful evidence because oncology is central to Pfizer's post-COVID growth strategy, and positive data for a potential first-in-class CDK4 inhibitor could strengthen Pfizer's late-stage pipeline. The risk is that atirmociclib remains investigational and still requires larger studies, regulatory review, and successful commercialization.",
+    "metadata": {
+      "document_id": 62,
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "Atirmociclib Phase 2 Data Support Pfizer Oncology Pipeline",
+      "date": "2026-03-17",
+      "source_url": "https://www.pfizer.com/news/press-release/press-release-detail/pfizer-announces-positive-topline-phase-2-results-next",
+      "file_path": "data/PFE/news_1.json"
+    }
+  },
+  {
+    "document_id": 63,
+    "text": "Title: PADCEV Plus Keytruda Shows Strong Phase 3 Bladder Cancer Results\nCompany: Pfizer (PFE)\nSector: Healthcare\nDocument type: news\nDate: 2026-02-27\n\nPfizer and Astellas announced positive Phase 3 EV-304 results for PADCEV in combination with Keytruda in cisplatin-eligible muscle-invasive bladder cancer. The regimen reduced the risk of tumor recurrence, progression, or death by 47% compared with standard-of-care neoadjuvant gemcitabine and cisplatin. Estimated two-year event-free survival was 79.4% for the PADCEV plus pembrolizumab group versus 66.2% for standard chemotherapy. Overall survival also improved, with a 35% lower risk of death, and pathological complete response was 55.8% versus 32.5% for chemotherapy. Pfizer said the data, together with EV-303 results, support the potential for PADCEV plus pembrolizumab to become a new standard of care for muscle-invasive bladder cancer if approved. This news is useful RAG evidence because PADCEV came from Pfizer's Seagen acquisition and is an important oncology growth asset. Key risks include safety warnings, regulatory approval timing, competition, reimbursement, and whether clinical benefits translate into commercial growth.",
+    "metadata": {
+      "document_id": 63,
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "PADCEV Plus Keytruda Shows Strong Phase 3 Bladder Cancer Results",
+      "date": "2026-02-27",
+      "source_url": "https://www.pfizer.com/news/press-release/press-release-detail/padcevtm-keytrudar-cuts-risk-recurrence-or-death-nearly-50",
+      "file_path": "data/PFE/news_2.json"
+    }
+  },
+  {
+    "document_id": 64,
+    "text": "Title: Pfizer Company Overview\nCompany: Pfizer (PFE)\nSector: Healthcare\nDocument type: overview\nDate: 2026-02-26\n\nPfizer is a research-based global biopharmaceutical company headquartered in New York. The company discovers, develops, manufactures, markets, sells, and distributes prescription medicines and vaccines worldwide. Pfizer's portfolio includes products across oncology, vaccines, internal medicine, inflammation and immunology, anti-infectives, rare disease, and hospital care. Important products and franchises include Eliquis, Prevnar, Vyndaqel, Comirnaty, Ibrance, Paxlovid, Xtandi, Padcev, Nurtec ODT/Vydura, Xeljanz, and several oncology biosimilars. Pfizer also generates revenue from Pfizer CentreOne, a contract development and manufacturing business. For investment analysis, Pfizer is important because performance depends on product demand, new launches, patent and exclusivity timelines, clinical trial results, regulatory approvals, pricing pressure, Medicare and government drug policies, COVID-19 product seasonality, cost reduction programs, acquisitions such as Seagen and Metsera, and the company's ability to rebuild growth through its late-stage pipeline.",
+    "metadata": {
+      "document_id": 64,
+      "ticker": "PFE",
+      "company": "Pfizer",
+      "sector": "Healthcare",
+      "doc_type": "overview",
+      "title": "Pfizer Company Overview",
+      "date": "2026-02-26",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000026/pfe-20251231.htm",
+      "file_path": "data/PFE/overview.json"
+    }
+  },
+  {
+    "document_id": 65,
+    "text": "Title: UnitedHealth Group 2025 Results and 2026 Outlook\nCompany: UnitedHealth Group (UNH)\nSector: Healthcare\nDocument type: earnings_highlights\nDate: 2026-01-27\n\nUnitedHealth Group reported full-year and fourth-quarter 2025 results and issued its 2026 outlook on January 27, 2026. Full-year 2025 revenue was $447.6 billion, up 12% year over year. Earnings from operations were $19.0 billion, net margin was 2.7%, and cash flows from operations were $19.7 billion, or 1.5 times net income. Full-year earnings were $13.23 per share and adjusted earnings were $16.35 per share. For 2026, the company guided for revenue greater than $439.0 billion, earnings from operations greater than $24.0 billion, earnings per share greater than $17.10, and adjusted earnings greater than $17.75 per share. The release is useful RAG evidence because it shows UnitedHealth Group remained very large and cash-generative, but entered 2026 with a lower revenue outlook and a need to rebuild performance after elevated medical cost trends, reimbursement pressure, cyberattack costs, restructuring, and scrutiny around parts of the business.",
+    "metadata": {
+      "document_id": 65,
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "doc_type": "earnings_highlights",
+      "title": "UnitedHealth Group 2025 Results and 2026 Outlook",
+      "date": "2026-01-27",
+      "source_url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-01-27-uhg-reports-2025-results-and-issues-2026-outlook.html",
+      "file_path": "data/UNH/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 66,
+    "text": "Title: UnitedHealth Group Financial Summary From 2025 Form 10-K\nCompany: UnitedHealth Group (UNH)\nSector: Healthcare\nDocument type: financial_summary\nDate: 2026-03-02\n\nUnitedHealth Group generated 2025 consolidated revenue of $447.567 billion. UnitedHealthcare revenue was $344.903 billion, while Optum generated $270.620 billion before eliminations, including $101.957 billion from Optum Health, $19.417 billion from Optum Insight, and $154.726 billion from Optum Rx. Earnings from operations were $19.0 billion, and cash flows from operations were $19.7 billion. The 2025 Form 10-K describes UnitedHealth Group as operating across UnitedHealthcare and Optum, with reportable segments in UnitedHealthcare, Optum Health, Optum Insight, and Optum Rx. The company also disclosed that premium revenues from the Centers for Medicare & Medicaid Services represented 44% of total consolidated revenue in 2025, most of it from UnitedHealthcare Medicare & Retirement. Key risks include higher medical utilization, Medicare Advantage reimbursement pressure, Medicaid and government program changes, drug cost inflation, regulatory investigations, cybersecurity risk, provider cost trends, integration of acquisitions, debt and capital allocation, and public scrutiny of health insurer and pharmacy benefit manager practices.",
+    "metadata": {
+      "document_id": 66,
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "doc_type": "financial_summary",
+      "title": "UnitedHealth Group Financial Summary From 2025 Form 10-K",
+      "date": "2026-03-02",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+      "file_path": "data/UNH/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 67,
+    "text": "Title: UnitedHealthcare Introduces Avery AI Companion\nCompany: UnitedHealth Group (UNH)\nSector: Healthcare\nDocument type: news\nDate: 2026-03-26\n\nUnitedHealthcare introduced Avery, a generative AI companion designed to simplify health care navigation for members and support customer advocates. Avery can respond in natural language 24/7 with personal coverage and claims details, cost estimates, scheduling help, care options, rewards opportunities, provider search, and explanations of benefits. UnitedHealthcare said Avery was available to about 6.5 million members with employer-sponsored plans and 160,000 Medicare Advantage members, with expansion planned to reach 20.5 million commercial, Medicare, and Medicaid members by the end of 2026. The company also said Avery is part of more than 1,000 AI solutions across UnitedHealth Group and that the company plans to invest $1.6 billion in AI this year. This news is useful evidence because it connects UnitedHealth Group's scale, digital capabilities, and member service strategy. The investment case is that better navigation and automation may improve consumer experience and efficiency, while the risk is that AI in health care requires strong oversight, privacy controls, accuracy, and regulatory trust.",
+    "metadata": {
+      "document_id": 67,
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "UnitedHealthcare Introduces Avery AI Companion",
+      "date": "2026-03-26",
+      "source_url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-03-26-uhc-introduces-ai-companion-empowering-people-with-simpler-navigation-personal-experience.html",
+      "file_path": "data/UNH/news_1.json"
+    }
+  },
+  {
+    "document_id": 68,
+    "text": "Title: UnitedHealthcare Report Highlights Rising Employer Health Cost Pressures\nCompany: UnitedHealth Group (UNH)\nSector: Healthcare\nDocument type: news\nDate: 2026-02-04\n\nUnitedHealthcare and Health Action Council released a report on workforce health and affordability trends based on data from more than 225,000 members with health plans administered by UnitedHealthcare. The report said younger generations are developing serious health issues earlier in life, with claims for Millennials and Gen Z rising at nearly twice the year-over-year growth rate of Baby Boomers between 2023 and 2025. It also said major health events, defined as medical claims exceeding $100,000 annually, are about twice as common as five years earlier, and average monthly claims for those events have increased nearly 40% since 2020. The report highlighted that employer-sponsored benefit costs rose faster than general inflation and wage growth, with industry data pointing to a 6% increase in 2025 and a projected 6.5% rise in 2026. This is useful RAG evidence because it explains both the opportunity and risk for UnitedHealth Group: employers need analytics, prevention, primary care engagement, and cost management, but rising utilization and high-cost claims can pressure margins.",
+    "metadata": {
+      "document_id": 68,
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "doc_type": "news",
+      "title": "UnitedHealthcare Report Highlights Rising Employer Health Cost Pressures",
+      "date": "2026-02-04",
+      "source_url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-02-04-uhc-hac-new-report-reveals-americans-getting-sick-more-often.html",
+      "file_path": "data/UNH/news_2.json"
+    }
+  },
+  {
+    "document_id": 69,
+    "text": "Title: UnitedHealth Group Company Overview\nCompany: UnitedHealth Group (UNH)\nSector: Healthcare\nDocument type: overview\nDate: 2026-03-02\n\nUnitedHealth Group is a health care and well-being company that operates through two complementary businesses: UnitedHealthcare and Optum. UnitedHealthcare provides health benefits for employers, individuals, Medicare beneficiaries, Medicaid and community programs, and other government-sponsored populations. Optum provides health services, care delivery, pharmacy care services, data, technology, analytics, consulting, and administrative solutions through Optum Health, Optum Insight, and Optum Rx. UnitedHealth Group reports four segments: UnitedHealthcare, Optum Health, Optum Insight, and Optum Rx. The company is important for investment analysis because its performance depends on membership growth, premium pricing, medical care costs, Medicare Advantage rates, Medicaid redeterminations, pharmacy services volume, value-based care execution, regulatory scrutiny, technology investment, cybersecurity, and the ability of Optum and UnitedHealthcare to work together across a large health care platform.",
+    "metadata": {
+      "document_id": 69,
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "doc_type": "overview",
+      "title": "UnitedHealth Group Company Overview",
+      "date": "2026-03-02",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+      "file_path": "data/UNH/overview.json"
+    }
+  },
+  {
+    "document_id": 70,
+    "text": "Title: Visa Q1 Fiscal 2026 Earnings Highlights\nCompany: Visa (V)\nSector: Finance\nDocument type: earnings_highlights\nDate: 2026-01-29\n\nVisa reported strong fiscal first quarter 2026 results for the quarter ended December 31, 2025. Net revenue was $10.9 billion, up 15% year over year, or 13% on a constant-dollar basis. GAAP net income was $5.9 billion, up 14%, and GAAP diluted EPS was $3.03, up 17%. Non-GAAP net income was $6.1 billion and non-GAAP EPS was $3.17, up 15%. Business drivers were also strong: payments volume increased 8% in constant dollars, total cross-border volume rose 12%, cross-border volume excluding intra-Europe rose 11%, and processed transactions increased 9%. Visa also returned $5.1 billion to shareholders through repurchases and dividends. This is useful evidence for a stock explanation because it shows broad-based payment growth, resilient consumer spending, cross-border momentum, and strong profitability. Risks to mention include litigation provisions, regulation of payments fees, and the possibility that weaker consumer spending could slow payments volume.",
+    "metadata": {
+      "document_id": 70,
+      "ticker": "V",
+      "company": "Visa",
+      "sector": "Finance",
+      "doc_type": "earnings_highlights",
+      "title": "Visa Q1 Fiscal 2026 Earnings Highlights",
+      "date": "2026-01-29",
+      "source_url": "https://s1.q4cdn.com/050606653/files/doc_financials/2026/q1/Q1-2026-Earnings-Release_vF.pdf",
+      "file_path": "data/V/earnings_highlights.json"
+    }
+  },
+  {
+    "document_id": 71,
+    "text": "Title: Visa Financial Summary From Fiscal 2025 Annual Report\nCompany: Visa (V)\nSector: Finance\nDocument type: financial_summary\nDate: 2025-09-30\n\nFor fiscal year 2025, Visa reported net revenue of $40.0 billion, compared with $35.9 billion in fiscal 2024 and $32.7 billion in fiscal 2023. GAAP net income was $20.1 billion and diluted class A earnings per share were $10.20. Non-GAAP net income was $22.5 billion and non-GAAP diluted class A earnings per share were $11.47. Visa's operating scale remained large: total volume was $16.7 trillion, payments volume was $14.2 trillion, transactions processed on Visa networks were 257.5 billion, and payment credentials reached 4.9 billion. These figures show a high-margin network model with growth driven by payment volume, processed transactions, cross-border commerce, and value-added services. For a stock ranking explanation, the positive evidence is Visa's durable revenue growth, global network effects, strong profitability, and continued expansion of digital payments. Main risks include legal and regulatory pressure on payment economics, client incentives, macro sensitivity in consumer and travel spending, and competitive pressure from other payment networks and emerging payment rails.",
+    "metadata": {
+      "document_id": 71,
+      "ticker": "V",
+      "company": "Visa",
+      "sector": "Finance",
+      "doc_type": "financial_summary",
+      "title": "Visa Financial Summary From Fiscal 2025 Annual Report",
+      "date": "2025-09-30",
+      "source_url": "https://annualreport.visa.com/financials/",
+      "file_path": "data/V/financial_summary.json"
+    }
+  },
+  {
+    "document_id": 72,
+    "text": "Title: Visa Opens the Door to AI-Driven Shopping for Businesses Worldwide\nCompany: Visa (V)\nSector: Finance\nDocument type: news\nDate: 2026-04-08\n\nVisa unveiled Intelligent Commerce Connect, a solution in the Visa Intelligent Commerce portfolio designed to help agent builders, merchants, and payment enablers participate in AI-powered commerce through a single integration. The product works through the Visa Acceptance Platform and is intended to support secure payment initiation, tokenization, spend controls, and authentication for agentic transactions. Visa said the pilot includes partners such as Aldar, AWS, Diddo, Highnote, Mesh, Payabli, and Sumvin, with broader rollout planned during the year. The announcement matters for stock analysis because it connects Visa's existing acceptance infrastructure to a possible new wave of AI-assisted shopping, where software agents discover products and initiate purchases for consumers. If adoption grows, Visa could defend and extend its role in digital checkout, tokenization, merchant acceptance, and value-added services. The main uncertainty is whether agentic commerce becomes mainstream quickly enough to create material transaction volume and revenue.",
+    "metadata": {
+      "document_id": 72,
+      "ticker": "V",
+      "company": "Visa",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Visa Opens the Door to AI-Driven Shopping for Businesses Worldwide",
+      "date": "2026-04-08",
+      "source_url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22276.html",
+      "file_path": "data/V/news_1.json"
+    }
+  },
+  {
+    "document_id": 73,
+    "text": "Title: Visa and Bridge Expand Collaboration for Stablecoin-Linked Cards\nCompany: Visa (V)\nSector: Finance\nDocument type: news\nDate: 2026-03-03\n\nVisa and Bridge, a stablecoin infrastructure platform owned by Stripe, announced an expansion of their global card issuance collaboration. Bridge enables businesses and fintech developers to offer stablecoin-backed Visa cards, and Visa said Bridge-enabled cards were already live in 18 countries with planned expansion to more than 100 countries across Europe, Asia Pacific, Africa, and the Middle East by the end of the year. The companies also described Visa's stablecoin settlement pilot, which lets selected issuers and acquirers settle with Visa using stablecoins over supported blockchain networks. This news is useful evidence because it shows Visa trying to connect stablecoin balances, card acceptance, and settlement optionality instead of being bypassed by crypto payment rails. Potential upside comes from new fintech partners, cross-border use cases, and global merchant acceptance. Key risks include regulatory uncertainty, adoption pace, blockchain reliability, and whether stablecoin programs become large enough to move Visa's results.",
+    "metadata": {
+      "document_id": 73,
+      "ticker": "V",
+      "company": "Visa",
+      "sector": "Finance",
+      "doc_type": "news",
+      "title": "Visa and Bridge Expand Collaboration for Stablecoin-Linked Cards",
+      "date": "2026-03-03",
+      "source_url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22206.html",
+      "file_path": "data/V/news_2.json"
+    }
+  },
+  {
+    "document_id": 74,
+    "text": "Title: Visa Company Overview\nCompany: Visa (V)\nSector: Finance\nDocument type: overview\nDate: 2025-09-30\n\nVisa is a global payments technology company that facilitates secure, reliable, and efficient commerce and money movement among consumers, sellers, financial institutions, businesses, strategic partners, and governments. Its core network provides transaction processing services, primarily authorization, clearing, and settlement, across more than 200 countries and territories. Visa is not a bank and generally does not issue cards, extend credit, or set rates and fees for Visa account holders. Revenue is mainly connected to service revenue from payments volume, data processing revenue from processed transactions, international transaction revenue from cross-border activity, and other value-added services, reduced by client incentives. For investment analysis, Visa is important because it benefits from the global shift from cash to digital payments, ecommerce growth, travel and cross-border spending, tokenization, fraud tools, Visa Direct, commercial payments, and value-added services. Key risks include regulation of payment fees and routing, litigation, macro weakness in consumer spending, intense competition from Mastercard and fintechs, cybersecurity, and disruption from new payment technologies.",
+    "metadata": {
+      "document_id": 74,
+      "ticker": "V",
+      "company": "Visa",
+      "sector": "Finance",
+      "doc_type": "overview",
+      "title": "Visa Company Overview",
+      "date": "2025-09-30",
+      "source_url": "https://annualreport.visa.com/financials/",
+      "file_path": "data/V/overview.json"
+    }
+  }
+]

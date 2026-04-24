@@ -1,0 +1,10 @@
+{
+  "ticker": "META",
+  "company": "Meta",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "Meta Introduces Muse Spark AI Model",
+  "date": "2026-04-08",
+  "source_url": "https://about.fb.com/news/2026/04/introducing-muse-spark-meta-superintelligence-labs/",
+  "text": "Meta introduced Muse Spark, the first model from Meta Superintelligence Labs and its most powerful model at the time of announcement. The model is designed specifically for Meta's products and is intended to power a faster, smarter Meta AI experience. Meta said Muse Spark currently powers the Meta AI app and website and will roll out to WhatsApp, Instagram, Facebook, Messenger, and AI glasses. Over time, the model is expected to support features that use recommendations and content people share across Instagram, Facebook, and Threads. This news is relevant for Meta's investment story because it shows how the company is trying to turn AI research and infrastructure spending into consumer-facing products across its massive app ecosystem. It also supports the idea that Meta can use AI to improve engagement, personalization, and product utility."
+}

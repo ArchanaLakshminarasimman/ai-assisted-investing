@@ -1,0 +1,10 @@
+{
+  "ticker": "GOOGL",
+  "company": "Alphabet",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "Google Completes Acquisition of Wiz",
+  "date": "2026-03-11",
+  "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/wiz-acquisition/",
+  "text": "Google completed its acquisition of Wiz, a cloud and AI security platform, in March 2026. Wiz will join Google Cloud while maintaining its brand and commitment to securing customers across multiple cloud environments. The acquisition is strategically important because security is a major concern as businesses and governments move more workloads and data into cloud and AI systems. Google said the deal is intended to improve cloud security and help organizations build securely across any cloud or AI platform. For Alphabet's investment story, Wiz strengthens Google Cloud's enterprise offering and may help Google compete more effectively against larger cloud rivals. The deal also connects directly to the company's AI strategy because AI adoption increases demand for secure infrastructure, threat detection, and protection across complex multicloud environments."
+}

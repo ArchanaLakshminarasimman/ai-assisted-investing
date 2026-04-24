@@ -1,0 +1,10 @@
+{
+  "ticker": "V",
+  "company": "Visa",
+  "sector": "Finance",
+  "doc_type": "financial_summary",
+  "title": "Visa Financial Summary From Fiscal 2025 Annual Report",
+  "date": "2025-09-30",
+  "source_url": "https://annualreport.visa.com/financials/",
+  "text": "For fiscal year 2025, Visa reported net revenue of $40.0 billion, compared with $35.9 billion in fiscal 2024 and $32.7 billion in fiscal 2023. GAAP net income was $20.1 billion and diluted class A earnings per share were $10.20. Non-GAAP net income was $22.5 billion and non-GAAP diluted class A earnings per share were $11.47. Visa's operating scale remained large: total volume was $16.7 trillion, payments volume was $14.2 trillion, transactions processed on Visa networks were 257.5 billion, and payment credentials reached 4.9 billion. These figures show a high-margin network model with growth driven by payment volume, processed transactions, cross-border commerce, and value-added services. For a stock ranking explanation, the positive evidence is Visa's durable revenue growth, global network effects, strong profitability, and continued expansion of digital payments. Main risks include legal and regulatory pressure on payment economics, client incentives, macro sensitivity in consumer and travel spending, and competitive pressure from other payment networks and emerging payment rails."
+}

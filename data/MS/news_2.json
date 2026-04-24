@@ -1,0 +1,10 @@
+{
+  "ticker": "MS",
+  "company": "Morgan Stanley",
+  "sector": "Finance",
+  "doc_type": "news",
+  "title": "Morgan Stanley Reports Record Q1 2026 Results",
+  "date": "2026-04-15",
+  "source_url": "https://www.morganstanley.com/press-releases/morgan-stanley-reports-first-quarter-2026",
+  "text": "Morgan Stanley announced its first quarter 2026 financial results on April 15, 2026, describing the quarter as a record period for the firm. The earnings release showed strong performance across Institutional Securities and Wealth Management, with elevated client engagement, higher trading activity, stronger investment banking results, and continued net new asset growth in wealth management. This news is important for RAG evidence because it helps explain why Morgan Stanley might rank well in a momentum or quality screen: revenue growth was supported by both capital markets strength and recurring wealth management activity. The same evidence also highlights risk. Morgan Stanley's strongest upside often depends on client activity, advisory and underwriting pipelines, equity and fixed income trading conditions, asset values, and broader market confidence. If market volatility turns unfavorable or deal activity slows, earnings momentum can weaken."
+}

@@ -1,0 +1,10 @@
+{
+  "ticker": "JPM",
+  "company": "JPMorgan Chase",
+  "sector": "Finance",
+  "doc_type": "news",
+  "title": "J.P. Morgan Payments Recognized for AI Innovation",
+  "date": "2026-02-05",
+  "source_url": "https://www.jpmorgan.com/payments/newsroom/ai-innovation-awards-turbo-platform",
+  "text": "J.P. Morgan Payments was recognized by The Digital Banker for AI innovation, winning awards for its Turbo platform. Turbo is an internally developed AI-powered tool used to automate payment system testing across multiple products and platforms. The platform uses large language models to convert natural language requirements into precise test scenarios and reduce testing cycles. This news is useful evidence for JPMorgan Chase's RAG explanation because payments is an important part of the firm's corporate and commercial banking franchise, and AI can improve speed, quality, and operational efficiency in complex financial technology systems. The recognition also supports JPMorgan Chase's broader investment case as a large financial institution using technology and artificial intelligence to strengthen client service, infrastructure reliability, and productivity."
+}

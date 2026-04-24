@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "sector": "Technology",
+  "doc_type": "financial_summary",
+  "title": "Microsoft Financial Summary From Fiscal 2025 Annual Report",
+  "date": "2025-07-30",
+  "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+  "text": "For fiscal year 2025, Microsoft reported revenue of $281.7 billion, up 15% from $245.1 billion in fiscal 2024. Gross margin was $193.9 billion, operating income was $128.5 billion, and net income was $101.8 billion, up 16%. Diluted EPS was $13.64, up 16%. Microsoft Cloud revenue increased 23% to $168.9 billion, reflecting continued demand for Azure, Microsoft 365 Commercial cloud, Dynamics 365, LinkedIn commercial products, and other cloud services. Productivity and Business Processes revenue was $120.8 billion, up 13%, and operating income was $69.8 billion. Intelligent Cloud revenue was $106.3 billion, up 21%, and operating income was $44.6 billion, driven by Azure and other cloud services revenue growth of 34%. More Personal Computing revenue was $54.6 billion, up 7%, supported by gaming and search advertising. Important investment risks include higher datacenter and AI infrastructure costs, competition in cloud and AI, regulatory scrutiny, cybersecurity risk, dependence on large enterprise customers, and execution risk in commercializing Copilot and other AI products."
+}

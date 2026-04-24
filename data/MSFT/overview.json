@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "sector": "Technology",
+  "doc_type": "overview",
+  "title": "Microsoft Company Overview",
+  "date": "2025-07-30",
+  "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+  "text": "Microsoft is a global technology company that develops software, cloud services, AI platforms, business applications, devices, gaming services, search advertising, and professional networking products. The company reports three major segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing. Productivity and Business Processes includes Microsoft 365 Commercial and Consumer, Microsoft 365 Copilot, LinkedIn, Dynamics 365, Power Platform, and related productivity services. Intelligent Cloud includes Azure and other cloud services, cloud and AI consumption services, GitHub, Nuance Healthcare cloud services, Windows Server, SQL Server, Visual Studio, and hybrid infrastructure products. More Personal Computing includes Windows, devices, Xbox content and services, search, and news advertising. For investment analysis, Microsoft is important because revenue is driven by cloud adoption, enterprise software renewals, AI infrastructure demand, Microsoft 365 Copilot adoption, Azure consumption, cybersecurity, gaming, LinkedIn, and advertising. Key risks include intense competition, high AI infrastructure spending, cloud capacity constraints, security incidents, regulatory pressure, and the need to convert AI demand into profitable growth."
+}

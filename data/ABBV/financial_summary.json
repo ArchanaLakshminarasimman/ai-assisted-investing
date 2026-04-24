@@ -1,0 +1,10 @@
+{
+  "ticker": "ABBV",
+  "company": "AbbVie",
+  "sector": "Healthcare",
+  "doc_type": "financial_summary",
+  "title": "AbbVie Financial Summary From 2025 Form 10-K",
+  "date": "2026-02-20",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000008/abbv-20251231.htm",
+  "text": "AbbVie's 2025 Form 10-K reported worldwide net revenues of $61.2 billion, operating earnings of $15.1 billion, diluted EPS of $2.36, and cash flows from operations of $19.0 billion. Worldwide net revenues increased about 9% on both a reported and constant-currency basis. The company continued to invest in its pipeline and on-market brands while returning value to shareholders. AbbVie's 2025 results included significant costs related to intangible asset amortization, changes in the fair value of contingent consideration liabilities, intangible asset impairment, and acquisition and integration expenses. The financial picture shows a large, cash-generating pharmaceutical company with strong revenue growth but also meaningful accounting expenses tied to acquisitions and intangible assets. Key risks include patent/exclusivity pressure, especially the post-Humira transition, regulatory changes, government pricing pressure, and execution risk in drug development."
+}

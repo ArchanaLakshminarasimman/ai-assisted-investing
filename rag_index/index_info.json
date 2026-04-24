@@ -1,0 +1,9 @@
+{
+  "model_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "document_count": 75,
+  "embedding_dimension": 384,
+  "faiss_metric": "inner_product_on_normalized_embeddings",
+  "faiss_index_file": "documents.faiss",
+  "metadata_file": "metadata.json",
+  "documents_file": "documents.json"
+}

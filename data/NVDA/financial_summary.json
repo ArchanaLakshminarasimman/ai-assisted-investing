@@ -1,0 +1,10 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "sector": "Technology",
+  "doc_type": "financial_summary",
+  "title": "NVIDIA Financial Summary From Fiscal 2026 Form 10-K",
+  "date": "2026-02-20",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+  "text": "For fiscal year 2026, NVIDIA reported revenue of $215.9 billion, up 65% from $130.5 billion in fiscal 2025. Operating income was $130.4 billion, up 60%, and net income was $120.1 billion, up 65%. Diluted EPS was $4.90, up 67%. Data Center revenue increased 68% year over year, driven by platform shifts toward accelerated computing and AI, with Blackwell architectures representing the majority of Data Center revenue. Gaming revenue rose 41%, Professional Visualization revenue rose 70%, and Automotive revenue rose 39%. GAAP gross margin decreased to 71.1% from 75.0%, partly because NVIDIA shifted from Hopper HGX systems to Blackwell full-scale data center solutions and recorded a $4.5 billion charge related to H20 excess inventory and purchase obligations. NVIDIA ended fiscal 2026 with $62.6 billion in cash, cash equivalents, and marketable securities and repurchased $40.4 billion of stock during the year. Key risks include supply constraints, reliance on third-party manufacturers, export controls, customer concentration, competition, rapid product transitions, data center power availability, and capital constraints for AI infrastructure customers."
+}

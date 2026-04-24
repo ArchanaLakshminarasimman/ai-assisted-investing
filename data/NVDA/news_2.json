@@ -1,0 +1,10 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "Meta Builds AI Infrastructure With NVIDIA",
+  "date": "2026-02-17",
+  "source_url": "https://nvidianews.nvidia.com/news/meta-builds-ai-infrastructure-with-nvidia",
+  "text": "NVIDIA announced a multiyear, multigenerational strategic partnership with Meta covering on-premises, cloud, and AI infrastructure. The partnership supports Meta's AI infrastructure roadmap and includes large-scale deployment of NVIDIA CPUs, networking, and millions of NVIDIA Blackwell and Rubin GPUs. Meta plans to build hyperscale data centers optimized for training and inference, while integrating NVIDIA Spectrum-X Ethernet into Meta's Facebook Open Switching System platform. NVIDIA also said Meta is expanding use of Arm-based NVIDIA Grace CPUs, collaborating on potential Vera CPU deployment, and using NVIDIA Confidential Computing for WhatsApp private processing. This news is useful evidence because it shows one of the world's largest AI customers committing to NVIDIA's full-stack platform across GPUs, CPUs, networking, software, and privacy-enhanced AI infrastructure. It supports the case for long-term demand, but also reinforces customer concentration and hyperscaler spending dependence as key risks."
+}

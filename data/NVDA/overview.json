@@ -1,0 +1,10 @@
+{
+  "ticker": "NVDA",
+  "company": "NVIDIA",
+  "sector": "Technology",
+  "doc_type": "overview",
+  "title": "NVIDIA Company Overview",
+  "date": "2026-02-20",
+  "source_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000021/nvda-20260125.htm",
+  "text": "NVIDIA is a technology company headquartered in Santa Clara, California. The company pioneered accelerated computing and is now a data center scale AI infrastructure company. NVIDIA's technology stack includes GPUs, CPUs, DPUs, networking, systems, CUDA software, domain-specific software libraries, frameworks, SDKs, and APIs. Its products are used for AI training and inference, data analytics, scientific computing, high performance computing, autonomous vehicles, robotics, digital twins, gaming, and professional visualization. NVIDIA reports two operating segments: Compute & Networking and Graphics. Compute & Networking includes Data Center accelerated computing and networking platforms, AI solutions and software, and Automotive platforms. Graphics includes GeForce GPUs for gaming, RTX professional visualization, and related products. For investment analysis, NVIDIA is important because demand is tied to AI infrastructure buildouts, hyperscale cloud spending, Blackwell and Rubin product adoption, networking attach rates, supply availability, export controls, customer concentration, competition from custom AI chips, and the ability to maintain high margins through fast product transitions."
+}

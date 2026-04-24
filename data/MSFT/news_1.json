@@ -1,0 +1,10 @@
+{
+  "ticker": "MSFT",
+  "company": "Microsoft",
+  "sector": "Technology",
+  "doc_type": "news",
+  "title": "Microsoft Announces Frontier Suite, Copilot Wave 3, and Agent 365",
+  "date": "2026-03-09",
+  "source_url": "https://blogs.microsoft.com/blog/2026/03/09/introducing-the-first-frontier-suite-built-on-intelligence-trust/",
+  "text": "Microsoft announced Wave 3 of Microsoft 365 Copilot, expanded model diversity with Claude and next-generation OpenAI models, general availability of Agent 365 on May 1 for $15 per user, and general availability of Microsoft 365 E7: The Frontier Suite on May 1 for $99 per user. The announcement is important because it shows Microsoft turning AI features into paid enterprise products with clear pricing. Microsoft said Copilot paid seats grew more than 160% year over year, daily active usage rose tenfold, and the number of customers deploying Copilot at more than 35,000 seats tripled year over year. Microsoft also said 90% of the Fortune 500 now use Copilot. This news is useful evidence for a stock explanation because it links Microsoft's AI strategy to enterprise software monetization, Microsoft 365 expansion, security and governance, and cross-model flexibility. The main risk is whether customers continue moving from AI pilots into durable, profitable production usage."
+}

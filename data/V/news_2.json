@@ -1,0 +1,10 @@
+{
+  "ticker": "V",
+  "company": "Visa",
+  "sector": "Finance",
+  "doc_type": "news",
+  "title": "Visa and Bridge Expand Collaboration for Stablecoin-Linked Cards",
+  "date": "2026-03-03",
+  "source_url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.22206.html",
+  "text": "Visa and Bridge, a stablecoin infrastructure platform owned by Stripe, announced an expansion of their global card issuance collaboration. Bridge enables businesses and fintech developers to offer stablecoin-backed Visa cards, and Visa said Bridge-enabled cards were already live in 18 countries with planned expansion to more than 100 countries across Europe, Asia Pacific, Africa, and the Middle East by the end of the year. The companies also described Visa's stablecoin settlement pilot, which lets selected issuers and acquirers settle with Visa using stablecoins over supported blockchain networks. This news is useful evidence because it shows Visa trying to connect stablecoin balances, card acceptance, and settlement optionality instead of being bypassed by crypto payment rails. Potential upside comes from new fintech partners, cross-border use cases, and global merchant acceptance. Key risks include regulatory uncertainty, adoption pace, blockchain reliability, and whether stablecoin programs become large enough to move Visa's results."
+}
