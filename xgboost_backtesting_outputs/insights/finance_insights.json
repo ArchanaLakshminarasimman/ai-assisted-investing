@@ -1,0 +1,184 @@
+{
+  "generated_at": "2026-04-27T20:17:20.946720+00:00",
+  "input_source": "outputs/backtesting/ranked_holdings_finance.csv",
+  "generator": "openai",
+  "index_dir": "/Users/archana/Documents/ai-assisted-investing/rag_index",
+  "insights": [
+    {
+      "ticker": "V",
+      "company": "Visa",
+      "sector": "Finance",
+      "rank": 1,
+      "score": 0.9424078601420116,
+      "signal_summary": "Final Score=0.942; ML Score=0.064; Momentum Score=-0.095; 20D Return=-0.06; 60D Return=-0.143; RSI=20.438; Volatility=0.015",
+      "date": "2026-03-20",
+      "retrieval_query": "V V why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.942; ML Score=0.064; Momentum Score=-0.095; 20D Return=-0.06; 60D Return=-0.143; RSI=20.438; Volatility=0.015",
+      "generator": "openai",
+      "insight": "Visa ranks first with a strong score of 0.942, driven by robust fiscal Q1 2026 results including a 15% year-over-year revenue increase to $10.9 billion and steady growth in net revenue reaching $40 billion in fiscal 2025. The company's global payments technology platform supports secure and efficient commerce worldwide, underpinning its growth potential. However, risks include legal and regulatory pressures on payment fees, potential declines in consumer spending affecting payment volumes, and competitive threats from emerging payment networks.",
+      "key_points": [
+        "Visa reported strong fiscal first quarter 2026 results for the quarter ended December 31, 2025.",
+        "For fiscal year 2025, Visa reported net revenue of $40.0 billion, compared with $35.9 billion in fiscal 2024 and $32.7 billion in fiscal 2023.",
+        "Visa is a global payments technology company that facilitates secure, reliable, and efficient commerce and money movement among consumers, sellers, financial institutions, businesses, strategic partners, and governments."
+      ],
+      "risk_points": [
+        "Risks to mention include litigation provisions, regulation of payments fees, and the possibility that weaker consumer spending could slow payments volume.",
+        "Main risks include legal and regulatory pressure on payment economics, client incentives, macro sensitivity in consumer and travel spending, and competitive pressure from other payment networks and emerging payment rails."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.3926296830177307,
+          "ticker": "V",
+          "company": "Visa",
+          "sector": "Finance",
+          "doc_type": "earnings_highlights",
+          "title": "Visa Q1 Fiscal 2026 Earnings Highlights",
+          "date": "2026-01-29",
+          "source_url": "https://s1.q4cdn.com/050606653/files/doc_financials/2026/q1/Q1-2026-Earnings-Release_vF.pdf",
+          "snippet": "Visa reported strong fiscal first quarter 2026 results for the quarter ended December 31, 2025. Net revenue was $10.9 billion, up 15% year over year, or 13% on a constant-dollar basis."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.34644681215286255,
+          "ticker": "V",
+          "company": "Visa",
+          "sector": "Finance",
+          "doc_type": "financial_summary",
+          "title": "Visa Financial Summary From Fiscal 2025 Annual Report",
+          "date": "2025-09-30",
+          "source_url": "https://annualreport.visa.com/financials/",
+          "snippet": "For fiscal year 2025, Visa reported net revenue of $40.0 billion, compared with $35.9 billion in fiscal 2024 and $32.7 billion in fiscal 2023. GAAP net income was $20.1 billion and diluted class A earnings per share were $10.20."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.2763022184371948,
+          "ticker": "V",
+          "company": "Visa",
+          "sector": "Finance",
+          "doc_type": "overview",
+          "title": "Visa Company Overview",
+          "date": "2025-09-30",
+          "source_url": "https://annualreport.visa.com/financials/",
+          "snippet": "Visa is a global payments technology company that facilitates secure, reliable, and efficient commerce and money movement among consumers, sellers, financial institutions, businesses, strategic partners, and governments. Its core network provides transaction processing services, primarily authorization, clearing, and settlement, across more than 200 countries and territories."
+        }
+      ]
+    },
+    {
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "sector": "Finance",
+      "rank": 2,
+      "score": 0.4368684273904111,
+      "signal_summary": "Final Score=0.437; ML Score=0.048; Momentum Score=-0.081; 20D Return=-0.078; 60D Return=-0.113; RSI=29.956; Volatility=0.014",
+      "date": "2026-03-20",
+      "retrieval_query": "JPM JPM why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.437; ML Score=0.048; Momentum Score=-0.081; 20D Return=-0.078; 60D Return=-0.113; RSI=29.956; Volatility=0.014",
+      "generator": "openai",
+      "insight": "JPMorgan Chase ranks highly due to its strong scale and profitability, with 2025 net income reaching $57 billion and Q1 2026 net income up 13% year over year to $16.5 billion, supported by rising revenue. However, risks such as credit losses, market volatility, regulatory changes, and geopolitical uncertainty could impact future performance.",
+      "key_points": [
+        "JPMorgan Chase's 2025 financial highlights show the scale and profitability of the firm.",
+        "JPMorgan Chase reported first-quarter 2026 net income of $16.5 billion, up 13% year over year, and diluted EPS of $5.94.",
+        "JPMorgan Chase & Co. is one of the largest global financial services firms, headquartered in New York and operating worldwide under the J.P."
+      ],
+      "risk_points": [
+        "Main risks include credit losses, deposit competition, interest-rate changes, capital requirements, market volatility, cyber and operational risk, geopolitical uncertainty, regulatory changes, and the cyclicality of investment banking and markets revenue."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.5125239491462708,
+          "ticker": "JPM",
+          "company": "JPMorgan Chase",
+          "sector": "Finance",
+          "doc_type": "financial_summary",
+          "title": "JPMorgan Chase Financial Summary From 2025 Annual Report",
+          "date": "2026-04-15",
+          "source_url": "https://www.jpmorganchase.com/content/dam/jpmc/jpmorgan-chase-and-co/investor-relations/documents/financial-highlights-2025.pdf",
+          "snippet": "JPMorgan Chase's 2025 financial highlights show the scale and profitability of the firm. Total net revenue was $182.4 billion, compared with $177.6 billion in 2024, and net income was $57.0 billion."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.474658727645874,
+          "ticker": "JPM",
+          "company": "JPMorgan Chase",
+          "sector": "Finance",
+          "doc_type": "earnings_highlights",
+          "title": "JPMorgan Chase Q1 2026 Earnings Highlights",
+          "date": "2026-04-14",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/19617/000162828026024990/a1q26erfexhibit991narrative.htm",
+          "snippet": "JPMorgan Chase reported first-quarter 2026 net income of $16.5 billion, up 13% year over year, and diluted EPS of $5.94. Reported revenue was $49.8 billion, while managed revenue was $50.5 billion, up 10% year over year."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.4538794755935669,
+          "ticker": "JPM",
+          "company": "JPMorgan Chase",
+          "sector": "Finance",
+          "doc_type": "overview",
+          "title": "JPMorgan Chase Company Overview",
+          "date": "2026-04-19",
+          "source_url": "https://jpmorganchaseco.gcs-web.com/news-releases/news-release-details/jpmorganchase-reports-first-quarter-2026-financial-results",
+          "snippet": "JPMorgan Chase & Co. is one of the largest global financial services firms, headquartered in New York and operating worldwide under the J.P."
+        }
+      ]
+    },
+    {
+      "ticker": "BAC",
+      "company": "Bank of America",
+      "sector": "Finance",
+      "rank": 3,
+      "score": -0.0168067929873087,
+      "signal_summary": "Final Score=-0.017; ML Score=0.037; Momentum Score=-0.101; 20D Return=-0.111; 60D Return=-0.156; RSI=30.312; Volatility=0.018",
+      "date": "2026-03-20",
+      "retrieval_query": "BAC BAC why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.017; ML Score=0.037; Momentum Score=-0.101; 20D Return=-0.111; 60D Return=-0.156; RSI=30.312; Volatility=0.018",
+      "generator": "openai",
+      "insight": "Bank of America ranks third with a slightly negative overall score, reflecting mixed momentum and recent price declines. A key upside driver is its strong Q1 2026 earnings, with net income up 17% and EPS rising 25%, supported by higher net interest income and diversified revenue streams. However, risks include exposure to credit quality, interest rate fluctuations, regulatory challenges, and macroeconomic pressures, which could impact future performance.",
+      "key_points": [
+        "Bank of America reported first-quarter 2026 net income of $8.6 billion, up 17% from the year-ago quarter, and diluted EPS of $1.11, up 25%.",
+        "Bank of America Corporation is one of the world's largest financial institutions.",
+        "Bank of America's 2025 Form 10-K reported total revenue, net of interest expense, of $113.1 billion, compared with $105.9 billion in 2024."
+      ],
+      "risk_points": [
+        "Bank of America provides checking and savings products, credit cards, mortgages, auto loans, commercial lending, treasury services, wealth management, investment banking, trading, asset management, and financial risk management products.",
+        "Main risks include credit quality, interest rates, regulation, cybersecurity, geopolitical uncertainty, and macroeconomic pressure."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.4622117280960083,
+          "ticker": "BAC",
+          "company": "Bank of America",
+          "sector": "Finance",
+          "doc_type": "earnings_highlights",
+          "title": "Bank of America Q1 2026 Earnings Highlights",
+          "date": "2026-04-15",
+          "source_url": "https://investor.bankofamerica.com/regulatory-and-other-filings/select-sec-filings/content/0000070858-26-000222/bac03312026ex991.htm",
+          "snippet": "Bank of America reported first-quarter 2026 net income of $8.6 billion, up 17% from the year-ago quarter, and diluted EPS of $1.11, up 25%. Revenue, net of interest expense, rose 7% year over year to $30.3 billion, supported by higher net interest income, sales and trading revenue, asset management fees, and investment banking fees."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.43547365069389343,
+          "ticker": "BAC",
+          "company": "Bank of America",
+          "sector": "Finance",
+          "doc_type": "overview",
+          "title": "Bank of America Company Overview",
+          "date": "2026-04-19",
+          "source_url": "https://investor.bankofamerica.com/profile",
+          "snippet": "Bank of America Corporation is one of the world's largest financial institutions. The company serves individual consumers, small and middle-market businesses, large corporations, governments, institutions, and investors."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.4163602292537689,
+          "ticker": "BAC",
+          "company": "Bank of America",
+          "sector": "Finance",
+          "doc_type": "financial_summary",
+          "title": "Bank of America Financial Summary From 2025 Form 10-K",
+          "date": "2026-02-25",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000157/bac-20251231.htm",
+          "snippet": "Bank of America's 2025 Form 10-K reported total revenue, net of interest expense, of $113.1 billion, compared with $105.9 billion in 2024. Net interest income was $60.1 billion, while noninterest income was $53.0 billion."
+        }
+      ]
+    }
+  ]
+}

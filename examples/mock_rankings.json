@@ -1,0 +1,25 @@
+{
+  "rankings": [
+    {
+      "rank": 1,
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "final_score": 0.941,
+      "signal_summary": "Strong cloud and AI demand with large-scale cash generation."
+    },
+    {
+      "rank": 2,
+      "ticker": "NVDA",
+      "company": "NVIDIA",
+      "final_score": 0.932,
+      "signal_summary": "Data center and AI platform demand continue to drive growth."
+    },
+    {
+      "rank": 3,
+      "ticker": "ABBV",
+      "company": "AbbVie",
+      "final_score": 0.904,
+      "signal_summary": "New immunology growth products are offsetting Humira decline."
+    }
+  ]
+}

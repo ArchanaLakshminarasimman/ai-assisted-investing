@@ -1,0 +1,2 @@
+Selected_Sector,Requested_Top_K,Resolved_Top_K,Used_Top_K,Score_Column,Price_Column,Rebalance_Frequency,Benchmark,Unique_Tickers,Monthly_Rebalance_Dates,Total_Holding_Rows
+All Sectors,Auto,10,10,Final_Score,Close,Monthly,SPY,15,75,750

@@ -1,0 +1,182 @@
+{
+  "generated_at": "2026-04-27T20:16:54.249354+00:00",
+  "input_source": "outputs/backtesting/ranked_holdings_technology.csv",
+  "generator": "openai",
+  "index_dir": "/Users/archana/Documents/ai-assisted-investing/rag_index",
+  "insights": [
+    {
+      "ticker": "AAPL",
+      "company": "Apple",
+      "sector": "Technology",
+      "rank": 1,
+      "score": 0.2772410177466523,
+      "signal_summary": "Final Score=0.277; ML Score=0.04; Momentum Score=-0.049; 20D Return=-0.063; 60D Return=-0.085; RSI=23.604; Volatility=0.013",
+      "date": "2026-03-20",
+      "retrieval_query": "AAPL AAPL why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.277; ML Score=0.04; Momentum Score=-0.049; 20D Return=-0.063; 60D Return=-0.085; RSI=23.604; Volatility=0.013",
+      "generator": "openai",
+      "insight": "Apple ranks first due to its record fiscal Q1 2026 results, with revenue up 16% year-over-year and strong profitability generating $42.1 billion in net income, highlighting robust cash flow as a key upside driver. However, momentum and recent returns are negative, with a 20-day return of -6.3% and RSI at 23.6, indicating potential short-term weakness risk despite solid fundamentals.",
+      "key_points": [
+        "Apple reported record fiscal first-quarter results for the period ended December 27, 2025.",
+        "Apple Inc. is a technology company best known for designing, manufacturing, and selling consumer electronics, software, and digital services.",
+        "Apple's Q1 2026 Form 10-Q showed strong profitability and cash generation."
+      ],
+      "risk_points": [],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.5585103034973145,
+          "ticker": "AAPL",
+          "company": "Apple",
+          "sector": "Technology",
+          "doc_type": "earnings_highlights",
+          "title": "Apple Fiscal Q1 2026 Earnings Highlights",
+          "date": "2026-01-29",
+          "source_url": "https://www.apple.com/newsroom/2026/01/apple-reports-first-quarter-results/",
+          "snippet": "Apple reported record fiscal first-quarter results for the period ended December 27, 2025. Quarterly revenue was $143.8 billion, up 16% year over year, and diluted earnings per share were $2.84, up 19% year over year."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.48369234800338745,
+          "ticker": "AAPL",
+          "company": "Apple",
+          "sector": "Technology",
+          "doc_type": "overview",
+          "title": "Apple Company Overview",
+          "date": "2026-04-18",
+          "source_url": "https://finance.yahoo.com/quote/AAPL/profile/",
+          "snippet": "Apple Inc. is a technology company best known for designing, manufacturing, and selling consumer electronics, software, and digital services."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.4817535877227783,
+          "ticker": "AAPL",
+          "company": "Apple",
+          "sector": "Technology",
+          "doc_type": "financial_summary",
+          "title": "Apple Financial Summary From Q1 2026 Form 10-Q",
+          "date": "2026-01-30",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000006/aapl-20251227.htm",
+          "snippet": "Apple's Q1 2026 Form 10-Q showed strong profitability and cash generation. For the quarter ended December 27, 2025, Apple reported net income of about $42.1 billion."
+        }
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "sector": "Technology",
+      "rank": 2,
+      "score": 0.0138738620599492,
+      "signal_summary": "Final Score=0.014; ML Score=0.046; Momentum Score=-0.165; 20D Return=-0.039; 60D Return=-0.213; RSI=33.531; Volatility=0.015",
+      "date": "2026-03-20",
+      "retrieval_query": "MSFT MSFT why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.014; ML Score=0.046; Momentum Score=-0.165; 20D Return=-0.039; 60D Return=-0.213; RSI=33.531; Volatility=0.015",
+      "generator": "openai",
+      "insight": "Microsoft ranks highly due to strong fiscal performance, with fiscal 2025 revenue up 15% to $281.7 billion and robust Q2 2026 results showing 17% revenue growth. Key upside drivers include its diversified technology portfolio spanning cloud, AI platforms, and business applications, which support ongoing growth. However, risks such as intense competition, high AI infrastructure spending, cloud capacity constraints, and regulatory pressures could impact profitability and execution, particularly in commercializing AI products like Copilot.",
+      "key_points": [
+        "Microsoft is a global technology company that develops software, cloud services, AI platforms, business applications, devices, gaming services, search advertising, and professional networking products.",
+        "Microsoft reported strong fiscal second quarter 2026 results for the quarter ended December 31, 2025.",
+        "For fiscal year 2025, Microsoft reported revenue of $281.7 billion, up 15% from $245.1 billion in fiscal 2024."
+      ],
+      "risk_points": [
+        "Key risks include intense competition, high AI infrastructure spending, cloud capacity constraints, security incidents, regulatory pressure, and the need to convert AI demand into profitable growth.",
+        "Important investment risks include higher datacenter and AI infrastructure costs, competition in cloud and AI, regulatory scrutiny, cybersecurity risk, dependence on large enterprise customers, and execution risk in commercializing Copilot and other AI products."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.4094659686088562,
+          "ticker": "MSFT",
+          "company": "Microsoft",
+          "sector": "Technology",
+          "doc_type": "overview",
+          "title": "Microsoft Company Overview",
+          "date": "2025-07-30",
+          "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+          "snippet": "Microsoft is a global technology company that develops software, cloud services, AI platforms, business applications, devices, gaming services, search advertising, and professional networking products. The company reports three major segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.39029574394226074,
+          "ticker": "MSFT",
+          "company": "Microsoft",
+          "sector": "Technology",
+          "doc_type": "earnings_highlights",
+          "title": "Microsoft FY26 Q2 Earnings Highlights",
+          "date": "2026-01-28",
+          "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast",
+          "snippet": "Microsoft reported strong fiscal second quarter 2026 results for the quarter ended December 31, 2025. Revenue was $81.3 billion, up 17% year over year, and operating income was $38.3 billion, up 21%."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.38683944940567017,
+          "ticker": "MSFT",
+          "company": "Microsoft",
+          "sector": "Technology",
+          "doc_type": "financial_summary",
+          "title": "Microsoft Financial Summary From Fiscal 2025 Annual Report",
+          "date": "2025-07-30",
+          "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+          "snippet": "For fiscal year 2025, Microsoft reported revenue of $281.7 billion, up 15% from $245.1 billion in fiscal 2024. Gross margin was $193.9 billion, operating income was $128.5 billion, and net income was $101.8 billion, up 16%."
+        }
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet",
+      "sector": "Technology",
+      "rank": 3,
+      "score": -0.1263449940186186,
+      "signal_summary": "Final Score=-0.126; ML Score=0.015; Momentum Score=0.059; 20D Return=-0.044; 60D Return=-0.028; RSI=43.605; Volatility=0.013",
+      "date": "2026-03-20",
+      "retrieval_query": "GOOGL GOOGL why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.126; ML Score=0.015; Momentum Score=0.059; 20D Return=-0.044; 60D Return=-0.028; RSI=43.605; Volatility=0.013",
+      "generator": "openai",
+      "insight": "Alphabet ranks third with a modest negative overall score despite strong fundamentals. Its upside is driven by robust 2025 financials, including 15% revenue growth to $402.8 billion and strong Q4 momentum in Google Services and Cloud, highlighting profitable advertising and fast-growing cloud and AI segments. However, significant risks remain from regulatory investigations, antitrust challenges, heavy infrastructure costs, and execution risks in newer businesses, which could impact future performance.",
+      "key_points": [
+        "Alphabet's 2025 Form 10-K showed strong revenue, profitability, and cash generation.",
+        "Alphabet reported strong fourth-quarter 2025 results for the period ended December 31, 2025.",
+        "Alphabet Inc. is the parent company of Google and operates primarily through Google Services, Google Cloud, and Other Bets."
+      ],
+      "risk_points": [
+        "Main risks include regulatory investigations, antitrust remedies, competition in AI and cloud, dependence on advertising, high infrastructure spending, and execution risk in newer businesses.",
+        "For investment analysis, Alphabet is important because it combines a highly profitable advertising business with fast-growing cloud and AI opportunities, while also facing significant regulatory and antitrust risks."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.5968253016471863,
+          "ticker": "GOOGL",
+          "company": "Alphabet",
+          "sector": "Technology",
+          "doc_type": "financial_summary",
+          "title": "Alphabet Financial Summary From 2025 Form 10-K",
+          "date": "2026-02-05",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "snippet": "Alphabet's 2025 Form 10-K showed strong revenue, profitability, and cash generation. Full-year revenue was $402.8 billion, up 15% from $350.0 billion in 2024."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.5105212926864624,
+          "ticker": "GOOGL",
+          "company": "Alphabet",
+          "sector": "Technology",
+          "doc_type": "earnings_highlights",
+          "title": "Alphabet Q4 and Fiscal Year 2025 Earnings Highlights",
+          "date": "2026-02-04",
+          "source_url": "https://s206.q4cdn.com/479360582/files/doc_news/2026/Feb/04/attachments/2025q4-alphabet-earnings-release.pdf",
+          "snippet": "Alphabet reported strong fourth-quarter 2025 results for the period ended December 31, 2025. Consolidated revenue increased 18% year over year to $113.8 billion, reflecting momentum in both Google Services and Google Cloud."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.4915243983268738,
+          "ticker": "GOOGL",
+          "company": "Alphabet",
+          "sector": "Technology",
+          "doc_type": "overview",
+          "title": "Alphabet Company Overview",
+          "date": "2026-04-19",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/goog-20251231.htm",
+          "snippet": "Alphabet Inc. is the parent company of Google and operates primarily through Google Services, Google Cloud, and Other Bets."
+        }
+      ]
+    }
+  ]
+}

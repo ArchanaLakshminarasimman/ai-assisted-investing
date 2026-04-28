@@ -1,0 +1,184 @@
+{
+  "generated_at": "2026-04-27T20:17:07.049228+00:00",
+  "input_source": "outputs/backtesting/ranked_holdings_healthcare.csv",
+  "generator": "openai",
+  "index_dir": "/Users/archana/Documents/ai-assisted-investing/rag_index",
+  "insights": [
+    {
+      "ticker": "UNH",
+      "company": "UnitedHealth Group",
+      "sector": "Healthcare",
+      "rank": 1,
+      "score": 0.5675781221678164,
+      "signal_summary": "Final Score=0.568; ML Score=0.057; Momentum Score=-0.129; 20D Return=-0.05; 60D Return=-0.152; RSI=31.296; Volatility=0.018",
+      "date": "2026-03-20",
+      "retrieval_query": "UNH UNH why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.568; ML Score=0.057; Momentum Score=-0.129; 20D Return=-0.05; 60D Return=-0.152; RSI=31.296; Volatility=0.018",
+      "generator": "openai",
+      "insight": "UnitedHealth Group ranks first due to its strong 2025 performance, generating $447.6 billion in revenue, driven by its complementary UnitedHealthcare and Optum businesses. An upside driver is its large, cash-generative platform supporting diverse health benefits and services. However, risks include a lower 2026 revenue outlook and challenges from elevated medical costs, reimbursement pressures, cyberattack expenses, and regulatory scrutiny, which may impact near-term performance.",
+      "key_points": [
+        "UnitedHealth Group reported full-year and fourth-quarter 2025 results and issued its 2026 outlook on January 27, 2026.",
+        "UnitedHealth Group is a health care and well-being company that operates through two complementary businesses: UnitedHealthcare and Optum.",
+        "UnitedHealth Group generated 2025 consolidated revenue of $447.567 billion."
+      ],
+      "risk_points": [
+        "The release is useful RAG evidence because it shows UnitedHealth Group remained very large and cash-generative, but entered 2026 with a lower revenue outlook and a need to rebuild performance after elevated medical cost trends, reimbursement pressure, cyberattack costs, restructuring, and scrutiny around parts of the business.",
+        "The company is important for investment analysis because its performance depends on membership growth, premium pricing, medical care costs, Medicare Advantage rates, Medicaid redeterminations, pharmacy services volume, value-based care execution, regulatory scrutiny, technology investment, cybersecurity, and the ability of Optum and UnitedHealthcare to work together across a large health care platform."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.42500364780426025,
+          "ticker": "UNH",
+          "company": "UnitedHealth Group",
+          "sector": "Healthcare",
+          "doc_type": "earnings_highlights",
+          "title": "UnitedHealth Group 2025 Results and 2026 Outlook",
+          "date": "2026-01-27",
+          "source_url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-01-27-uhg-reports-2025-results-and-issues-2026-outlook.html",
+          "snippet": "UnitedHealth Group reported full-year and fourth-quarter 2025 results and issued its 2026 outlook on January 27, 2026. Full-year 2025 revenue was $447.6 billion, up 12% year over year."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.28503456711769104,
+          "ticker": "UNH",
+          "company": "UnitedHealth Group",
+          "sector": "Healthcare",
+          "doc_type": "overview",
+          "title": "UnitedHealth Group Company Overview",
+          "date": "2026-03-02",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+          "snippet": "UnitedHealth Group is a health care and well-being company that operates through two complementary businesses: UnitedHealthcare and Optum. UnitedHealthcare provides health benefits for employers, individuals, Medicare beneficiaries, Medicaid and community programs, and other government-sponsored populations."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.27577152848243713,
+          "ticker": "UNH",
+          "company": "UnitedHealth Group",
+          "sector": "Healthcare",
+          "doc_type": "financial_summary",
+          "title": "UnitedHealth Group Financial Summary From 2025 Form 10-K",
+          "date": "2026-03-02",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+          "snippet": "UnitedHealth Group generated 2025 consolidated revenue of $447.567 billion. UnitedHealthcare revenue was $344.903 billion, while Optum generated $270.620 billion before eliminations, including $101.957 billion from Optum Health, $19.417 billion from Optum Insight, and $154.726 billion from Optum Rx."
+        }
+      ]
+    },
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "rank": 2,
+      "score": 0.4071846510330097,
+      "signal_summary": "Final Score=0.407; ML Score=0.022; Momentum Score=0.139; 20D Return=-0.029; 60D Return=0.135; RSI=23.964; Volatility=0.01",
+      "date": "2026-03-20",
+      "retrieval_query": "JNJ JNJ why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.407; ML Score=0.022; Momentum Score=0.139; 20D Return=-0.029; 60D Return=0.135; RSI=23.964; Volatility=0.01",
+      "generator": "openai",
+      "insight": "Johnson & Johnson ranks highly due to strong sales growth, with 2025 worldwide sales rising 6% to $94.2 billion and Q1 2026 sales up 9.9% year over year, supported by operational growth and new product launches like the VARIPULSE Pro in Europe. However, risks include patent expirations, biosimilar competition, and regulatory challenges that could pressure future revenue streams.",
+      "key_points": [
+        "Johnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024.",
+        "Johnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures.",
+        "Johnson & Johnson reported first-quarter 2026 sales of $24.1 billion, up 9.9% year over year on a reported basis, with operational growth of 6.4% and adjusted operational growth of 5.3%."
+      ],
+      "risk_points": [
+        "Key risks include patent expirations, biosimilar competition, legal proceedings, pricing pressure, clinical trial execution, regulatory decisions, and the need to continue replacing older product revenue with new medicines and technologies."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.37805840373039246,
+          "ticker": "JNJ",
+          "company": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "doc_type": "financial_summary",
+          "title": "Johnson & Johnson Financial Summary From 2025 Form 10-K",
+          "date": "2026-02-13",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+          "snippet": "Johnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024. Innovative Medicine generated $60.4 billion of sales, while MedTech generated $33.8 billion."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.3040354549884796,
+          "ticker": "JNJ",
+          "company": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "doc_type": "news",
+          "title": "Johnson & Johnson Launches VARIPULSE Pro in Europe",
+          "date": "2026-04-07",
+          "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-pulsed-field-ablation-portfolio-with-the-launch-of-varipulse-pro-in-europe",
+          "snippet": "Johnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures. VARIPULSE Pro introduces a new pulse sequence designed to improve workflow efficiency while reinforcing the platform's safety and effectiveness profile."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.2868184745311737,
+          "ticker": "JNJ",
+          "company": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "doc_type": "earnings_highlights",
+          "title": "Johnson & Johnson Q1 2026 Earnings Highlights",
+          "date": "2026-04-14",
+          "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q1-2026-results-raises-2026-outlook",
+          "snippet": "Johnson & Johnson reported first-quarter 2026 sales of $24.1 billion, up 9.9% year over year on a reported basis, with operational growth of 6.4% and adjusted operational growth of 5.3%. Diluted EPS was $2.14, while adjusted diluted EPS was $2.70."
+        }
+      ]
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck",
+      "sector": "Healthcare",
+      "rank": 3,
+      "score": 0.3238253095917788,
+      "signal_summary": "Final Score=0.324; ML Score=0.016; Momentum Score=0.171; 20D Return=-0.066; 60D Return=0.09; RSI=18.97; Volatility=0.015",
+      "date": "2026-03-20",
+      "retrieval_query": "MRK MRK why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.324; ML Score=0.016; Momentum Score=0.171; 20D Return=-0.066; 60D Return=0.09; RSI=18.97; Volatility=0.015",
+      "generator": "openai",
+      "insight": "Merck ranks third with a solid score of 0.324, supported by steady revenue growth\u20142025 sales rose to $65.0 billion, up 1% from 2024, driven by a 5% increase in Q4 sales. An upside driver is its diverse portfolio in prescription medicines and biologic therapies, contributing to a 7% GAAP net income increase. However, risks include heavy reliance on KEYTRUDA, significant sales decline in GARDASIL vaccines due to lower demand, and challenges like patent expirations and pricing pressures that could impact future growth.",
+      "key_points": [
+        "Merck's 2025 Form 10-K reported sales of $65.0 billion, compared with $64.2 billion in 2024 and $60.1 billion in 2023.",
+        "Merck reported fourth-quarter 2025 worldwide sales of $16.4 billion, up 5% year over year, and full-year 2025 worldwide sales of $65.0 billion, up 1%.",
+        "Merck & Co., Inc., known as MSD outside the United States and Canada, is a global healthcare company focused on prescription medicines, biologic therapies, vaccines, and animal health products."
+      ],
+      "risk_points": [
+        "Key risks include dependence on KEYTRUDA, future patent and exclusivity loss, vaccine demand declines, regulatory approvals, clinical trial execution, pricing pressure, currency exposure, competition, and integration of acquisitions.",
+        "A key weakness was GARDASIL and GARDASIL 9, where full-year sales declined 39% to $5.2 billion, mainly due to lower demand in China and other market pressures."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.438070684671402,
+          "ticker": "MRK",
+          "company": "Merck",
+          "sector": "Healthcare",
+          "doc_type": "financial_summary",
+          "title": "Merck Financial Summary From 2025 Form 10-K",
+          "date": "2026-02-24",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm",
+          "snippet": "Merck's 2025 Form 10-K reported sales of $65.0 billion, compared with $64.2 billion in 2024 and $60.1 billion in 2023. GAAP net income attributable to Merck was $18.3 billion, up 7% from 2024, and non-GAAP net income was $22.5 billion, up 16%."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.4077950417995453,
+          "ticker": "MRK",
+          "company": "Merck",
+          "sector": "Healthcare",
+          "doc_type": "earnings_highlights",
+          "title": "Merck Q4 and Full-Year 2025 Earnings Highlights",
+          "date": "2026-02-03",
+          "source_url": "https://www.merck.com/news/merck-highlights-progress-advancing-broad-diverse-pipeline/",
+          "snippet": "Merck reported fourth-quarter 2025 worldwide sales of $16.4 billion, up 5% year over year, and full-year 2025 worldwide sales of $65.0 billion, up 1%. Full-year GAAP EPS was $7.28, and non-GAAP EPS was $8.98."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.3682430386543274,
+          "ticker": "MRK",
+          "company": "Merck",
+          "sector": "Healthcare",
+          "doc_type": "overview",
+          "title": "Merck Company Overview",
+          "date": "2026-04-19",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000063/mrk-20251231.htm",
+          "snippet": "Merck & Co., Inc., known as MSD outside the United States and Canada, is a global healthcare company focused on prescription medicines, biologic therapies, vaccines, and animal health products. The company operates through two main segments: Pharmaceutical and Animal Health."
+        }
+      ]
+    }
+  ]
+}
