@@ -145,7 +145,7 @@ def resolve_top_k(sector, requested_top_k=None):
     """
     Default:
     - All Sectors -> Top 10
-    - Individual sector -> Top 3
+    - Individual sector -> Top 5
     """
 
     if requested_top_k is not None:
@@ -154,7 +154,7 @@ def resolve_top_k(sector, requested_top_k=None):
     if sector == "All Sectors":
         return 10
 
-    return 3
+    return 5
 
 
 def validate_top_k(df, top_k):
@@ -399,7 +399,7 @@ def save_sector_wise_holdings(all_scores_df, output_dir, score_col="Final_Score"
             filename = "all_sectors"
         else:
             sector_df = all_scores_df[all_scores_df["Sector"] == sector].copy()
-            top_k = 3
+            top_k = 5
             filename = sector.lower()
 
         if sector_df.empty:

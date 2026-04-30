@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T17:16:14.948085+00:00",
-  "input_source": "xgboost_backtesting_outputs/ranking/ranked_holdings_finance.csv",
+  "generated_at": "2026-04-30T17:23:31.245619+00:00",
+  "input_source": "xgboost_randomforest_backtesting_outputs/rankings/ranked_holdings_finance.csv",
   "generator": "openai",
   "index_dir": "/Users/archana/Documents/ai-assisted-investing/rag_index",
   "insights": [
@@ -9,12 +9,12 @@
       "company": "Visa",
       "sector": "Finance",
       "rank": 1,
-      "score": 0.9424078601420116,
-      "signal_summary": "Final Score=0.942; ML Score=0.064; Momentum Score=-0.095; 20D Return=-0.06; 60D Return=-0.143; RSI=20.438; Volatility=0.015",
+      "score": 0.6564213975752023,
+      "signal_summary": "Final Score=0.656; ML Score=0.045; Momentum Score=-0.095; 20D Return=-0.06; 60D Return=-0.143; RSI=20.438; Volatility=0.015",
       "date": "2026-03-20",
-      "retrieval_query": "V V why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.942; ML Score=0.064; Momentum Score=-0.095; 20D Return=-0.06; 60D Return=-0.143; RSI=20.438; Volatility=0.015",
+      "retrieval_query": "V V why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.656; ML Score=0.045; Momentum Score=-0.095; 20D Return=-0.06; 60D Return=-0.143; RSI=20.438; Volatility=0.015",
       "generator": "openai",
-      "insight": "Visa ranks first with a strong score of 0.942, driven by robust fiscal Q1 2026 results including a 15% year-over-year revenue increase to $10.9 billion and a solid $40 billion net revenue in fiscal 2025. The company's global payments technology platform supports secure, efficient transactions worldwide, underpinning growth. However, risks include legal and regulatory pressures on payment fees, potential declines in consumer spending affecting payment volumes, and competitive challenges from emerging payment networks.",
+      "insight": "Visa ranks first with a strong score of 0.656, driven by robust fiscal Q1 2026 results showing a 15% year-over-year revenue increase to $10.9 billion and steady growth in net revenue to $40 billion for fiscal 2025. As a leading global payments technology company, Visa benefits from its extensive transaction processing network. However, risks include regulatory pressures on payment fees, litigation provisions, and potential slowdowns in consumer spending that could impact payment volumes.",
       "key_points": [
         "Visa reported strong fiscal first quarter 2026 results for the quarter ended December 31, 2025.",
         "For fiscal year 2025, Visa reported net revenue of $40.0 billion, compared with $35.9 billion in fiscal 2024 and $32.7 billion in fiscal 2023.",
@@ -27,7 +27,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.3926296830177307,
+          "retrieval_score": 0.39194852113723755,
           "ticker": "V",
           "company": "Visa",
           "sector": "Finance",
@@ -39,7 +39,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.34644681215286255,
+          "retrieval_score": 0.3449845016002655,
           "ticker": "V",
           "company": "Visa",
           "sector": "Finance",
@@ -51,7 +51,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.2763022184371948,
+          "retrieval_score": 0.277570903301239,
           "ticker": "V",
           "company": "Visa",
           "sector": "Finance",
@@ -68,12 +68,12 @@
       "company": "JPMorgan Chase",
       "sector": "Finance",
       "rank": 2,
-      "score": 0.4368684273904111,
-      "signal_summary": "Final Score=0.437; ML Score=0.048; Momentum Score=-0.081; 20D Return=-0.078; 60D Return=-0.113; RSI=29.956; Volatility=0.014",
+      "score": 0.2648404684515828,
+      "signal_summary": "Final Score=0.265; ML Score=0.035; Momentum Score=-0.081; 20D Return=-0.078; 60D Return=-0.113; RSI=29.956; Volatility=0.014",
       "date": "2026-03-20",
-      "retrieval_query": "JPM JPM why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.437; ML Score=0.048; Momentum Score=-0.081; 20D Return=-0.078; 60D Return=-0.113; RSI=29.956; Volatility=0.014",
+      "retrieval_query": "JPM JPM why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.265; ML Score=0.035; Momentum Score=-0.081; 20D Return=-0.078; 60D Return=-0.113; RSI=29.956; Volatility=0.014",
       "generator": "openai",
-      "insight": "JPMorgan Chase ranks highly due to its strong profitability and scale, with 2025 net income reaching $57 billion and Q1 2026 net income up 13% year over year to $16.5 billion. An upside driver is its robust revenue growth and global financial services presence. However, risks include credit losses, market volatility, regulatory changes, and geopolitical uncertainty, which could impact future performance.",
+      "insight": "JPMorgan Chase ranks highly due to its strong scale and profitability, with 2025 net income at $57 billion and Q1 2026 net income rising 13% year over year to $16.5 billion, supported by a 10% increase in managed revenue. However, risks such as credit losses, market volatility, regulatory changes, and geopolitical uncertainty could impact future performance.",
       "key_points": [
         "JPMorgan Chase's 2025 financial highlights show the scale and profitability of the firm.",
         "JPMorgan Chase reported first-quarter 2026 net income of $16.5 billion, up 13% year over year, and diluted EPS of $5.94.",
@@ -85,7 +85,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.5125239491462708,
+          "retrieval_score": 0.5198637247085571,
           "ticker": "JPM",
           "company": "JPMorgan Chase",
           "sector": "Finance",
@@ -97,7 +97,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.474658727645874,
+          "retrieval_score": 0.48230645060539246,
           "ticker": "JPM",
           "company": "JPMorgan Chase",
           "sector": "Finance",
@@ -109,7 +109,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.4538794755935669,
+          "retrieval_score": 0.45993345975875854,
           "ticker": "JPM",
           "company": "JPMorgan Chase",
           "sector": "Finance",
@@ -126,12 +126,12 @@
       "company": "Bank of America",
       "sector": "Finance",
       "rank": 3,
-      "score": -0.0168067929873087,
-      "signal_summary": "Final Score=-0.017; ML Score=0.037; Momentum Score=-0.101; 20D Return=-0.111; 60D Return=-0.156; RSI=30.312; Volatility=0.018",
+      "score": 0.1634923457041597,
+      "signal_summary": "Final Score=0.163; ML Score=0.031; Momentum Score=-0.101; 20D Return=-0.111; 60D Return=-0.156; RSI=30.312; Volatility=0.018",
       "date": "2026-03-20",
-      "retrieval_query": "BAC BAC why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.017; ML Score=0.037; Momentum Score=-0.101; 20D Return=-0.111; 60D Return=-0.156; RSI=30.312; Volatility=0.018",
+      "retrieval_query": "BAC BAC why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.163; ML Score=0.031; Momentum Score=-0.101; 20D Return=-0.111; 60D Return=-0.156; RSI=30.312; Volatility=0.018",
       "generator": "openai",
-      "insight": "Bank of America ranks third with a slightly negative overall score, supported by strong earnings growth\u2014Q1 2026 net income rose 17% year-over-year and diluted EPS increased 25%, driven by higher net interest income and fees. However, risks remain from credit quality, interest rate fluctuations, regulatory challenges, and macroeconomic pressures, which could impact future performance.",
+      "insight": "Bank of America ranks third with a solid score of 0.163, driven by strong financial performance including a 17% rise in Q1 2026 net income to $8.6 billion and a 25% increase in diluted EPS to $1.11. Revenue growth, supported by higher net interest income and fees from asset management and investment banking, also underpins the positive outlook. However, risks such as credit quality, regulatory challenges, and macroeconomic pressures remain significant factors to monitor.",
       "key_points": [
         "Bank of America reported first-quarter 2026 net income of $8.6 billion, up 17% from the year-ago quarter, and diluted EPS of $1.11, up 25%.",
         "Bank of America Corporation is one of the world's largest financial institutions.",
@@ -144,7 +144,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.4622117280960083,
+          "retrieval_score": 0.46872371435165405,
           "ticker": "BAC",
           "company": "Bank of America",
           "sector": "Finance",
@@ -156,7 +156,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.43547365069389343,
+          "retrieval_score": 0.4373086988925934,
           "ticker": "BAC",
           "company": "Bank of America",
           "sector": "Finance",
@@ -168,7 +168,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.4163602292537689,
+          "retrieval_score": 0.4218495488166809,
           "ticker": "BAC",
           "company": "Bank of America",
           "sector": "Finance",
@@ -185,12 +185,12 @@
       "company": "Goldman Sachs",
       "sector": "Finance",
       "rank": 4,
-      "score": -0.2728236355521909,
-      "signal_summary": "Final Score=-0.273; ML Score=0.023; Momentum Score=-0.041; 20D Return=-0.118; 60D Return=-0.095; RSI=33.923; Volatility=0.024",
+      "score": -0.2323304375030149,
+      "signal_summary": "Final Score=-0.232; ML Score=0.02; Momentum Score=-0.041; 20D Return=-0.118; 60D Return=-0.095; RSI=33.923; Volatility=0.024",
       "date": "2026-03-20",
-      "retrieval_query": "GS GS why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.273; ML Score=0.023; Momentum Score=-0.041; 20D Return=-0.118; 60D Return=-0.095; RSI=33.923; Volatility=0.024",
+      "retrieval_query": "GS GS why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.232; ML Score=0.02; Momentum Score=-0.041; 20D Return=-0.118; 60D Return=-0.095; RSI=33.923; Volatility=0.024",
       "generator": "openai",
-      "insight": "Goldman Sachs ranks 4th despite a slightly negative overall score, driven by strong financial performance including $17.18 billion net earnings in 2025 and robust Q1 2026 results with $5.63 billion net earnings and $17.23 billion revenues. Upside drivers include active capital markets, record equities performance, and growth in Asset & Wealth Management. However, risks remain due to the firm's high sensitivity to market conditions, client transaction activity, and investor risk appetite, which could impact future earnings stability.",
+      "insight": "Goldman Sachs ranks 4th with a slightly negative overall score of -0.23, reflecting mixed momentum and recent returns. The firm showed strong upside drivers including robust first-quarter 2026 results with $5.63 billion in net earnings and growth in capital markets, investment banking, and asset management. However, risks remain due to its high sensitivity to market conditions, client activity, trading environments, and credit exposure, which could impact future performance amid volatile investor risk appetite.",
       "key_points": [
         "Goldman Sachs' first-quarter 2026 results provide useful context about both strengths and risks in the business.",
         "Goldman Sachs generated net earnings of $17.18 billion in 2025, compared with $14.28 billion in 2024.",
@@ -203,7 +203,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.5199558138847351,
+          "retrieval_score": 0.5213071703910828,
           "ticker": "GS",
           "company": "Goldman Sachs",
           "sector": "Finance",
@@ -215,7 +215,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.5087461471557617,
+          "retrieval_score": 0.5072494745254517,
           "ticker": "GS",
           "company": "Goldman Sachs",
           "sector": "Finance",
@@ -227,7 +227,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.49516886472702026,
+          "retrieval_score": 0.49426260590553284,
           "ticker": "GS",
           "company": "Goldman Sachs",
           "sector": "Finance",
@@ -244,12 +244,12 @@
       "company": "Morgan Stanley",
       "sector": "Finance",
       "rank": 5,
-      "score": -0.4157773788531295,
-      "signal_summary": "Final Score=-0.416; ML Score=0.018; Momentum Score=-0.037; 20D Return=-0.079; 60D Return=-0.102; RSI=38.936; Volatility=0.024",
+      "score": -0.2953446038205016,
+      "signal_summary": "Final Score=-0.295; ML Score=0.018; Momentum Score=-0.037; 20D Return=-0.079; 60D Return=-0.102; RSI=38.936; Volatility=0.024",
       "date": "2026-03-20",
-      "retrieval_query": "MS MS why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.416; ML Score=0.018; Momentum Score=-0.037; 20D Return=-0.079; 60D Return=-0.102; RSI=38.936; Volatility=0.024",
+      "retrieval_query": "MS MS why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.295; ML Score=0.018; Momentum Score=-0.037; 20D Return=-0.079; 60D Return=-0.102; RSI=38.936; Volatility=0.024",
       "generator": "openai",
-      "insight": "Morgan Stanley delivered record first quarter 2026 results with net revenues rising to $20.6 billion, driven by strong performance in Institutional Securities and Wealth Management, highlighting robust client engagement and trading activity. This upside momentum is supported by a 14% revenue increase in 2025. However, risks remain if market volatility worsens or deal activity slows, potentially weakening earnings momentum.",
+      "insight": "Morgan Stanley ranks 5th despite a slightly negative overall score, supported by record Q1 2026 results with net revenues rising to $20.6 billion and strong full-year 2025 growth of 14% in net revenues. The firm's momentum is driven by elevated client engagement, higher trading activity, and robust investment banking. However, risks remain if market volatility worsens or deal activity slows, potentially weakening earnings momentum.",
       "key_points": [
         "Morgan Stanley announced its first quarter 2026 financial results on April 15, 2026, describing the quarter as a record period for the firm.",
         "Morgan Stanley reported record first quarter 2026 results, with net revenues of $20.6 billion, up from $17.7 billion a year earlier.",
@@ -262,7 +262,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.5441291928291321,
+          "retrieval_score": 0.5505326986312866,
           "ticker": "MS",
           "company": "Morgan Stanley",
           "sector": "Finance",
@@ -274,7 +274,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.4632550776004791,
+          "retrieval_score": 0.4718529284000397,
           "ticker": "MS",
           "company": "Morgan Stanley",
           "sector": "Finance",
@@ -286,7 +286,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.4310540556907654,
+          "retrieval_score": 0.4387493133544922,
           "ticker": "MS",
           "company": "Morgan Stanley",
           "sector": "Finance",

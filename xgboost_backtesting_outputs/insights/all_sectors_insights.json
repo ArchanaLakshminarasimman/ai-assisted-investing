@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T20:09:38.867459+00:00",
-  "input_source": "/Users/archana/Documents/ai-assisted-investing/outputs/backtesting/ranked_holdings.csv",
+  "generated_at": "2026-04-30T17:15:16.491720+00:00",
+  "input_source": "xgboost_backtesting_outputs/ranking/ranked_holdings_all_sectors.csv",
   "generator": "openai",
   "index_dir": "/Users/archana/Documents/ai-assisted-investing/rag_index",
   "insights": [
@@ -14,7 +14,7 @@
       "date": "2026-03-20",
       "retrieval_query": "V V why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.942; ML Score=0.064; Momentum Score=-0.095; 20D Return=-0.06; 60D Return=-0.143; RSI=20.438; Volatility=0.015",
       "generator": "openai",
-      "insight": "Visa ranks highly due to its strong fiscal Q1 2026 results, with net revenue rising 15% year-over-year to $10.9 billion, reflecting robust growth in its global payments technology business. An upside driver is Visa's expanding revenue, which reached $40.0 billion in fiscal 2025, showcasing its dominant position in secure and efficient transaction processing worldwide. However, risks include regulatory pressures on payment fees, litigation provisions, and potential slowdowns in consumer spending that could impact payment volumes.",
+      "insight": "Visa ranks highly due to its strong fiscal Q1 2026 performance, with net revenue rising 15% year-over-year to $10.9 billion, reflecting robust growth in its global payments network. An upside driver is Visa's expanding transaction volume and revenue growth, supported by its secure and efficient payment technology across over 200 countries. However, risks include regulatory pressures on payment fees, potential litigation, and sensitivity to weaker consumer and travel spending, which could slow payment volumes and impact earnings.",
       "key_points": [
         "Visa reported strong fiscal first quarter 2026 results for the quarter ended December 31, 2025.",
         "For fiscal year 2025, Visa reported net revenue of $40.0 billion, compared with $35.9 billion in fiscal 2024 and $32.7 billion in fiscal 2023.",
@@ -73,7 +73,7 @@
       "date": "2026-03-20",
       "retrieval_query": "UNH UNH why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.568; ML Score=0.057; Momentum Score=-0.129; 20D Return=-0.05; 60D Return=-0.152; RSI=31.296; Volatility=0.018",
       "generator": "openai",
-      "insight": "UnitedHealth Group ranks highly due to its substantial scale and diversified healthcare platform, generating $447.6 billion in revenue for 2025, driven by its UnitedHealthcare and Optum businesses. An upside driver is its strong cash generation and broad service offerings across Medicare, Medicaid, and pharmacy services. However, risks include a lower revenue outlook for 2026 amid elevated medical costs, reimbursement pressures, cybersecurity expenses, and regulatory scrutiny, which may challenge near-term performance recovery.",
+      "insight": "UnitedHealth Group ranks highly due to its substantial scale and diversified healthcare platform, generating $447.6 billion in 2025 revenue, driven by its UnitedHealthcare and Optum businesses. An upside driver is its strong cash generation and broad service offerings across Medicare, Medicaid, and pharmacy services. However, risks include a lower revenue outlook for 2026 amid elevated medical costs, reimbursement pressures, cybersecurity expenses, and regulatory scrutiny, which may challenge near-term performance recovery.",
       "key_points": [
         "UnitedHealth Group reported full-year and fourth-quarter 2025 results and issued its 2026 outlook on January 27, 2026.",
         "UnitedHealth Group is a health care and well-being company that operates through two complementary businesses: UnitedHealthcare and Optum.",
@@ -132,7 +132,7 @@
       "date": "2026-03-20",
       "retrieval_query": "JPM JPM why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.437; ML Score=0.048; Momentum Score=-0.081; 20D Return=-0.078; 60D Return=-0.113; RSI=29.956; Volatility=0.014",
       "generator": "openai",
-      "insight": "JPMorgan Chase ranks third with a solid score of 0.44, supported by strong financial performance including a 13% year-over-year net income increase to $16.5 billion in Q1 2026 and robust 2025 revenue of $182.4 billion. The firm's scale and profitability are key upside drivers. However, risks such as credit losses, market volatility, regulatory changes, and geopolitical uncertainty could impact future results.",
+      "insight": "JPMorgan Chase ranks third with a solid score of 0.437, driven by strong financial performance including a 13% year-over-year net income increase to $16.5 billion in Q1 2026 and robust 2025 revenue of $182.4 billion. The firm's scale and profitability underpin its upside potential. However, risks such as credit losses, interest-rate fluctuations, market volatility, and regulatory changes could impact future results.",
       "key_points": [
         "JPMorgan Chase's 2025 financial highlights show the scale and profitability of the firm.",
         "JPMorgan Chase reported first-quarter 2026 net income of $16.5 billion, up 13% year over year, and diluted EPS of $5.94.",
@@ -190,7 +190,7 @@
       "date": "2026-03-20",
       "retrieval_query": "JNJ JNJ why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.407; ML Score=0.022; Momentum Score=0.139; 20D Return=-0.029; 60D Return=0.135; RSI=23.964; Volatility=0.01",
       "generator": "openai",
-      "insight": "Johnson & Johnson ranks 4th with a solid score of 0.407, supported by strong sales growth\u20142025 worldwide sales rose 6% to $94.2 billion and Q1 2026 sales increased nearly 10% year-over-year. The recent European launch of VARIPULSE Pro expands its innovative cardiac treatment portfolio, driving future growth. However, risks include patent expirations, biosimilar competition, and pricing pressures that could impact revenue replacement from older products.",
+      "insight": "Johnson & Johnson ranks 4th with a solid score of 0.41, supported by strong sales growth\u2014Q1 2026 sales rose 9.9% year-over-year to $24.1 billion, and 2025 full-year sales increased 6% to $94.2 billion. The recent European launch of VARIPULSE Pro expands its innovative cardiac treatment portfolio, driving future growth. However, risks include patent expirations, biosimilar competition, pricing pressures, and regulatory challenges that could impact revenue replacement and profitability.",
       "key_points": [
         "Johnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024.",
         "Johnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures.",
@@ -248,7 +248,7 @@
       "date": "2026-03-20",
       "retrieval_query": "MRK MRK why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.324; ML Score=0.016; Momentum Score=0.171; 20D Return=-0.066; 60D Return=0.09; RSI=18.97; Volatility=0.015",
       "generator": "openai",
-      "insight": "Merck ranks 5th with a moderate score of 0.324, supported by steady sales growth\u20142025 full-year sales rose 1% to $65.0 billion and Q4 sales increased 5% year-over-year. An upside driver is its broad portfolio in prescription medicines and biologic therapies, contributing to solid net income gains. However, risks include heavy reliance on KEYTRUDA, significant sales declines in GARDASIL vaccines due to lower demand, and challenges like patent expirations and pricing pressures that could impact future growth.",
+      "insight": "Merck ranks 5th with a moderate score of 0.324, supported by steady sales growth\u2014$65.0 billion in 2025, up 1% from 2024\u2014and a diverse healthcare portfolio including prescription medicines and vaccines. An upside driver is its strong global sales and expanding pipeline. However, risks include heavy dependence on KEYTRUDA, significant sales declines in GARDASIL vaccines due to lower demand, and challenges like patent expirations and pricing pressures.",
       "key_points": [
         "Merck's 2025 Form 10-K reported sales of $65.0 billion, compared with $64.2 billion in 2024 and $60.1 billion in 2023.",
         "Merck reported fourth-quarter 2025 worldwide sales of $16.4 billion, up 5% year over year, and full-year 2025 worldwide sales of $65.0 billion, up 1%.",
@@ -307,7 +307,7 @@
       "date": "2026-03-20",
       "retrieval_query": "AAPL AAPL why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.277; ML Score=0.04; Momentum Score=-0.049; 20D Return=-0.063; 60D Return=-0.085; RSI=23.604; Volatility=0.013",
       "generator": "openai",
-      "insight": "Apple ranks 6th with a moderate score of 0.277, supported by record fiscal Q1 2026 results including 16% revenue growth and strong profitability with $42.1 billion net income. The upside driver is its robust cash generation and market leadership in consumer electronics and digital services. However, momentum and recent returns are negative, with a 20-day return of -6.3% and RSI at 23.6, indicating potential near-term weakness or oversold conditions.",
+      "insight": "Apple ranks 6th with a moderate score of 0.277, supported by record fiscal Q1 2026 results including $143.8 billion revenue and strong profitability with $42.1 billion net income, highlighting robust cash generation. An upside driver is Apple's continued leadership in consumer electronics and digital services. However, momentum and short-term returns are negative, with a 20-day return of -6.3% and RSI at 23.6, indicating potential near-term weakness risk.",
       "key_points": [
         "Apple reported record fiscal first-quarter results for the period ended December 27, 2025.",
         "Apple Inc. is a technology company best known for designing, manufacturing, and selling consumer electronics, software, and digital services.",
@@ -363,7 +363,7 @@
       "date": "2026-03-20",
       "retrieval_query": "PFE PFE why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.048; ML Score=0.019; Momentum Score=0.073; 20D Return=0.012; 60D Return=0.07; RSI=46.506; Volatility=0.014",
       "generator": "openai",
-      "insight": "Pfizer ranks 7th with a modest score of 0.048, supported by steady revenue of $62.6 billion in 2025 and growth excluding declining COVID-19 products like Comirnaty and Paxlovid. An upside driver is the 6% operational revenue growth outside COVID products, fueled by strong sales of oncology biosimilars and other key drugs. However, risks include drug pricing pressure, loss of exclusivity, and sharp declines in COVID product demand, which could weigh on future performance.",
+      "insight": "Pfizer ranks 7th with a modest positive score driven by steady revenue growth excluding its COVID-19 products, supported by key drugs like Abrysvo and oncology biosimilars. However, overall revenue declined slightly in 2025 due to sharp drops in COVID-19 product demand, including a 35% operational decline in Comirnaty and 70% in Paxlovid. Key risks include drug pricing pressure, generic competition, and integration challenges from acquisitions, which could impact future growth despite the company's reaffirmed 2026 guidance.",
       "key_points": [
         "For 2025, Pfizer reported revenue of $62.579 billion, compared with $63.627 billion in 2024 and $59.553 billion in 2023.",
         "Pfizer reported fourth-quarter and full-year 2025 results and reaffirmed its full-year 2026 guidance.",
@@ -422,7 +422,7 @@
       "date": "2026-03-20",
       "retrieval_query": "MSFT MSFT why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.014; ML Score=0.046; Momentum Score=-0.165; 20D Return=-0.039; 60D Return=-0.213; RSI=33.531; Volatility=0.015",
       "generator": "openai",
-      "insight": "Microsoft ranks 8th with a modest positive score, supported by strong fiscal Q2 2026 results including 17% revenue growth and a 15% increase in fiscal 2025 revenue to $281.7 billion. Key upside drivers include its diversified technology portfolio spanning cloud, AI platforms, and business applications, which fuel growth. However, risks such as intense competition, high AI infrastructure costs, cloud capacity constraints, and regulatory scrutiny could pressure margins and execution, especially in commercializing AI products like Copilot.",
+      "insight": "Microsoft ranks 8th with a modest positive score, supported by strong fiscal Q2 2026 results including 17% revenue growth and a 15% increase in fiscal 2025 revenue to $281.7 billion. The company's diverse technology portfolio and growth in cloud and AI platforms are key upside drivers. However, risks such as intense competition, high AI infrastructure costs, regulatory scrutiny, and execution challenges in commercializing AI products like Copilot could impact profitability and growth momentum.",
       "key_points": [
         "Microsoft is a global technology company that develops software, cloud services, AI platforms, business applications, devices, gaming services, search advertising, and professional networking products.",
         "Microsoft reported strong fiscal second quarter 2026 results for the quarter ended December 31, 2025.",
@@ -481,7 +481,7 @@
       "date": "2026-03-20",
       "retrieval_query": "BAC BAC why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.017; ML Score=0.037; Momentum Score=-0.101; 20D Return=-0.111; 60D Return=-0.156; RSI=30.312; Volatility=0.018",
       "generator": "openai",
-      "insight": "Bank of America ranks 9th with a slightly negative overall score despite strong earnings growth, including a 17% rise in Q1 2026 net income and a 25% increase in diluted EPS, driven by higher net interest income and diversified revenue streams. However, risks such as credit quality, interest rate fluctuations, regulatory challenges, and geopolitical uncertainties could pressure future performance.",
+      "insight": "Bank of America ranks 9th with a slightly negative overall score despite strong fundamentals, including a 17% rise in Q1 2026 net income to $8.6 billion and a 7% revenue increase driven by higher net interest income and fees. An upside driver is its diversified financial services and consistent revenue growth, as shown in its 2025 Form 10-K. However, risks such as credit quality, interest rate fluctuations, regulatory challenges, and macroeconomic pressures could impact future performance.",
       "key_points": [
         "Bank of America reported first-quarter 2026 net income of $8.6 billion, up 17% from the year-ago quarter, and diluted EPS of $1.11, up 25%.",
         "Bank of America Corporation is one of the world's largest financial institutions.",
@@ -540,7 +540,7 @@
       "date": "2026-03-20",
       "retrieval_query": "GOOGL GOOGL why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.126; ML Score=0.015; Momentum Score=0.059; 20D Return=-0.044; 60D Return=-0.028; RSI=43.605; Volatility=0.013",
       "generator": "openai",
-      "insight": "Alphabet ranks 10th with a slightly negative overall score despite strong fundamentals. The company demonstrated robust revenue growth and profitability in 2025, driven by momentum in Google Services and Google Cloud, which are key upside drivers. However, significant risks remain from regulatory investigations, antitrust challenges, and competition in AI and cloud markets, alongside dependence on advertising and high infrastructure costs. These factors contribute to execution risk in newer business areas, tempering the outlook despite solid financial performance.",
+      "insight": "Alphabet ranks 10th with a slightly negative overall score despite strong fundamentals. The company demonstrated robust revenue growth and profitability in 2025, driven by momentum in Google Services and Google Cloud, which are key upside drivers. However, significant risks include regulatory investigations, antitrust challenges, and competition in AI and cloud markets, which could impact future performance. Investors should weigh Alphabet\u2019s strong cash generation and growth prospects against these regulatory and execution risks.",
       "key_points": [
         "Alphabet's 2025 Form 10-K showed strong revenue, profitability, and cash generation.",
         "Alphabet reported strong fourth-quarter 2025 results for the period ended December 31, 2025.",

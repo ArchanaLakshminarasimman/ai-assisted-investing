@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T17:15:56.821017+00:00",
-  "input_source": "xgboost_backtesting_outputs/ranking/ranked_holdings_healthcare.csv",
+  "generated_at": "2026-04-30T17:23:12.533029+00:00",
+  "input_source": "xgboost_randomforest_backtesting_outputs/rankings/ranked_holdings_healthcare.csv",
   "generator": "openai",
   "index_dir": "/Users/archana/Documents/ai-assisted-investing/rag_index",
   "insights": [
@@ -9,12 +9,12 @@
       "company": "UnitedHealth Group",
       "sector": "Healthcare",
       "rank": 1,
-      "score": 0.5675781221678164,
-      "signal_summary": "Final Score=0.568; ML Score=0.057; Momentum Score=-0.129; 20D Return=-0.05; 60D Return=-0.152; RSI=31.296; Volatility=0.018",
+      "score": 0.4010862765863281,
+      "signal_summary": "Final Score=0.401; ML Score=0.041; Momentum Score=-0.129; 20D Return=-0.05; 60D Return=-0.152; RSI=31.296; Volatility=0.018",
       "date": "2026-03-20",
-      "retrieval_query": "UNH UNH why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.568; ML Score=0.057; Momentum Score=-0.129; 20D Return=-0.05; 60D Return=-0.152; RSI=31.296; Volatility=0.018",
+      "retrieval_query": "UNH UNH why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.401; ML Score=0.041; Momentum Score=-0.129; 20D Return=-0.05; 60D Return=-0.152; RSI=31.296; Volatility=0.018",
       "generator": "openai",
-      "insight": "UnitedHealth Group ranks first due to its strong 2025 performance, generating $447.6 billion in revenue, driven by its complementary UnitedHealthcare and Optum businesses. An upside driver is its large, cash-generative platform supporting diverse health services and growth opportunities. However, risks include a lower 2026 revenue outlook and challenges from elevated medical costs, reimbursement pressures, cybersecurity expenses, and regulatory scrutiny, which could impact near-term performance.",
+      "insight": "UnitedHealth Group ranks first due to its strong 2025 performance, generating $447.6 billion in revenue and operating through two complementary businesses, UnitedHealthcare and Optum, which support diversified growth. An upside driver is its large, cash-generative platform with broad membership and service offerings. However, risks include a lower 2026 revenue outlook and challenges from elevated medical costs, reimbursement pressures, cybersecurity expenses, and regulatory scrutiny that may impact near-term performance.",
       "key_points": [
         "UnitedHealth Group reported full-year and fourth-quarter 2025 results and issued its 2026 outlook on January 27, 2026.",
         "UnitedHealth Group is a health care and well-being company that operates through two complementary businesses: UnitedHealthcare and Optum.",
@@ -27,7 +27,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.42500364780426025,
+          "retrieval_score": 0.4235624670982361,
           "ticker": "UNH",
           "company": "UnitedHealth Group",
           "sector": "Healthcare",
@@ -39,7 +39,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.28503456711769104,
+          "retrieval_score": 0.281805157661438,
           "ticker": "UNH",
           "company": "UnitedHealth Group",
           "sector": "Healthcare",
@@ -51,7 +51,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.27577152848243713,
+          "retrieval_score": 0.27815890312194824,
           "ticker": "UNH",
           "company": "UnitedHealth Group",
           "sector": "Healthcare",
@@ -64,74 +64,16 @@
       ]
     },
     {
-      "ticker": "JNJ",
-      "company": "Johnson & Johnson",
-      "sector": "Healthcare",
-      "rank": 2,
-      "score": 0.4071846510330097,
-      "signal_summary": "Final Score=0.407; ML Score=0.022; Momentum Score=0.139; 20D Return=-0.029; 60D Return=0.135; RSI=23.964; Volatility=0.01",
-      "date": "2026-03-20",
-      "retrieval_query": "JNJ JNJ why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.407; ML Score=0.022; Momentum Score=0.139; 20D Return=-0.029; 60D Return=0.135; RSI=23.964; Volatility=0.01",
-      "generator": "openai",
-      "insight": "Johnson & Johnson ranks highly due to strong sales growth, with 2025 worldwide sales up 6% to $94.2 billion and Q1 2026 sales rising nearly 10% year-over-year, driven by innovation in medicines and MedTech. The recent European launch of VARIPULSE Pro expands its cardiac procedure portfolio, supporting future growth. However, risks include patent expirations, biosimilar competition, and regulatory challenges that could pressure pricing and product replacement efforts.",
-      "key_points": [
-        "Johnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024.",
-        "Johnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures.",
-        "Johnson & Johnson reported first-quarter 2026 sales of $24.1 billion, up 9.9% year over year on a reported basis, with operational growth of 6.4% and adjusted operational growth of 5.3%."
-      ],
-      "risk_points": [
-        "Key risks include patent expirations, biosimilar competition, legal proceedings, pricing pressure, clinical trial execution, regulatory decisions, and the need to continue replacing older product revenue with new medicines and technologies."
-      ],
-      "evidence": [
-        {
-          "retrieval_rank": 1,
-          "retrieval_score": 0.37805840373039246,
-          "ticker": "JNJ",
-          "company": "Johnson & Johnson",
-          "sector": "Healthcare",
-          "doc_type": "financial_summary",
-          "title": "Johnson & Johnson Financial Summary From 2025 Form 10-K",
-          "date": "2026-02-13",
-          "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
-          "snippet": "Johnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024. Innovative Medicine generated $60.4 billion of sales, while MedTech generated $33.8 billion."
-        },
-        {
-          "retrieval_rank": 2,
-          "retrieval_score": 0.3040354549884796,
-          "ticker": "JNJ",
-          "company": "Johnson & Johnson",
-          "sector": "Healthcare",
-          "doc_type": "news",
-          "title": "Johnson & Johnson Launches VARIPULSE Pro in Europe",
-          "date": "2026-04-07",
-          "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-pulsed-field-ablation-portfolio-with-the-launch-of-varipulse-pro-in-europe",
-          "snippet": "Johnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures. VARIPULSE Pro introduces a new pulse sequence designed to improve workflow efficiency while reinforcing the platform's safety and effectiveness profile."
-        },
-        {
-          "retrieval_rank": 3,
-          "retrieval_score": 0.2868184745311737,
-          "ticker": "JNJ",
-          "company": "Johnson & Johnson",
-          "sector": "Healthcare",
-          "doc_type": "earnings_highlights",
-          "title": "Johnson & Johnson Q1 2026 Earnings Highlights",
-          "date": "2026-04-14",
-          "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q1-2026-results-raises-2026-outlook",
-          "snippet": "Johnson & Johnson reported first-quarter 2026 sales of $24.1 billion, up 9.9% year over year on a reported basis, with operational growth of 6.4% and adjusted operational growth of 5.3%. Diluted EPS was $2.14, while adjusted diluted EPS was $2.70."
-        }
-      ]
-    },
-    {
       "ticker": "MRK",
       "company": "Merck",
       "sector": "Healthcare",
-      "rank": 3,
-      "score": 0.3238253095917788,
-      "signal_summary": "Final Score=0.324; ML Score=0.016; Momentum Score=0.171; 20D Return=-0.066; 60D Return=0.09; RSI=18.97; Volatility=0.015",
+      "rank": 2,
+      "score": 0.2872843132836801,
+      "signal_summary": "Final Score=0.287; ML Score=0.014; Momentum Score=0.171; 20D Return=-0.066; 60D Return=0.09; RSI=18.97; Volatility=0.015",
       "date": "2026-03-20",
-      "retrieval_query": "MRK MRK why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.324; ML Score=0.016; Momentum Score=0.171; 20D Return=-0.066; 60D Return=0.09; RSI=18.97; Volatility=0.015",
+      "retrieval_query": "MRK MRK why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.287; ML Score=0.014; Momentum Score=0.171; 20D Return=-0.066; 60D Return=0.09; RSI=18.97; Volatility=0.015",
       "generator": "openai",
-      "insight": "Merck ranks third with a solid score of 0.324, supported by steady sales growth to $65.0 billion in 2025 and a 5% increase in Q4 sales, driven by its diverse portfolio in prescription medicines and biologics. However, risks include heavy reliance on KEYTRUDA, significant sales declines in GARDASIL vaccines, and challenges like patent expirations and pricing pressures that could impact future performance.",
+      "insight": "Merck ranks highly due to steady revenue growth, with 2025 sales reaching $65.0 billion, up 1% from 2024, driven by strong pharmaceutical and biologic therapy segments. An upside driver is its broad, diverse pipeline and solid earnings growth, including a 7% increase in GAAP net income. However, risks include heavy reliance on KEYTRUDA, significant sales declines in vaccines like GARDASIL, and challenges from patent expirations and pricing pressures.",
       "key_points": [
         "Merck's 2025 Form 10-K reported sales of $65.0 billion, compared with $64.2 billion in 2024 and $60.1 billion in 2023.",
         "Merck reported fourth-quarter 2025 worldwide sales of $16.4 billion, up 5% year over year, and full-year 2025 worldwide sales of $65.0 billion, up 1%.",
@@ -144,7 +86,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.438070684671402,
+          "retrieval_score": 0.4347096085548401,
           "ticker": "MRK",
           "company": "Merck",
           "sector": "Healthcare",
@@ -156,7 +98,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.4077950417995453,
+          "retrieval_score": 0.40560513734817505,
           "ticker": "MRK",
           "company": "Merck",
           "sector": "Healthcare",
@@ -168,7 +110,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.3682430386543274,
+          "retrieval_score": 0.3748692274093628,
           "ticker": "MRK",
           "company": "Merck",
           "sector": "Healthcare",
@@ -181,16 +123,74 @@
       ]
     },
     {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "sector": "Healthcare",
+      "rank": 3,
+      "score": 0.2846725434897305,
+      "signal_summary": "Final Score=0.285; ML Score=0.018; Momentum Score=0.139; 20D Return=-0.029; 60D Return=0.135; RSI=23.964; Volatility=0.01",
+      "date": "2026-03-20",
+      "retrieval_query": "JNJ JNJ why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.285; ML Score=0.018; Momentum Score=0.139; 20D Return=-0.029; 60D Return=0.135; RSI=23.964; Volatility=0.01",
+      "generator": "openai",
+      "insight": "Johnson & Johnson ranks third with a solid score of 0.285, supported by strong sales growth\u20142025 worldwide sales rose 6% to $94.2 billion, and Q1 2026 sales increased nearly 10% year-over-year. The recent European launch of VARIPULSE Pro enhances its MedTech portfolio, potentially driving further growth. However, risks such as patent expirations, biosimilar competition, and pricing pressures remain significant challenges that could impact future performance.",
+      "key_points": [
+        "Johnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024.",
+        "Johnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures.",
+        "Johnson & Johnson reported first-quarter 2026 sales of $24.1 billion, up 9.9% year over year on a reported basis, with operational growth of 6.4% and adjusted operational growth of 5.3%."
+      ],
+      "risk_points": [
+        "Key risks include patent expirations, biosimilar competition, legal proceedings, pricing pressure, clinical trial execution, regulatory decisions, and the need to continue replacing older product revenue with new medicines and technologies."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.3825412392616272,
+          "ticker": "JNJ",
+          "company": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "doc_type": "financial_summary",
+          "title": "Johnson & Johnson Financial Summary From 2025 Form 10-K",
+          "date": "2026-02-13",
+          "source_url": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+          "snippet": "Johnson & Johnson's 2025 Form 10-K reported worldwide sales to customers of $94.2 billion, up 6.0% from $88.8 billion in 2024. Innovative Medicine generated $60.4 billion of sales, while MedTech generated $33.8 billion."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.30662423372268677,
+          "ticker": "JNJ",
+          "company": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "doc_type": "news",
+          "title": "Johnson & Johnson Launches VARIPULSE Pro in Europe",
+          "date": "2026-04-07",
+          "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-advances-pulsed-field-ablation-portfolio-with-the-launch-of-varipulse-pro-in-europe",
+          "snippet": "Johnson & Johnson announced the European launch of VARIPULSE Pro after CE Mark approval, expanding its pulsed field ablation portfolio for cardiac procedures. VARIPULSE Pro introduces a new pulse sequence designed to improve workflow efficiency while reinforcing the platform's safety and effectiveness profile."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.2922082245349884,
+          "ticker": "JNJ",
+          "company": "Johnson & Johnson",
+          "sector": "Healthcare",
+          "doc_type": "earnings_highlights",
+          "title": "Johnson & Johnson Q1 2026 Earnings Highlights",
+          "date": "2026-04-14",
+          "source_url": "https://www.jnj.com/media-center/press-releases/johnson-johnson-reports-q1-2026-results-raises-2026-outlook",
+          "snippet": "Johnson & Johnson reported first-quarter 2026 sales of $24.1 billion, up 9.9% year over year on a reported basis, with operational growth of 6.4% and adjusted operational growth of 5.3%. Diluted EPS was $2.14, while adjusted diluted EPS was $2.70."
+        }
+      ]
+    },
+    {
       "ticker": "PFE",
       "company": "Pfizer",
       "sector": "Healthcare",
       "rank": 4,
-      "score": 0.047831357378373,
-      "signal_summary": "Final Score=0.048; ML Score=0.019; Momentum Score=0.073; 20D Return=0.012; 60D Return=0.07; RSI=46.506; Volatility=0.014",
+      "score": -0.0474811986404339,
+      "signal_summary": "Final Score=-0.047; ML Score=0.016; Momentum Score=0.073; 20D Return=0.012; 60D Return=0.07; RSI=46.506; Volatility=0.014",
       "date": "2026-03-20",
-      "retrieval_query": "PFE PFE why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=0.048; ML Score=0.019; Momentum Score=0.073; 20D Return=0.012; 60D Return=0.07; RSI=46.506; Volatility=0.014",
+      "retrieval_query": "PFE PFE why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.047; ML Score=0.016; Momentum Score=0.073; 20D Return=0.012; 60D Return=0.07; RSI=46.506; Volatility=0.014",
       "generator": "openai",
-      "insight": "Pfizer ranks 4th with a modest positive score driven by solid revenue of $62.6 billion in 2025 and growth excluding declining COVID-19 products like Comirnaty and Paxlovid. Key upside drivers include strong sales from oncology biosimilars and established drugs such as Eliquis and Prevnar. However, risks remain from drug pricing pressures, generic competition, and sharp declines in COVID-19 product demand, which could weigh on future growth despite reaffirmed 2026 guidance.",
+      "insight": "Pfizer ranks 4th with a modest negative score of -0.047, reflecting mixed momentum and stable recent returns. An upside driver is its diversified product growth outside COVID-19 vaccines, including strong sales from Abrysvo, oncology biosimilars, Eliquis, and Prevnar, supporting operational revenue growth excluding Comirnaty and Paxlovid by 6% in 2025. However, risks remain from significant declines in COVID-19 product demand, drug pricing pressures, and competition from generics and biosimilars, which could impact future revenue and profitability.",
       "key_points": [
         "For 2025, Pfizer reported revenue of $62.579 billion, compared with $63.627 billion in 2024 and $59.553 billion in 2023.",
         "Pfizer reported fourth-quarter and full-year 2025 results and reaffirmed its full-year 2026 guidance.",
@@ -203,7 +203,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.48286664485931396,
+          "retrieval_score": 0.4825947880744934,
           "ticker": "PFE",
           "company": "Pfizer",
           "sector": "Healthcare",
@@ -215,7 +215,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.475913405418396,
+          "retrieval_score": 0.4759674668312073,
           "ticker": "PFE",
           "company": "Pfizer",
           "sector": "Healthcare",
@@ -227,7 +227,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.4144582450389862,
+          "retrieval_score": 0.4145474433898926,
           "ticker": "PFE",
           "company": "Pfizer",
           "sector": "Healthcare",
@@ -244,12 +244,12 @@
       "company": "AbbVie",
       "sector": "Healthcare",
       "rank": 5,
-      "score": -0.4551696967328218,
-      "signal_summary": "Final Score=-0.455; ML Score=0.022; Momentum Score=-0.082; 20D Return=-0.088; 60D Return=-0.1; RSI=12.316; Volatility=0.017",
+      "score": -0.3576758668862237,
+      "signal_summary": "Final Score=-0.358; ML Score=0.02; Momentum Score=-0.082; 20D Return=-0.088; 60D Return=-0.1; RSI=12.316; Volatility=0.017",
       "date": "2026-03-20",
-      "retrieval_query": "ABBV ABBV why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.455; ML Score=0.022; Momentum Score=-0.082; 20D Return=-0.088; 60D Return=-0.1; RSI=12.316; Volatility=0.017",
+      "retrieval_query": "ABBV ABBV why this stock ranks highly. recent earnings growth profitability outlook risks. Final Score=-0.358; ML Score=0.02; Momentum Score=-0.082; 20D Return=-0.088; 60D Return=-0.1; RSI=12.316; Volatility=0.017",
       "generator": "openai",
-      "insight": "AbbVie ranks 5th with a slightly negative overall score of -0.455, reflecting mixed momentum and recent negative returns. A key upside driver is its strong 2025 financial performance, with net revenues rising 8.6% to $61.2 billion and robust operating earnings, supported by ongoing global commercialization of its medicines. However, risks include significant patent and exclusivity pressures, notably the 25.9% revenue decline in Humira due to biosimilar competition, alongside regulatory and pricing challenges that could impact future growth.",
+      "insight": "AbbVie ranks 5th with a slightly negative overall score, reflecting mixed momentum and recent price declines despite strong fundamentals. The company reported robust 2025 financials, including $61.2 billion in net revenues (up 8.6%) and $15.1 billion in operating earnings, highlighting solid growth and cash flow generation. However, risks remain from patent expirations and biosimilar competition, notably a 25.9% revenue decline in Humira, underscoring challenges in transitioning away from legacy drugs. Regulatory and pricing pressures also pose execution risks in drug development.",
       "key_points": [
         "AbbVie's 2025 Form 10-K reported worldwide net revenues of $61.2 billion, operating earnings of $15.1 billion, diluted EPS of $2.36, and cash flows from operations of $19.0 billion.",
         "AbbVie reported full-year 2025 net revenues of $61.160 billion, up 8.6% on a reported basis, and fourth-quarter net revenues of $16.618 billion, up 10.0% year over year.",
@@ -262,7 +262,7 @@
       "evidence": [
         {
           "retrieval_rank": 1,
-          "retrieval_score": 0.419058233499527,
+          "retrieval_score": 0.4188234508037567,
           "ticker": "ABBV",
           "company": "AbbVie",
           "sector": "Healthcare",
@@ -274,7 +274,7 @@
         },
         {
           "retrieval_rank": 2,
-          "retrieval_score": 0.37807828187942505,
+          "retrieval_score": 0.37965503334999084,
           "ticker": "ABBV",
           "company": "AbbVie",
           "sector": "Healthcare",
@@ -286,7 +286,7 @@
         },
         {
           "retrieval_rank": 3,
-          "retrieval_score": 0.3592272102832794,
+          "retrieval_score": 0.36187389492988586,
           "ticker": "ABBV",
           "company": "AbbVie",
           "sector": "Healthcare",
