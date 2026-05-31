@@ -20,6 +20,7 @@ data/*.json
 - [`build_faiss_index.py`](/Users/archana/Documents/ai-assisted-investing/rag/build_faiss_index.py): embeds documents with `sentence-transformers` and saves a FAISS index bundle to `rag_index/`.
 - [`faiss_retriever.py`](/Users/archana/Documents/ai-assisted-investing/rag/faiss_retriever.py): loads the saved FAISS bundle and runs semantic search.
 - [`rag_insights.py`](/Users/archana/Documents/ai-assisted-investing/rag/rag_insights.py): reads ranked stocks, retrieves ticker-specific evidence, and generates short investment-style explanations.
+- [`langchain_agents.py`](/Users/archana/Documents/ai-assisted-investing/rag/langchain_agents.py): runs a two-agent LangChain flow where an analyst drafts the thesis and a reviewer cleans it up against the same evidence.
 - [`test_retrieval.py`](/Users/archana/Documents/ai-assisted-investing/rag/test_retrieval.py): simple TF-IDF retrieval sanity check that does not require FAISS.
 - [`test_faiss_retrieval.py`](/Users/archana/Documents/ai-assisted-investing/rag/test_faiss_retrieval.py): sample FAISS retrieval queries against the saved index.
 - [`test_rag_insights.py`](/Users/archana/Documents/ai-assisted-investing/rag/test_rag_insights.py): unit tests for ranking ingestion, retrieval scoping, and generator helpers.
@@ -112,23 +113,26 @@ When a ranking file contains multiple dates, the script keeps only the latest sn
 
 ## Generator Options
 
-`rag_insights.py` supports four generator modes:
+`rag_insights.py` supports five generator modes:
 
 - `template`: no API call, uses retrieved evidence to assemble a deterministic paragraph
 - `openai`: calls the OpenAI Chat Completions API
 - `ollama`: calls a local Ollama server
 - `gemini`: calls the Google Gemini API
+- `langchain`: runs two LangChain agents over ChatOpenAI, one analyst and one reviewer
 
 Current defaults in the script:
 
 - default generator: `openai`
 - default OpenAI model: `gpt-4.1-mini`
+- default LangChain model: `gpt-4.1-mini`
 - default Ollama model: `llama3.1:8b`
 - default Gemini model: `gemini-2.5-flash`
 
 ### Environment Variables
 
 - OpenAI: `OPENAI_API_KEY`, optional `OPENAI_MODEL`
+- LangChain: `OPENAI_API_KEY`, optional `LANGCHAIN_MODEL`
 - Gemini: `GEMINI_API_KEY` or `GOOGLE_API_KEY`, optional `GEMINI_MODEL`
 - Ollama: optional `OLLAMA_BASE_URL`, optional `OLLAMA_MODEL`
 
@@ -158,6 +162,42 @@ python3 rag/test_faiss_retrieval.py
 python3 rag/rag_insights.py --generator template
 ```
 
+### Generate insights with the two-agent LangChain workflow
+
+```bash
+python3 rag/rag_insights.py --generator langchain --ticker MSFT
+```
+
+Recommended repo-local output path for a single-ticker run:
+
+```bash
+python3 rag/rag_insights.py \
+  --generator langchain \
+  --ticker MSFT \
+  --output-file xgboost_backtesting_outputs/insights/msft_langchain.json
+```
+
+Recommended repo-local output path for the latest full ranked holdings snapshot:
+
+```bash
+python3 rag/rag_insights.py \
+  --generator langchain \
+  --output-file xgboost_backtesting_outputs/insights/all_sectors_langchain_insights.json
+```
+
+To verify that both agents ran, inspect the saved JSON and look for:
+
+- `generator: "langchain"`
+- `confidence_score`
+- `unsupported_claims`
+- `review_summary`
+
+Example:
+
+```bash
+python3 -m json.tool xgboost_backtesting_outputs/insights/msft_langchain.json
+```
+
 ### Generate insights from a specific backtest output and save JSON
 
 ```bash
@@ -181,6 +221,7 @@ Each insight includes:
 - the final generated paragraph
 - extracted `key_points`
 - extracted `risk_points`
+- optional LangChain review fields: `confidence_score`, `unsupported_claims`, `review_summary`
 - evidence items with title, date, source URL, snippet, and retrieval score
 
 ## Practical Notes

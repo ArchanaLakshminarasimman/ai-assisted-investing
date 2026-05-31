@@ -31,7 +31,7 @@ yfinance OHLCV
     -> ranked holdings, returns, metrics, drawdowns, sector comparisons
 ```
 
-Separately, the `data/` JSON files can be indexed with FAISS and used to generate narrative stock insights.
+Separately, the `data/` JSON files can be indexed with FAISS and used to generate narrative stock insights, including a two-agent LangChain analyst/reviewer workflow.
 
 ## Quick Start
 
@@ -85,6 +85,45 @@ python3 rag/build_faiss_index.py
 ```
 
 This reads the ticker JSON files in `data/` and writes index artifacts to `rag_index/`.
+
+### 6. Run the two-agent LangChain insight workflow
+
+The LangChain path keeps retrieval in this repo and adds two LLM agents on top:
+
+1. an `analyst` agent that drafts the stock thesis from ranking signals plus retrieved evidence
+2. a `reviewer` agent that checks the draft against the same evidence and removes unsupported claims
+
+Set your API key:
+
+```bash
+export OPENAI_API_KEY="your_api_key_here"
+export LANGCHAIN_MODEL="gpt-4.1-mini"
+```
+
+Run a single-ticker example and save the JSON inside the repo so you can commit it:
+
+```bash
+python3 rag/rag_insights.py \
+  --generator langchain \
+  --ticker MSFT \
+  --output-file xgboost_backtesting_outputs/insights/msft_langchain.json
+```
+
+Run the full latest ranked holdings file and save the result inside the repo:
+
+```bash
+python3 rag/rag_insights.py \
+  --generator langchain \
+  --output-file xgboost_backtesting_outputs/insights/all_sectors_langchain_insights.json
+```
+
+Verify the JSON output:
+
+```bash
+python3 -m json.tool xgboost_backtesting_outputs/insights/msft_langchain.json
+```
+
+The LangChain output includes extra review fields such as `confidence_score`, `unsupported_claims`, and `review_summary`, which confirm that the reviewer agent ran.
 
 ## Key Outputs
 

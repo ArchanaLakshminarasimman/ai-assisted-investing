@@ -379,9 +379,9 @@ def get_rag_insight(ticker: str, stock_row, generator: str = "openai"):
         from rag_insights import (
             RankedStock,
             build_evidence_items,
+            build_insight_bundle,
             build_key_points,
             build_risk_points,
-            build_insight_text,
         )
 
         retriever = _load_retriever()
@@ -406,7 +406,7 @@ def get_rag_insight(ticker: str, stock_row, generator: str = "openai"):
         key_points = build_key_points(evidence)
         risk_points = build_risk_points(evidence)
 
-        insight = build_insight_text(
+        generated_bundle = build_insight_bundle(
             generator=generator,
             stock=stock,
             evidence=evidence,
@@ -414,7 +414,11 @@ def get_rag_insight(ticker: str, stock_row, generator: str = "openai"):
             risk_points=risk_points,
         )
 
-        return insight, key_points, risk_points
+        return (
+            generated_bundle.insight_text,
+            generated_bundle.key_points,
+            generated_bundle.risk_points,
+        )
 
     except FileNotFoundError:
         return "FAISS index not found. Run `python rag/build_faiss_index.py` first.", [], []
@@ -589,9 +593,12 @@ with st.sidebar:
 
     rag_generator = st.selectbox(
     "LLM Generator",
-    ["openai", "template"],
+    ["openai", "langchain", "template"],
     index=0,
-    help="'template' works offline. OpenAI needs API key in .env file.",
+    help=(
+        "'template' works offline. 'openai' uses a single API call. "
+        "'langchain' runs a two-agent analyst/reviewer flow over ChatOpenAI."
+    ),
     )
 
     # Load API keys from .env file or Streamlit secrets — no manual input needed
@@ -601,7 +608,7 @@ with st.sidebar:
     except ImportError:
         pass  # dotenv not installed, rely on system env or st.secrets
 
-    if rag_generator == "openai" and not os.environ.get("OPENAI_API_KEY"):
+    if rag_generator in {"openai", "langchain"} and not os.environ.get("OPENAI_API_KEY"):
         if "OPENAI_API_KEY" in st.secrets:
             os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
@@ -1021,7 +1028,7 @@ if st.session_state.get("selected_stock") and not latest_df.empty:
             """, unsafe_allow_html=True)
 
         else:
-            if rag_generator == "openai" and not os.environ.get("OPENAI_API_KEY"):
+            if rag_generator in {"openai", "langchain"} and not os.environ.get("OPENAI_API_KEY"):
                 try:
                     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
                 except Exception:
@@ -1043,8 +1050,11 @@ if st.session_state.get("selected_stock") and not latest_df.empty:
                     st.session_state.pop(rag_cache_key, None)
 
             if generate_clicked:
-                if rag_generator == "openai" and not os.environ.get("OPENAI_API_KEY"):
-                    st.error("Please enter your OpenAI API key in the sidebar or configure Streamlit secrets.")
+                if rag_generator in {"openai", "langchain"} and not os.environ.get("OPENAI_API_KEY"):
+                    st.error(
+                        "Please enter your OpenAI API key in the sidebar or configure "
+                        "Streamlit secrets."
+                    )
                 else:
                     with st.spinner(f"Querying FAISS + calling {rag_generator.upper()}…"):
                         result = get_rag_insight(ticker, stock_row, generator=rag_generator)

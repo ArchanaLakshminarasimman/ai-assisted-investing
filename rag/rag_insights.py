@@ -7,7 +7,7 @@ import os
 import re
 import urllib.error
 import urllib.request
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -56,6 +56,7 @@ RISK_KEYWORDS = (
 DEFAULT_GEMINI_MODEL = "gemini-2.5-flash"
 DEFAULT_OLLAMA_MODEL = "llama3.1:8b"
 DEFAULT_OPENAI_MODEL = "gpt-4.1-mini"
+DEFAULT_LANGCHAIN_MODEL = "gpt-4.1-mini"
 
 
 @dataclass
@@ -99,6 +100,19 @@ class StockInsight:
     key_points: list[str]
     risk_points: list[str]
     evidence: list[EvidenceItem]
+    confidence_score: float | None = None
+    unsupported_claims: list[str] = field(default_factory=list)
+    review_summary: str | None = None
+
+
+@dataclass
+class GeneratedInsightBundle:
+    insight_text: str
+    key_points: list[str]
+    risk_points: list[str]
+    confidence_score: float | None = None
+    unsupported_claims: list[str] = field(default_factory=list)
+    review_summary: str | None = None
 
 
 def load_json(path: Path) -> Any:
@@ -723,6 +737,108 @@ def generate_with_ollama(
     return extract_ollama_text(response_payload)
 
 
+def generate_with_langchain_agents(
+    stock: RankedStock,
+    evidence: list[EvidenceItem],
+    key_points: list[str],
+    risk_points: list[str],
+    model: str | None,
+) -> GeneratedInsightBundle:
+    try:
+        from langchain_agents import generate_langchain_insight
+    except ImportError as error:
+        raise RuntimeError(
+            "LangChain dependencies are not installed. Install them with:\n"
+            "  python3 -m pip install -r requirements-rag.txt"
+        ) from error
+
+    payload = build_generation_user_payload(
+        stock=stock,
+        evidence=evidence,
+        key_points=key_points,
+        risk_points=risk_points,
+    )
+    result = generate_langchain_insight(
+        payload=payload,
+        model=model or os.environ.get("LANGCHAIN_MODEL") or DEFAULT_LANGCHAIN_MODEL,
+    )
+
+    return GeneratedInsightBundle(
+        insight_text=result.insight,
+        key_points=result.key_points or key_points,
+        risk_points=result.risk_points or risk_points,
+        confidence_score=result.confidence_score,
+        unsupported_claims=result.unsupported_claims or [],
+        review_summary=result.review_summary,
+    )
+
+
+def build_insight_bundle(
+    generator: str,
+    stock: RankedStock,
+    evidence: list[EvidenceItem],
+    key_points: list[str],
+    risk_points: list[str],
+    model: str | None = None,
+) -> GeneratedInsightBundle:
+    if generator == "langchain":
+        return generate_with_langchain_agents(
+            stock=stock,
+            evidence=evidence,
+            key_points=key_points,
+            risk_points=risk_points,
+            model=model,
+        )
+
+    if generator == "gemini":
+        insight_text = generate_with_gemini(
+            stock=stock,
+            evidence=evidence,
+            key_points=key_points,
+            risk_points=risk_points,
+            model=model,
+        )
+        return GeneratedInsightBundle(
+            insight_text=insight_text,
+            key_points=key_points,
+            risk_points=risk_points,
+        )
+
+    if generator == "ollama":
+        insight_text = generate_with_ollama(
+            stock=stock,
+            evidence=evidence,
+            key_points=key_points,
+            risk_points=risk_points,
+            model=model,
+        )
+        return GeneratedInsightBundle(
+            insight_text=insight_text,
+            key_points=key_points,
+            risk_points=risk_points,
+        )
+
+    if generator == "openai":
+        insight_text = generate_with_openai(
+            stock=stock,
+            evidence=evidence,
+            key_points=key_points,
+            risk_points=risk_points,
+            model=model,
+        )
+        return GeneratedInsightBundle(
+            insight_text=insight_text,
+            key_points=key_points,
+            risk_points=risk_points,
+        )
+
+    return GeneratedInsightBundle(
+        insight_text=build_template_insight(stock, key_points, risk_points),
+        key_points=key_points,
+        risk_points=risk_points,
+    )
+
+
 def build_insight_text(
     generator: str,
     stock: RankedStock,
@@ -731,34 +847,14 @@ def build_insight_text(
     risk_points: list[str],
     model: str | None = None,
 ) -> str:
-    if generator == "gemini":
-        return generate_with_gemini(
-            stock=stock,
-            evidence=evidence,
-            key_points=key_points,
-            risk_points=risk_points,
-            model=model,
-        )
-
-    if generator == "ollama":
-        return generate_with_ollama(
-            stock=stock,
-            evidence=evidence,
-            key_points=key_points,
-            risk_points=risk_points,
-            model=model,
-        )
-
-    if generator == "openai":
-        return generate_with_openai(
-            stock=stock,
-            evidence=evidence,
-            key_points=key_points,
-            risk_points=risk_points,
-            model=model,
-        )
-
-    return build_template_insight(stock, key_points, risk_points)
+    return build_insight_bundle(
+        generator=generator,
+        stock=stock,
+        evidence=evidence,
+        key_points=key_points,
+        risk_points=risk_points,
+        model=model,
+    ).insight_text
 
 
 def generate_insights(
@@ -782,7 +878,7 @@ def generate_insights(
 
         key_points = build_key_points(evidence)
         risk_points = build_risk_points(evidence)
-        insight_text = build_insight_text(
+        generated_bundle = build_insight_bundle(
             generator=generator,
             stock=stock,
             evidence=evidence,
@@ -802,10 +898,13 @@ def generate_insights(
                 date=stock.date,
                 retrieval_query=query,
                 generator=generator,
-                insight=insight_text,
-                key_points=key_points,
-                risk_points=risk_points,
+                insight=generated_bundle.insight_text,
+                key_points=generated_bundle.key_points,
+                risk_points=generated_bundle.risk_points,
                 evidence=evidence,
+                confidence_score=generated_bundle.confidence_score,
+                unsupported_claims=generated_bundle.unsupported_claims,
+                review_summary=generated_bundle.review_summary,
             )
         )
 
@@ -842,6 +941,9 @@ def insight_to_dict(item: StockInsight) -> dict[str, Any]:
         "key_points": item.key_points,
         "risk_points": item.risk_points,
         "evidence": [evidence_to_dict(evidence_item) for evidence_item in item.evidence],
+        "confidence_score": item.confidence_score,
+        "unsupported_claims": item.unsupported_claims,
+        "review_summary": item.review_summary,
     }
 
 
@@ -891,16 +993,20 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--generator",
-        choices=("template", "openai", "ollama", "gemini"),
+        choices=("template", "openai", "ollama", "gemini", "langchain"),
         default="openai",
-        help="Use template mode, OpenAI, Ollama, or Gemini. Default: OpenAI.",
+        help=(
+            "Use template mode, OpenAI, Ollama, Gemini, or a two-agent "
+            "LangChain workflow. Default: OpenAI."
+        ),
     )
     parser.add_argument(
         "--model",
         help=(
-            "Model name for --generator openai, --generator ollama, or "
-            "--generator gemini. Defaults: gpt-4.1-mini for OpenAI, "
-            "llama3.1:8b for Ollama, gemini-2.5-flash for Gemini."
+            "Model name for --generator openai, --generator ollama, "
+            "--generator gemini, or --generator langchain. Defaults: "
+            "gpt-4.1-mini for OpenAI and LangChain, llama3.1:8b for "
+            "Ollama, gemini-2.5-flash for Gemini."
         ),
     )
     parser.add_argument(

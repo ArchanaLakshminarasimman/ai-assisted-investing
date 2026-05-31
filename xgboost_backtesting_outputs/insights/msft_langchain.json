@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-05-31T17:02:05.634474+00:00",
+  "input_source": "manual_tickers",
+  "generator": "langchain",
+  "index_dir": "/Users/archana/Documents/ai-assisted-investing/rag_index",
+  "insights": [
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "sector": "Technology",
+      "rank": 1,
+      "score": null,
+      "signal_summary": null,
+      "date": null,
+      "retrieval_query": "MSFT MSFT why this stock ranks highly. recent earnings growth profitability outlook risks",
+      "generator": "langchain",
+      "insight": "Microsoft ranks first due to its strong revenue growth driven by diversified technology offerings including software, cloud services, and AI platforms. The company reported a 15% revenue increase in fiscal 2025 and continued momentum with a 17% revenue rise in Q2 fiscal 2026. However, risks such as high AI infrastructure costs, intense competition, and regulatory scrutiny could impact future profitability and growth execution.",
+      "key_points": [
+        "Microsoft reported revenue of $281.7 billion for fiscal 2025, a 15% increase from the prior year, demonstrating strong top-line growth.",
+        "In fiscal Q2 2026, Microsoft achieved $81.3 billion in revenue, up 17% year over year, with operating income increasing 21%, indicating robust operational performance.",
+        "Microsoft's diversified business model spans software, cloud, AI platforms, business applications, devices, gaming, and advertising, supporting multiple growth avenues."
+      ],
+      "risk_points": [
+        "High costs related to datacenter and AI infrastructure investments could pressure margins.",
+        "The company faces intense competition in cloud and AI markets, regulatory scrutiny, cybersecurity risks, and execution challenges in commercializing AI products like Copilot."
+      ],
+      "evidence": [
+        {
+          "retrieval_rank": 1,
+          "retrieval_score": 0.4634675979614258,
+          "ticker": "MSFT",
+          "company": "Microsoft",
+          "sector": "Technology",
+          "doc_type": "financial_summary",
+          "title": "Microsoft Financial Summary From Fiscal 2025 Annual Report",
+          "date": "2025-07-30",
+          "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+          "snippet": "For fiscal year 2025, Microsoft reported revenue of $281.7 billion, up 15% from $245.1 billion in fiscal 2024. Gross margin was $193.9 billion, operating income was $128.5 billion, and net income was $101.8 billion, up 16%."
+        },
+        {
+          "retrieval_rank": 2,
+          "retrieval_score": 0.4559098780155182,
+          "ticker": "MSFT",
+          "company": "Microsoft",
+          "sector": "Technology",
+          "doc_type": "earnings_highlights",
+          "title": "Microsoft FY26 Q2 Earnings Highlights",
+          "date": "2026-01-28",
+          "source_url": "https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q2/press-release-webcast",
+          "snippet": "Microsoft reported strong fiscal second quarter 2026 results for the quarter ended December 31, 2025. Revenue was $81.3 billion, up 17% year over year, and operating income was $38.3 billion, up 21%."
+        },
+        {
+          "retrieval_rank": 3,
+          "retrieval_score": 0.44874948263168335,
+          "ticker": "MSFT",
+          "company": "Microsoft",
+          "sector": "Technology",
+          "doc_type": "overview",
+          "title": "Microsoft Company Overview",
+          "date": "2025-07-30",
+          "source_url": "https://www.microsoft.com/investor/reports/ar25/index.html",
+          "snippet": "Microsoft is a global technology company that develops software, cloud services, AI platforms, business applications, devices, gaming services, search advertising, and professional networking products. The company reports three major segments: Productivity and Business Processes, Intelligent Cloud, and More Personal Computing."
+        }
+      ],
+      "confidence_score": 1.0,
+      "unsupported_claims": [],
+      "review_summary": "The analyst draft is well supported by the evidence, accurately reflecting Microsoft's strong revenue growth, diversified business model, and key risks related to AI infrastructure costs and competition."
+    }
+  ]
+}

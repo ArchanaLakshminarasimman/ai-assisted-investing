@@ -7,6 +7,7 @@ from unittest.mock import patch
 
 from faiss_retriever import FAISSRetriever
 from rag_insights import (
+    GeneratedInsightBundle,
     build_insight_text,
     build_stock_query,
     extract_gemini_text,
@@ -148,6 +149,61 @@ class TestRagInsights(unittest.TestCase):
 
         self.assertEqual(insight_text, "mocked gemini output")
         mock_generate.assert_called_once()
+
+    def test_build_insight_text_uses_langchain_generator(self) -> None:
+        stock = load_ranked_stocks(self.sample_rankings)[0]
+
+        with patch(
+            "rag_insights.generate_with_langchain_agents",
+            return_value=GeneratedInsightBundle(
+                insight_text="reviewed langchain output",
+                key_points=["verified support"],
+                risk_points=["verified risk"],
+                confidence_score=0.8,
+                unsupported_claims=["removed claim"],
+                review_summary="review complete",
+            ),
+        ) as mock_generate:
+            insight_text = build_insight_text(
+                generator="langchain",
+                stock=stock,
+                evidence=[],
+                key_points=[],
+                risk_points=[],
+                model="gpt-4.1-mini",
+            )
+
+        self.assertEqual(insight_text, "reviewed langchain output")
+        mock_generate.assert_called_once()
+
+    def test_generate_insights_keeps_langchain_review_fields(self) -> None:
+        stocks = load_ranked_stocks(self.sample_rankings)[:1]
+
+        with patch(
+            "rag_insights.generate_with_langchain_agents",
+            return_value=GeneratedInsightBundle(
+                insight_text="reviewed langchain output",
+                key_points=["verified support"],
+                risk_points=["verified risk"],
+                confidence_score=0.75,
+                unsupported_claims=["removed claim"],
+                review_summary="review complete",
+            ),
+        ):
+            insights = generate_insights(
+                stocks=stocks,
+                retriever=self.retriever,
+                top_k=3,
+                generator="langchain",
+            )
+
+        self.assertEqual(len(insights), 1)
+        self.assertEqual(insights[0].insight, "reviewed langchain output")
+        self.assertEqual(insights[0].key_points, ["verified support"])
+        self.assertEqual(insights[0].risk_points, ["verified risk"])
+        self.assertAlmostEqual(insights[0].confidence_score or 0.0, 0.75, places=2)
+        self.assertEqual(insights[0].unsupported_claims, ["removed claim"])
+        self.assertEqual(insights[0].review_summary, "review complete")
 
 
 if __name__ == "__main__":
